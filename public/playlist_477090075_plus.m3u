@@ -1,0 +1,674 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 xui-id="433102" tvg-id="" tvg-name="GLOBO FORTALEZA HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO FORTALEZA HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9alYW0SS3djiU9MKlvCkxTE
+#EXTINF:-1 xui-id="433101" tvg-id="" tvg-name="GLOBO FORTALEZA 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO FORTALEZA 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fPEdwE3l16BwpCbY3DwHR8
+#EXTINF:-1 xui-id="433100" tvg-id="" tvg-name="GLOBO TERESINA HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO TERESINA HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9bEE_H9ZWftOEzrqHO31JuQ
+#EXTINF:-1 xui-id="433099" tvg-id="" tvg-name="GLOBO TERESINA 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO TERESINA 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9TYz0GdMGkmKjNaHlwjp7Ko
+#EXTINF:-1 xui-id="433098" tvg-id="" tvg-name="GLOBO BH HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO BH HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RngTaXgewf-l4AZ28VNRz4
+#EXTINF:-1 xui-id="433097" tvg-id="" tvg-name="GLOBO BH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO BH
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9frRjAJSF7AQD72mdAWnalI
+#EXTINF:-1 xui-id="433096" tvg-id="" tvg-name="GLOBO BELÉM HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO BELÉM HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9cX7ibvFh_-OsY5xyN1OX3Y
+#EXTINF:-1 xui-id="433095" tvg-id="" tvg-name="GLOBO BELÉM 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO BELÉM 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9XFDXPjQWrROo2TiOULmMqA
+#EXTINF:-1 xui-id="433094" tvg-id="" tvg-name="GLOBO BAHIA HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO BAHIA HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9W4PPLBZXgmVMS81XqqS6NY
+#EXTINF:-1 xui-id="433093" tvg-id="" tvg-name="GLOBO BAHIA  4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO BAHIA  4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9TZC4wig5OINS9FUA0HevlQ
+#EXTINF:-1 xui-id="433092" tvg-id="" tvg-name="GLOBO SAO PAULO HDR²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO SAO PAULO HDR²
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9evsGe6aM_do2z02HrAK4TI
+#EXTINF:-1 xui-id="433091" tvg-id="" tvg-name="GLOBO SAO PAULO HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO SAO PAULO HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9V2kSXoD6z0naqkqzBaHNE8
+#EXTINF:-1 xui-id="433090" tvg-id="" tvg-name="GLOBO SAO PAULO 4K²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO SAO PAULO 4K²
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9X3P7fZHagCP-NFjRPfqhyM
+#EXTINF:-1 xui-id="433089" tvg-id="" tvg-name="GLOBO SAO PAULO 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO SAO PAULO 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YQQSN1LKwnBP1zSc2HB870
+#EXTINF:-1 xui-id="433088" tvg-id="" tvg-name="GLOBO RJ HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO RJ HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9cies_zbw7PcFK5JLpyC3B4
+#EXTINF:-1 xui-id="433087" tvg-id="" tvg-name="GLOBO RJ 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO RJ 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RArOOcbKonOe2cC3TBApJQ
+#EXTINF:-1 xui-id="433086" tvg-id="" tvg-name="GLOBO RIU GRANDE DO NORTE HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO RIU GRANDE DO NORTE HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Rpv3a2xs7fxt92A6sF9NlA
+#EXTINF:-1 xui-id="433085" tvg-id="" tvg-name="GLOBO RIU GRANDE DO NORTE 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO RIU GRANDE DO NORTE 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9UKJ7A2jaG9pJIRfXgnDHq8
+#EXTINF:-1 xui-id="433084" tvg-id="" tvg-name="GLOBO RECIFE HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO RECIFE HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9URPW_le4qPW67qrUItbjKk
+#EXTINF:-1 xui-id="433083" tvg-id="" tvg-name="GLOBO RECIFE 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO RECIFE 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9bCt4vnP2DoSLLqVyd4ot10
+#EXTINF:-1 xui-id="433082" tvg-id="" tvg-name="GLOBO NORDESTE HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO NORDESTE HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Q3PwOzY6VK5HSaGUOwlKvM
+#EXTINF:-1 xui-id="433081" tvg-id="" tvg-name="GLOBO NORDESTE 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO NORDESTE 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9T56Dsd_Z1v9YRn5CQzjlZs
+#EXTINF:-1 xui-id="433080" tvg-id="" tvg-name="GLOBO CEARA HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO CEARA HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Q3t0pWec9wBPN8ikj0jfos
+#EXTINF:-1 xui-id="433079" tvg-id="" tvg-name="GLOBO CEARA 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO CEARA 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ZNe9zcsIUWvs0qd2Q_HLBQ
+#EXTINF:-1 xui-id="433078" tvg-id="" tvg-name="GLOBO MARANHÃO HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO MARANHÃO HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9QbBVapE6VI2exFdtLQq4JM
+#EXTINF:-1 xui-id="433077" tvg-id="" tvg-name="GLOBO MARANHÃO  4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO MARANHÃO  4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9VGKLwkaPKjj2tOYi27t3uc
+#EXTINF:-1 xui-id="433076" tvg-id="" tvg-name="GLOBO MINAS HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO MINAS HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9bJrlAUpK1eurej12NAVCD4
+#EXTINF:-1 xui-id="433075" tvg-id="" tvg-name="GLOBO MINAS 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO MINAS 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9S6Bz-_HPyqvCPg-YAexa-Y
+#EXTINF:-1 xui-id="433074" tvg-id="" tvg-name="GLOBO VALE HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO VALE HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9VT1z-B8Vv9r0evq7xT5m1Y
+#EXTINF:-1 xui-id="433073" tvg-id="" tvg-name="GLOBO VALE 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO VALE 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9cISWBtR3duRSGgKkLa5oTM
+#EXTINF:-1 xui-id="433072" tvg-id="" tvg-name="GLOBO CABUGI HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO CABUGI HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9bzmmzNIrssHSVdPYzlFeLc
+#EXTINF:-1 xui-id="433071" tvg-id="" tvg-name="GLOBO CABUGI 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO CABUGI 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9WV1JB1iKANch0bLv0FDXZg
+#EXTINF:-1 xui-id="433070" tvg-id="" tvg-name="GLOBO GOIÁS HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO GOIÁS HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dqQjU6LLfiOWkixlJoz-JU
+#EXTINF:-1 xui-id="433069" tvg-id="" tvg-name="GLOBO GOIÁS 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO GOIÁS 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fLiGQwAONZXkOwlWmZfBFY
+#EXTINF:-1 xui-id="433068" tvg-id="" tvg-name="GLOBO GOIÂNIA HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO GOIÂNIA HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YR2iIej9OoEFXie4vAvmTg
+#EXTINF:-1 xui-id="433067" tvg-id="" tvg-name="GLOBO GOIÂNIA 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO GOIÂNIA 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9bbT8cXWpFVt0YqzpLEJQc4
+#EXTINF:-1 xui-id="433066" tvg-id="" tvg-name="GLOBO CEARA  HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO CEARA  HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9byIMb5JV057dWcpF9UDhSs
+#EXTINF:-1 xui-id="433065" tvg-id="" tvg-name="GLOBO CEARA 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO CEARA 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9W8vLBUkIkaUL5_YrmzQULw
+#EXTINF:-1 xui-id="433064" tvg-id="" tvg-name="GLOBO BRASÍLIA HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO BRASÍLIA HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9bRC0I3MjS160tdjuGoTuO8
+#EXTINF:-1 xui-id="433063" tvg-id="" tvg-name="GLOBO BRASÍLIA 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO BRASÍLIA 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9UE1-jqA0V3glE8aQVQurus
+#EXTINF:-1 xui-id="432659" tvg-id="" tvg-name="GLOBO TV RIO SUL  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO TV RIO SUL  FHD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9elYw3ZeyMVJ-_8nMePlvug
+#EXTINF:-1 xui-id="432658" tvg-id="" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO TV RIO SUL HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9QVzBG752UM33bbo_CblmZA
+#EXTINF:-1 xui-id="432657" tvg-id="" tvg-name="GLOBO TV RIO SUL  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34K7AvGqBvPTMuuS_htGBl0Zzhbp_LBWM-1soLEz1trUO60xQJQv2Qxf0&s=10" group-title="CANAIS   GLOBO",GLOBO TV RIO SUL  SD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9aCirzi8O60pfiIOcUVY-nw
+#EXTINF:-1 xui-id="432772" tvg-id="" tvg-name="SBT MG HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT MG HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fYpdU4yI3LskrNvuhYRgNw
+#EXTINF:-1 xui-id="432771" tvg-id="" tvg-name="SBT TERESINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT TERESINA
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9XOXVYq4lhtb4uhGRMBcmTQ
+#EXTINF:-1 xui-id="432770" tvg-id="" tvg-name="SBT RS HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT RS HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9euokyKB2YeeNaKUcK-k0yg
+#EXTINF:-1 xui-id="432769" tvg-id="" tvg-name="SBT RS 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT RS 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9eyWYeKHj9TqAWQCSnenuU8
+#EXTINF:-1 xui-id="432768" tvg-id="" tvg-name="SBT ITAPOAN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT ITAPOAN HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9SmrcRZ7jFBnHyrfCBK0Zqk
+#EXTINF:-1 xui-id="432767" tvg-id="" tvg-name="SBT MARANHÃO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT MARANHÃO HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dFnFcg5WKpCqSh-DCP_Mz0
+#EXTINF:-1 xui-id="432766" tvg-id="" tvg-name="SBT PARÁ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT PARÁ HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9V7vNDp1te6q8dcovEvYn-4
+#EXTINF:-1 xui-id="432765" tvg-id="" tvg-name="SBT RJ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT RJ
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RS6gfUeFR8PhI7_Th-dI1E
+#EXTINF:-1 xui-id="432764" tvg-id="" tvg-name="SBT SP HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT SP HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YSVaeLMf-mG0Muba5V4sO4
+#EXTINF:-1 xui-id="432763" tvg-id="" tvg-name="SBT SP 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT SP 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9TUjfkvDi8gVd0tw4n37g6w
+#EXTINF:-1 xui-id="432762" tvg-id="" tvg-name="SBT GOIÁS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT GOIÁS HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9elYEH72kslUKJALBiqnRsI
+#EXTINF:-1 xui-id="432761" tvg-id="" tvg-name="SBT HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9c8lRdPwr49lKzdfedZVbuo
+#EXTINF:-1 xui-id="432760" tvg-id="" tvg-name="SBT 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ddt0z-bVyoQeqb6I-Ltp70
+#EXTINF:-1 xui-id="432759" tvg-id="" tvg-name="SBT CEARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT CEARA
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Rmh3kSgRGcCxB96UePIGgs
+#EXTINF:-1 xui-id="432758" tvg-id="" tvg-name="SBT BAHIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT BAHIA
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RxWppz-QKhwhFo3n3L-TWU
+#EXTINF:-1 xui-id="432757" tvg-id="" tvg-name="SBT SERRA DOURADA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT SERRA DOURADA
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9XYXQalhfj2z6csn85881Fs
+#EXTINF:-1 xui-id="432755" tvg-id="" tvg-name="SBT TV CIDADE VERDE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT TV CIDADE VERDE
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9aYVNt5Hyqgn5vby3X0kdSM
+#EXTINF:-1 xui-id="432754" tvg-id="" tvg-name="SBT REDE MASSA NAIPI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT REDE MASSA NAIPI HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RyARrn9c3dHaQllu0ID7pA
+#EXTINF:-1 xui-id="432753" tvg-id="" tvg-name="SBT REDE MASSA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuvgP8PoUv-iGcN5EvHkiLNlo9kQY9AavPQ&s" group-title="CANAIS  SBT",SBT REDE MASSA HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Ze2GkeT8oJOFx_CPx3a_sk
+#EXTINF:-1 xui-id="432871" tvg-id="" tvg-name="BAND HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-47MN6Dj_deIU1Xw1tKptsldNfFmSAlhIA&usqp=CAU" group-title="CANAIS    BAND",BAND HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YFnqQ-pUZuPTojaNFCLayg
+#EXTINF:-1 xui-id="432870" tvg-id="" tvg-name="BAND 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-47MN6Dj_deIU1Xw1tKptsldNfFmSAlhIA&usqp=CAU" group-title="CANAIS    BAND",BAND 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ecWq0lHrjhjpX66WmAeTGE
+#EXTINF:-1 xui-id="432869" tvg-id="" tvg-name="BAND PARAIBA  HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-47MN6Dj_deIU1Xw1tKptsldNfFmSAlhIA&usqp=CAU" group-title="CANAIS    BAND",BAND PARAIBA  HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9USnYfS9h3aTBtI9U2aYQSE
+#EXTINF:-1 xui-id="432868" tvg-id="" tvg-name="BAND RJ HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-47MN6Dj_deIU1Xw1tKptsldNfFmSAlhIA&usqp=CAU" group-title="CANAIS    BAND",BAND RJ HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ablNLr5ioLJMgAN4lsogPI
+#EXTINF:-1 xui-id="432867" tvg-id="" tvg-name="BAND RJ 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-47MN6Dj_deIU1Xw1tKptsldNfFmSAlhIA&usqp=CAU" group-title="CANAIS    BAND",BAND RJ 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9aby2aFPf2Gu1-3pEEOxZV0
+#EXTINF:-1 xui-id="432866" tvg-id="" tvg-name="BAND RS HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-47MN6Dj_deIU1Xw1tKptsldNfFmSAlhIA&usqp=CAU" group-title="CANAIS    BAND",BAND RS HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Tq_LmWeuAAdXi2JgsaX_K8
+#EXTINF:-1 xui-id="432865" tvg-id="" tvg-name="BAND RS 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-47MN6Dj_deIU1Xw1tKptsldNfFmSAlhIA&usqp=CAU" group-title="CANAIS    BAND",BAND RS 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Uwv0qhpOHdLiYOeBLBZaFA
+#EXTINF:-1 xui-id="432864" tvg-id="" tvg-name="BAND SP HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-47MN6Dj_deIU1Xw1tKptsldNfFmSAlhIA&usqp=CAU" group-title="CANAIS    BAND",BAND SP HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9UCEbPzBgaTu_IWzF5wt_ZA
+#EXTINF:-1 xui-id="432863" tvg-id="" tvg-name="BAND SP 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-47MN6Dj_deIU1Xw1tKptsldNfFmSAlhIA&usqp=CAU" group-title="CANAIS    BAND",BAND SP 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9TOp1lniLXpB-HyxjCGJoTQ
+#EXTINF:-1 xui-id="433036" tvg-id="" tvg-name="RECORD SAO PAULO HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD SAO PAULO HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YnWMbDYppviJEw1oQkogdA
+#EXTINF:-1 xui-id="433035" tvg-id="" tvg-name="RECORD SAO PAULO 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD SAO PAULO 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9a4Mf60WTrINh4z4eHolALM
+#EXTINF:-1 xui-id="433034" tvg-id="" tvg-name="RECORD PARANAIBA HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD PARANAIBA HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9cpabICiYjsvSDNk6D_AoL4
+#EXTINF:-1 xui-id="433033" tvg-id="" tvg-name="RECORD PARAIBA 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD PARAIBA 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9S9NpLmSNPSyLKf0xz4fZ-M
+#EXTINF:-1 xui-id="433032" tvg-id="" tvg-name="RECORD PARANÁ HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD PARANÁ HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9eLjIm-MZZHitrSUKLeyRB4
+#EXTINF:-1 xui-id="433031" tvg-id="" tvg-name="RECORD MINAS HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD MINAS HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9a2GLWQNMbPrE7iF9FhrxQA
+#EXTINF:-1 xui-id="433030" tvg-id="" tvg-name="RECORD MINAS 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD MINAS 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9VEqAyvfyWoM4zVwvxsQliM
+#EXTINF:-1 xui-id="433029" tvg-id="" tvg-name="RECORD MANAUS HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD MANAUS HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9c2b9kb6O6Ngn9WQqs0DeTg
+#EXTINF:-1 xui-id="433028" tvg-id="" tvg-name="RECORD MANAUS 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD MANAUS 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9UIOS9JmmhdMTc9yTC8vobo
+#EXTINF:-1 xui-id="433027" tvg-id="" tvg-name="RECORD TV HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD TV HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9d6Y57AeYWQn0Psfd0OhpoI
+#EXTINF:-1 xui-id="433026" tvg-id="" tvg-name="RECORD TV 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD TV 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YmuJ_KJ0oS2qihxrIt4FZ4
+#EXTINF:-1 xui-id="433025" tvg-id="" tvg-name="RECORD GOIÁS HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD GOIÁS HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9SpM0gUN-_fUucjnv4peANo
+#EXTINF:-1 xui-id="433024" tvg-id="" tvg-name="RECORD GOIÁS 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD GOIÁS 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9WLSRAdwciWrS7rqet7kftU
+#EXTINF:-1 xui-id="433023" tvg-id="" tvg-name="RECORD BRASÍLIA HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD BRASÍLIA HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9f33dYJ82Grx2-csw9VPwi0
+#EXTINF:-1 xui-id="433022" tvg-id="" tvg-name="RECORD BRASÍLIA  4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD BRASÍLIA  4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YBVh70g4i8vwQ0KT_7si2I
+#EXTINF:-1 xui-id="433021" tvg-id="" tvg-name="RECORD BELÉM HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD BELÉM HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9X69CLZejCsvDjlfklAo90w
+#EXTINF:-1 xui-id="433020" tvg-id="" tvg-name="RECORD BELÉM 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD BELÉM 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9d-JKqm5uKGFIUsol-vqz1E
+#EXTINF:-1 xui-id="433019" tvg-id="" tvg-name="RECORD BAHIA  HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD BAHIA  HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9WSg8a6vGiUwLdOcSGNnzKs
+#EXTINF:-1 xui-id="433018" tvg-id="" tvg-name="RECORD BAHIA 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q8f3O-OphoRZ17ATXyNw4-arY6GAw0UVNGkzwGMv0lVzO3cRLbRMJJ4&s=10" group-title="CANAIS    RECORD TV",RECORD BAHIA 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RIp4BG3G1UsyGxGRCRPTX8
+#EXTINF:-1 xui-id="432880" tvg-id="" tvg-name="JP NEWS HDR" tvg-logo="" group-title="CANAIS    JORNALISMO",JP NEWS HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YnosdaJTYyvOoYcECJpNZg
+#EXTINF:-1 xui-id="432879" tvg-id="" tvg-name="JP NEWS 4K" tvg-logo="" group-title="CANAIS    JORNALISMO",JP NEWS 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9QPfGWeZiAEhKJAg_BEUXkg
+#EXTINF:-1 xui-id="432878" tvg-id="" tvg-name="GLOBO NEWS HDR" tvg-logo="" group-title="CANAIS    JORNALISMO",GLOBO NEWS HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YD0i0CBIKy2a0xxV1ck1yg
+#EXTINF:-1 xui-id="432877" tvg-id="" tvg-name="GLOBO NEWS 4k" tvg-logo="" group-title="CANAIS    JORNALISMO",GLOBO NEWS 4k
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9a529RpQtxqYfnOVdXHW26c
+#EXTINF:-1 xui-id="432876" tvg-id="" tvg-name="BAND NEW HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-47MN6Dj_deIU1Xw1tKptsldNfFmSAlhIA&usqp=CAU" group-title="CANAIS    JORNALISMO",BAND NEW HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Yr1cKdshU8UPhIdutlINeA
+#EXTINF:-1 xui-id="432875" tvg-id="" tvg-name="BAND NEW 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-47MN6Dj_deIU1Xw1tKptsldNfFmSAlhIA&usqp=CAU" group-title="CANAIS    JORNALISMO",BAND NEW 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9amMutj0daXQvWQZU0wyEjI
+#EXTINF:-1 xui-id="432874" tvg-id="" tvg-name="CNN INTERNACIONAL HDR" tvg-logo="" group-title="CANAIS    JORNALISMO",CNN INTERNACIONAL HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dg7sGXtYmw58VleF7vqg50
+#EXTINF:-1 xui-id="432873" tvg-id="" tvg-name="CNN BRASIL HDR" tvg-logo="" group-title="CANAIS    JORNALISMO",CNN BRASIL HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dfmifAAH8RYpRzwmjhDbs0
+#EXTINF:-1 xui-id="432872" tvg-id="" tvg-name="CNN BRASIL 4K" tvg-logo="" group-title="CANAIS    JORNALISMO",CNN BRASIL 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dA0yNhAmrtqkpb-e6mfkFI
+#EXTINF:-1 xui-id="432720" tvg-id="" tvg-name="TLC HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNo07DlQ2LRM-Ic4NRTtGrLAswcHBtvrKTVQ&s" group-title="CANAIS   DOCUMENTÁRIO",TLC HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9W7QlGyNxoDoTCKG8IqXxso
+#EXTINF:-1 xui-id="432719" tvg-id="" tvg-name="TLC 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNo07DlQ2LRM-Ic4NRTtGrLAswcHBtvrKTVQ&s" group-title="CANAIS   DOCUMENTÁRIO",TLC 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fd-ZHYZxo_iclXAzVbZatI
+#EXTINF:-1 xui-id="432718" tvg-id="" tvg-name="NATIONAL GEOGRÁFICO HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhd-ZtKV8ezoF43UTWf_nAkyrZzAnV_Q56QIQNZirMUBZ4ubRONICbVL3i&s=10" group-title="CANAIS   DOCUMENTÁRIO",NATIONAL GEOGRÁFICO HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Qv_ivmd0KJmkbaVm5glrug
+#EXTINF:-1 xui-id="432717" tvg-id="" tvg-name="NATIONAL GEOGRÁFICO 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhd-ZtKV8ezoF43UTWf_nAkyrZzAnV_Q56QIQNZirMUBZ4ubRONICbVL3i&s=10" group-title="CANAIS   DOCUMENTÁRIO",NATIONAL GEOGRÁFICO 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YmMKSFXngX2nleE4_uFKNU
+#EXTINF:-1 xui-id="432716" tvg-id="" tvg-name="HISTORY HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLw8Buh_3zNZn-hS_cJQYz1rs7DdxLQaf1Qg&s" group-title="CANAIS   DOCUMENTÁRIO",HISTORY HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9TrHEilJOlCqr0cRh5dR6xU
+#EXTINF:-1 xui-id="432715" tvg-id="" tvg-name="HISTORY  4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLw8Buh_3zNZn-hS_cJQYz1rs7DdxLQaf1Qg&s" group-title="CANAIS   DOCUMENTÁRIO",HISTORY  4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9UT1uuMdVu-6UO1u9-hmWwg
+#EXTINF:-1 xui-id="432714" tvg-id="" tvg-name="HISTORY H2 HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbT3kXWL83VZ8a3wiANH7rpLjId-U2WDfSyw&usqp=CAU" group-title="CANAIS   DOCUMENTÁRIO",HISTORY H2 HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ZJotCgMlWckRLi99_JtH-U
+#EXTINF:-1 xui-id="432713" tvg-id="" tvg-name="HISTORY H2 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbT3kXWL83VZ8a3wiANH7rpLjId-U2WDfSyw&usqp=CAU" group-title="CANAIS   DOCUMENTÁRIO",HISTORY H2 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9SOCO0A-ZRIpweg3uzxWO9c
+#EXTINF:-1 xui-id="432712" tvg-id="" tvg-name="FISH TV HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIK0wfSk-bu5bbXyDq8AKSPd0FADAIMyQKQ&s" group-title="CANAIS   DOCUMENTÁRIO",FISH TV HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9cPO0cqPiihOFiohlcUp7f4
+#EXTINF:-1 xui-id="432711" tvg-id="" tvg-name="FISH TV 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIK0wfSk-bu5bbXyDq8AKSPd0FADAIMyQKQ&s" group-title="CANAIS   DOCUMENTÁRIO",FISH TV 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9VrT6J3Oa6pj0mpWpv32c_A
+#EXTINF:-1 xui-id="432710" tvg-id="" tvg-name="DISCOVERY ID HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLD5nsCLjUbHddfGituolZ42vlZyUOfocIMg&s" group-title="CANAIS   DOCUMENTÁRIO",DISCOVERY ID HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9b9jOJINREWZlWwRhg6rEdM
+#EXTINF:-1 xui-id="432709" tvg-id="" tvg-name="DISCOVERY ID 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLD5nsCLjUbHddfGituolZ42vlZyUOfocIMg&s" group-title="CANAIS   DOCUMENTÁRIO",DISCOVERY ID 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Vm7TK8X7IimxZ32TIVN258
+#EXTINF:-1 xui-id="432708" tvg-id="" tvg-name="DISCOVERY THEATER HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2AakaJVcDDG0cr_0pVr27nrQ4DlnA3C2hJA&usqp=CAU" group-title="CANAIS   DOCUMENTÁRIO",DISCOVERY THEATER HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9atJ4KoZrcsJ_qW_XQycoW8
+#EXTINF:-1 xui-id="432707" tvg-id="" tvg-name="DISCOVERY THEATER 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2AakaJVcDDG0cr_0pVr27nrQ4DlnA3C2hJA&usqp=CAU" group-title="CANAIS   DOCUMENTÁRIO",DISCOVERY THEATER 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9WAJGYsoolwyP6H2DvwTwp4
+#EXTINF:-1 xui-id="432706" tvg-id="" tvg-name="DISCOVERY WORLD HDR" tvg-logo="http://51.15.183.107:80/images/ZFv768A9VJh0UpuaG-dBqm-dvCFZjlfSqRcwAGJ9Yw5Im5rJHwV56Rkoi60GLwuCU5VEERl7LqhttvZfgVrN5Arfc0gmnaRRAX2dazKe8qfl97W2xzJ5r0blpeEC5d4e.png" group-title="CANAIS   DOCUMENTÁRIO",DISCOVERY WORLD HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fhOFRLleeREa7BUDcsRs3Q
+#EXTINF:-1 xui-id="432705" tvg-id="" tvg-name="DISCOVERY WORLD 4K" tvg-logo="http://51.15.183.107:80/images/ZFv768A9VJh0UpuaG-dBqm-dvCFZjlfSqRcwAGJ9Yw5Im5rJHwV56Rkoi60GLwuCU5VEERl7LqhttvZfgVrN5Arfc0gmnaRRAX2dazKe8qfl97W2xzJ5r0blpeEC5d4e.png" group-title="CANAIS   DOCUMENTÁRIO",DISCOVERY WORLD 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9bDF5lAQG9bqd3r_XyVRj9M
+#EXTINF:-1 xui-id="432704" tvg-id="" tvg-name="DISCOVERY TURBO HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJpDAQtLQ8jdfnYG4oFJRFqolh7vEemfvsQ&s" group-title="CANAIS   DOCUMENTÁRIO",DISCOVERY TURBO HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9cuELjrvc2aL-IusKJdJvdY
+#EXTINF:-1 xui-id="432703" tvg-id="" tvg-name="DISCOVERY TURBO 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJpDAQtLQ8jdfnYG4oFJRFqolh7vEemfvsQ&s" group-title="CANAIS   DOCUMENTÁRIO",DISCOVERY TURBO 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9SzcBrnFcAO4qC7RxrEBpIg
+#EXTINF:-1 xui-id="432702" tvg-id="" tvg-name="DISCOVERY SCIENCE HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5oWv4691v4KCJmTbUk759yKnCjTg22bUeiRWgGi2x3u0PJRQN-VAPGqY&s=10" group-title="CANAIS   DOCUMENTÁRIO",DISCOVERY SCIENCE HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9cudV8BhcxhptqQ_atFQqF0
+#EXTINF:-1 xui-id="432701" tvg-id="" tvg-name="DISCOVERY SCIENCE 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5oWv4691v4KCJmTbUk759yKnCjTg22bUeiRWgGi2x3u0PJRQN-VAPGqY&s=10" group-title="CANAIS   DOCUMENTÁRIO",DISCOVERY SCIENCE 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fjn9Ji-mNuBmAkZd4bZ7zw
+#EXTINF:-1 xui-id="432700" tvg-id="" tvg-name="DISCOVERY H&H HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7P0CFjFnWKzA_AvhUgJMl1zDw8JCqq8b-XA&usqp=CAU" group-title="CANAIS   DOCUMENTÁRIO",DISCOVERY H&H HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RIZ6HG0cipP8KQQRxwu93A
+#EXTINF:-1 xui-id="432699" tvg-id="" tvg-name="DISCOVERY H&H 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7P0CFjFnWKzA_AvhUgJMl1zDw8JCqq8b-XA&usqp=CAU" group-title="CANAIS   DOCUMENTÁRIO",DISCOVERY H&H 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9VpRbdktGuHen1cq0LzzXGs
+#EXTINF:-1 xui-id="432698" tvg-id="" tvg-name="DISCOVERY CHANNEL HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGWk8L6w_3o9-DODI3sbwbCGAd4pM7asgbw&s" group-title="CANAIS   DOCUMENTÁRIO",DISCOVERY CHANNEL HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fSFDfC-jOXrtg2P3vdH1sY
+#EXTINF:-1 xui-id="432697" tvg-id="" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGWk8L6w_3o9-DODI3sbwbCGAd4pM7asgbw&s" group-title="CANAIS   DOCUMENTÁRIO",DISCOVERY CHANNEL 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9UZDKEkHaVC8LncymVnWsZA
+#EXTINF:-1 xui-id="432696" tvg-id="" tvg-name="ANIMAL PLANET HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1g56KcEh44Ly6iBQ-GRJCOXLNPb7isuCX1w&usqp=CAU" group-title="CANAIS   DOCUMENTÁRIO",ANIMAL PLANET HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9W8H5H8AFIuXl0K-n9J8Fs8
+#EXTINF:-1 xui-id="432695" tvg-id="" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1g56KcEh44Ly6iBQ-GRJCOXLNPb7isuCX1w&usqp=CAU" group-title="CANAIS   DOCUMENTÁRIO",ANIMAL PLANET 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dpS72fePDypTWNJGpwH0wE
+#EXTINF:-1 xui-id="432904" tvg-id="" tvg-name="TV RÁ TIM BUM HDR" tvg-logo="" group-title="CANAIS    INFANTIL",TV RÁ TIM BUM HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9REG6LC2UnzHavAgEQGMDLc
+#EXTINF:-1 xui-id="432903" tvg-id="" tvg-name="TV RÁ TIM BUM 4K" tvg-logo="" group-title="CANAIS    INFANTIL",TV RÁ TIM BUM 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9TI5an6Nm3LhAlRaaqiICHo
+#EXTINF:-1 xui-id="432902" tvg-id="" tvg-name="TOONCAST HDR" tvg-logo="" group-title="CANAIS    INFANTIL",TOONCAST HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fQFqKT67e3s3KyDxZ9onS8
+#EXTINF:-1 xui-id="432901" tvg-id="" tvg-name="TOONCAST 4K" tvg-logo="" group-title="CANAIS    INFANTIL",TOONCAST 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9bqqTrquECfioHEJwFelfm8
+#EXTINF:-1 xui-id="432900" tvg-id="" tvg-name="NICKELODEON HDR" tvg-logo="" group-title="CANAIS    INFANTIL",NICKELODEON HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ZPu78ZuzhK-pzR7sx55CC4
+#EXTINF:-1 xui-id="432899" tvg-id="" tvg-name="NICKELODEON 4K" tvg-logo="" group-title="CANAIS    INFANTIL",NICKELODEON 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YxJnElhhMT8qVw2Pq0zpzM
+#EXTINF:-1 xui-id="432898" tvg-id="" tvg-name="NICK JR HDR" tvg-logo="" group-title="CANAIS    INFANTIL",NICK JR HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fCSYySfXo9i2_zX-PVWRzs
+#EXTINF:-1 xui-id="432897" tvg-id="" tvg-name="NICK JR 4K" tvg-logo="" group-title="CANAIS    INFANTIL",NICK JR 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Xk2Su6mOAjQcMKVLxcdjLY
+#EXTINF:-1 xui-id="432896" tvg-id="" tvg-name="GLOOBINHO HDR" tvg-logo="" group-title="CANAIS    INFANTIL",GLOOBINHO HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9VbbxLpAzGyqZIt1HBatKFk
+#EXTINF:-1 xui-id="432895" tvg-id="" tvg-name="GLOOBINHO 4K" tvg-logo="" group-title="CANAIS    INFANTIL",GLOOBINHO 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Y5cD9MpnnrPQqwE7cz0K_w
+#EXTINF:-1 xui-id="432894" tvg-id="" tvg-name="GLOOB HDR" tvg-logo="" group-title="CANAIS    INFANTIL",GLOOB HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9eZ5HrCAPE4xDqJmoJdAkQc
+#EXTINF:-1 xui-id="432893" tvg-id="" tvg-name="GLOOB 4K" tvg-logo="" group-title="CANAIS    INFANTIL",GLOOB 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9bUM4wqaBixuVxjCBMLZf-M
+#EXTINF:-1 xui-id="432892" tvg-id="" tvg-name="DISNEY CHANNEL HDR" tvg-logo="" group-title="CANAIS    INFANTIL",DISNEY CHANNEL HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9f9j_n2cnS6xVHQ23uDLqSA
+#EXTINF:-1 xui-id="432891" tvg-id="" tvg-name="DISNEY CHANNEL 4K" tvg-logo="" group-title="CANAIS    INFANTIL",DISNEY CHANNEL 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9a5nHP8sUUyzTnwRxAk0Njo
+#EXTINF:-1 xui-id="432890" tvg-id="" tvg-name="DISCOVERY KIDS HDR" tvg-logo="" group-title="CANAIS    INFANTIL",DISCOVERY KIDS HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RLgAFzVPYnADeRyWCqn6Kw
+#EXTINF:-1 xui-id="432889" tvg-id="" tvg-name="DISCOVERY KIDS 4K" tvg-logo="" group-title="CANAIS    INFANTIL",DISCOVERY KIDS 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9XEtJtk_LgNBHd3IEKn3npA
+#EXTINF:-1 xui-id="432888" tvg-id="" tvg-name="CARTOONITO HDR" tvg-logo="" group-title="CANAIS    INFANTIL",CARTOONITO HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9QuFIRDs6w-NK8n8E54qGhU
+#EXTINF:-1 xui-id="432887" tvg-id="" tvg-name="CARTOONITO 4K" tvg-logo="" group-title="CANAIS    INFANTIL",CARTOONITO 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9TiVdKm9DEPU6wmCbcN5Pv0
+#EXTINF:-1 xui-id="432886" tvg-id="" tvg-name="CARTON NETWORK HDR" tvg-logo="" group-title="CANAIS    INFANTIL",CARTON NETWORK HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9UlvMNT4nMxAfggyR5JOoe0
+#EXTINF:-1 xui-id="432885" tvg-id="" tvg-name="CARTON NETWORK 4K" tvg-logo="" group-title="CANAIS    INFANTIL",CARTON NETWORK 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Qk5Om5j0lNm_A-8wSYeB08
+#EXTINF:-1 xui-id="432884" tvg-id="" tvg-name="BOOMERANG  HDR" tvg-logo="" group-title="CANAIS    INFANTIL",BOOMERANG  HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ZrgSJ4JQARM5ls3vveX8MM
+#EXTINF:-1 xui-id="432883" tvg-id="" tvg-name="BOOMERANG 4K" tvg-logo="" group-title="CANAIS    INFANTIL",BOOMERANG 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9d-AdmFI1rAxa9nHNrXBsWs
+#EXTINF:-1 xui-id="432882" tvg-id="" tvg-name="BABY TV  HDR" tvg-logo="" group-title="CANAIS    INFANTIL",BABY TV  HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9QKDyN2ENx9AXQFBLb_wkQY
+#EXTINF:-1 xui-id="432881" tvg-id="" tvg-name="BABY TV 4K" tvg-logo="" group-title="CANAIS    INFANTIL",BABY TV 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dopfDtvXQ9Esm3gk90vitI
+#EXTINF:-1 xui-id="432818" tvg-id="" tvg-name="WARNER HDR" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",WARNER HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9bwMQkV9xRbSb6yir-lALIw
+#EXTINF:-1 xui-id="432817" tvg-id="" tvg-name="WARNER 4K" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",WARNER 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Rkbu9qRSAgW7E2lwWtPLU8
+#EXTINF:-1 xui-id="432816" tvg-id="" tvg-name="UNIVERSAL HDR" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",UNIVERSAL HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YB9DMfJgP6eCqLKLj11WE8
+#EXTINF:-1 xui-id="432815" tvg-id="" tvg-name="UNIVERSAL 4K" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",UNIVERSAL 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9bOvmtGp9UuRl183RAH_z-c
+#EXTINF:-1 xui-id="432814" tvg-id="" tvg-name="TNT SERIES  HDR" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",TNT SERIES  HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RC8jqJWcDGfC37iDQEzpIs
+#EXTINF:-1 xui-id="432813" tvg-id="" tvg-name="TNT SERIES 4K" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",TNT SERIES 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fPLXnS8j9zoT3bv27VFpFc
+#EXTINF:-1 xui-id="432812" tvg-id="" tvg-name="TNT NOVELAS HDR" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",TNT NOVELAS HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9WWYUIBH4NPyzLMAZYChGbg
+#EXTINF:-1 xui-id="432811" tvg-id="" tvg-name="TNT NOVELAS 4K" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",TNT NOVELAS 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ex2Dunq7RmXj4f9KgwRhR0
+#EXTINF:-1 xui-id="432810" tvg-id="" tvg-name="TNT HDR" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",TNT HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9WZeiGH9tq9p79kPCbsbyuA
+#EXTINF:-1 xui-id="432809" tvg-id="" tvg-name="TNT 4K" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",TNT 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9e293vDzkZFv8-uUR9jdooM
+#EXTINF:-1 xui-id="432808" tvg-id="" tvg-name="STUDIO UNIVERSAL HDR" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",STUDIO UNIVERSAL HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9TEZYW65EkGPz4k1M3SLWf8
+#EXTINF:-1 xui-id="432807" tvg-id="" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",STUDIO UNIVERSAL 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ToaRMohENbMwQ-PlyIl4Pg
+#EXTINF:-1 xui-id="432806" tvg-id="" tvg-name="STAR CHANNEL HDR" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",STAR CHANNEL HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9TLqDdCnSH3Lqndj8bYb0Xs
+#EXTINF:-1 xui-id="432805" tvg-id="" tvg-name="STAR CHANNEL 4K" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",STAR CHANNEL 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dNhTApd6QMHAlSgQVjoZPo
+#EXTINF:-1 xui-id="432804" tvg-id="" tvg-name="SPACE HDR" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",SPACE HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9SiKkqbG13Dfi-6cKpF8jMI
+#EXTINF:-1 xui-id="432803" tvg-id="" tvg-name="SPACE 4K" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",SPACE 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9VG8g2Vc_4UShVbBHPnwEH0
+#EXTINF:-1 xui-id="432802" tvg-id="" tvg-name="PARAMOUNT HDR" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",PARAMOUNT HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9cRN_Cr3RmnsQtRQmYWYdyY
+#EXTINF:-1 xui-id="432801" tvg-id="" tvg-name="PARAMOUNT 4K" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",PARAMOUNT 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YmfKYrnEaSYfJ6pBTt4dls
+#EXTINF:-1 xui-id="432800" tvg-id="" tvg-name="MEGAPIX HDR" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",MEGAPIX HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9cOjjNOU_xPXVDgDg9PdjDQ
+#EXTINF:-1 xui-id="432799" tvg-id="" tvg-name="MEGAPIX 4K" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",MEGAPIX 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RYSYP1e-2T8aKzTde2yr8w
+#EXTINF:-1 xui-id="432798" tvg-id="" tvg-name="FX HDR" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",FX HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Zs0BXaibzvdVmmbTASVf5U
+#EXTINF:-1 xui-id="432797" tvg-id="" tvg-name="FX 4K" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",FX 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ZMpv5ZKZRM0tAc4DcNdwqY
+#EXTINF:-1 xui-id="432796" tvg-id="" tvg-name="CINEMAX HDR" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",CINEMAX HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9SVMoZ1NQR8B4DzB354j5sQ
+#EXTINF:-1 xui-id="432795" tvg-id="" tvg-name="CINEMAX 4K" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",CINEMAX 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9UOu2aIjsc_Dr8_VD_-fIKA
+#EXTINF:-1 xui-id="432794" tvg-id="" tvg-name="AXN HDR" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",AXN HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ecl8mKFr75fy5uam_XnkFM
+#EXTINF:-1 xui-id="432793" tvg-id="" tvg-name="AXN 4K" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",AXN 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9QfgVNRGbR7WkUK29JYXiYU
+#EXTINF:-1 xui-id="432792" tvg-id="" tvg-name="AMC HDR" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",AMC HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YKhJhSJTjeMGsYeJPL_IfE
+#EXTINF:-1 xui-id="432791" tvg-id="" tvg-name="AMC 4k" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",AMC 4k
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ZpdQN3WrWzQOTUKOcZ2-0w
+#EXTINF:-1 xui-id="432790" tvg-id="" tvg-name="A&E HDR" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",A&E HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dIqnfqdGvLglD4-l1S8kJ8
+#EXTINF:-1 xui-id="432789" tvg-id="" tvg-name="A&E 4K" tvg-logo="" group-title="CANAIS   FILMES & SÉRIES",A&E 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dkiXcbJuqaElfmA9YHfOFI
+#EXTINF:-1 xui-id="432862" tvg-id="" tvg-name="HBO XTREME HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO XTREME HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dJPygZ30ArqjlDFLm16YCQ
+#EXTINF:-1 xui-id="432861" tvg-id="" tvg-name="HBO XTREME 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO XTREME 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dglV1X5CmTwSCMukysgvVc
+#EXTINF:-1 xui-id="432860" tvg-id="" tvg-name="HBO SIGNATURE HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO SIGNATURE HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9W_RaxMeE6e5L0AtnTWylrs
+#EXTINF:-1 xui-id="432859" tvg-id="" tvg-name="HBO SIGNATURE 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO SIGNATURE 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9WKeUpx-xFj3bFiOoE-V7hA
+#EXTINF:-1 xui-id="432858" tvg-id="" tvg-name="HBO POP HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO POP HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9eqbxGySm7PM4bfMVDavOqk
+#EXTINF:-1 xui-id="432857" tvg-id="" tvg-name="HBO POP 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO POP 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RgM-bk9NKwwztuqFlbF8Xo
+#EXTINF:-1 xui-id="432856" tvg-id="" tvg-name="HBO PLUS HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO PLUS HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RHQvcwIchmTvcbDim9INx0
+#EXTINF:-1 xui-id="432855" tvg-id="" tvg-name="HBO PLUS 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO PLUS 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dDpOz8m97vxQ1q9vPBe35Y
+#EXTINF:-1 xui-id="432854" tvg-id="" tvg-name="HBO MUNDI HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO MUNDI HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ZWGW4zYZqwOtCVOXmKGlYE
+#EXTINF:-1 xui-id="432853" tvg-id="" tvg-name="HBO MUNDI  4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO MUNDI  4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9TTIiQicdoPs2AWVLjUxiYU
+#EXTINF:-1 xui-id="432852" tvg-id="" tvg-name="HBO FAMILIY HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO FAMILIY HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9b1jvjjLR_nTtAgTJv693pY
+#EXTINF:-1 xui-id="432851" tvg-id="" tvg-name="HBO FAMILIY 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO FAMILIY 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9UbhEtr0EiQIGZScpHykcnc
+#EXTINF:-1 xui-id="432850" tvg-id="" tvg-name="HBO2  HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO2  HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9cXvaRJuxryQsQPufELx3WA
+#EXTINF:-1 xui-id="432849" tvg-id="" tvg-name="HBO 2 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO 2 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9bVifMmtLrGyDBetQZ_TdTs
+#EXTINF:-1 xui-id="432848" tvg-id="" tvg-name="HBO+ HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO+ HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9eRP7jM_Umzsu4Ej7tDluHw
+#EXTINF:-1 xui-id="432847" tvg-id="" tvg-name="HBO+ 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO+ 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9eAjOUZed7lm5q7hDe-FCa0
+#EXTINF:-1 xui-id="432846" tvg-id="" tvg-name="HBO HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9VeZ0akmx2iRnKClKBwTZKg
+#EXTINF:-1 xui-id="432845" tvg-id="" tvg-name="HBO 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb6ukUv3dkByQNmghhemyDS8qyeiEj4PKNQ&usqp=CAU" group-title="CANAIS  HBO",HBO 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Rx20Z6FMVPrRSfoEVZ_-VI
+#EXTINF:-1 xui-id="432732" tvg-id="" tvg-name="TELECINE FUN HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6kZPqmxQwcbN3mlubRee3luo_W7OcOmSj6wEWnxcAadHlF-QP_n1QarNA&s=10" group-title="CANAIS  TELECINE",TELECINE FUN HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9e_dzaJFv2x4bJUOznuOrIg
+#EXTINF:-1 xui-id="432731" tvg-id="" tvg-name="TELECINE FUN 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6kZPqmxQwcbN3mlubRee3luo_W7OcOmSj6wEWnxcAadHlF-QP_n1QarNA&s=10" group-title="CANAIS  TELECINE",TELECINE FUN 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dtEH-bAZX3wRLlwVoA2tww
+#EXTINF:-1 xui-id="432730" tvg-id="" tvg-name="TELECINE TOUCH HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6kZPqmxQwcbN3mlubRee3luo_W7OcOmSj6wEWnxcAadHlF-QP_n1QarNA&s=10" group-title="CANAIS  TELECINE",TELECINE TOUCH HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fVRciZoZhbUPN4twLVWZHA
+#EXTINF:-1 xui-id="432729" tvg-id="" tvg-name="TELECINE TOUCH 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6kZPqmxQwcbN3mlubRee3luo_W7OcOmSj6wEWnxcAadHlF-QP_n1QarNA&s=10" group-title="CANAIS  TELECINE",TELECINE TOUCH 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9aAJeXnV5j-lZZobZhRq9-8
+#EXTINF:-1 xui-id="432728" tvg-id="" tvg-name="TELECINE PREMIUM HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6kZPqmxQwcbN3mlubRee3luo_W7OcOmSj6wEWnxcAadHlF-QP_n1QarNA&s=10" group-title="CANAIS  TELECINE",TELECINE PREMIUM HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YgSm4RJFtgkI-x4aTC3XbY
+#EXTINF:-1 xui-id="432727" tvg-id="" tvg-name="TELECINE PREMIUM 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6kZPqmxQwcbN3mlubRee3luo_W7OcOmSj6wEWnxcAadHlF-QP_n1QarNA&s=10" group-title="CANAIS  TELECINE",TELECINE PREMIUM 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Zz7cgCKXg1NRJ0mT9SdKOE
+#EXTINF:-1 xui-id="432726" tvg-id="" tvg-name="TELECINE PIPOCA HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6kZPqmxQwcbN3mlubRee3luo_W7OcOmSj6wEWnxcAadHlF-QP_n1QarNA&s=10" group-title="CANAIS  TELECINE",TELECINE PIPOCA HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9f0tXYhVmAseGcUAfkZ2Saw
+#EXTINF:-1 xui-id="432725" tvg-id="" tvg-name="TELECINE PIPOCA 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6kZPqmxQwcbN3mlubRee3luo_W7OcOmSj6wEWnxcAadHlF-QP_n1QarNA&s=10" group-title="CANAIS  TELECINE",TELECINE PIPOCA 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9S0ULvxaTEjMm1lnF_3kMTg
+#EXTINF:-1 xui-id="432724" tvg-id="" tvg-name="TELECINE CULT HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6kZPqmxQwcbN3mlubRee3luo_W7OcOmSj6wEWnxcAadHlF-QP_n1QarNA&s=10" group-title="CANAIS  TELECINE",TELECINE CULT HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RMkQ_QWIyKw81REkn9CsdA
+#EXTINF:-1 xui-id="432723" tvg-id="" tvg-name="TELECINE CULT 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6kZPqmxQwcbN3mlubRee3luo_W7OcOmSj6wEWnxcAadHlF-QP_n1QarNA&s=10" group-title="CANAIS  TELECINE",TELECINE CULT 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9efT4PKDxEObxgJHq5IFPjY
+#EXTINF:-1 xui-id="432722" tvg-id="" tvg-name="TELECINE ACTION  HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6kZPqmxQwcbN3mlubRee3luo_W7OcOmSj6wEWnxcAadHlF-QP_n1QarNA&s=10" group-title="CANAIS  TELECINE",TELECINE ACTION  HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9QuSFshmnEfjRjliTVKrBpE
+#EXTINF:-1 xui-id="432721" tvg-id="" tvg-name="TELECINE ACTION 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6kZPqmxQwcbN3mlubRee3luo_W7OcOmSj6wEWnxcAadHlF-QP_n1QarNA&s=10" group-title="CANAIS  TELECINE",TELECINE ACTION 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Uxm1RO1NRNdKRPnXlh4cPU
+#EXTINF:-1 xui-id="432844" tvg-id="" tvg-name="VIVA HDR" tvg-logo="" group-title="CANAIS   VARIEDADES",VIVA HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9f2kRSi_yBCwn-qn51s2--c
+#EXTINF:-1 xui-id="432843" tvg-id="" tvg-name="VIVA 4K" tvg-logo="" group-title="CANAIS   VARIEDADES",VIVA 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9b1LGMe9fKcnl-6BiuIQWzI
+#EXTINF:-1 xui-id="432842" tvg-id="" tvg-name="MULTISHOW HDR" tvg-logo="" group-title="CANAIS   VARIEDADES",MULTISHOW HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ZeiCmJ1efmwT_Oqrs0ZIKQ
+#EXTINF:-1 xui-id="432841" tvg-id="" tvg-name="MULTISHOW 4K" tvg-logo="" group-title="CANAIS   VARIEDADES",MULTISHOW 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9TirSaaKpB698ZanpN9usYw
+#EXTINF:-1 xui-id="432840" tvg-id="" tvg-name="MTV HDR" tvg-logo="" group-title="CANAIS   VARIEDADES",MTV HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YwoJ2mshU4n9Ng9X0WpA8k
+#EXTINF:-1 xui-id="432839" tvg-id="" tvg-name="MTV 4K" tvg-logo="" group-title="CANAIS   VARIEDADES",MTV 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9au4tPZtRFhfqOM-DL5Habs
+#EXTINF:-1 xui-id="432838" tvg-id="" tvg-name="MODO VIAGEM HDR" tvg-logo="" group-title="CANAIS   VARIEDADES",MODO VIAGEM HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9WNXSPWA67McXisuztnwn54
+#EXTINF:-1 xui-id="432837" tvg-id="" tvg-name="MODO VIAGEM 4K" tvg-logo="" group-title="CANAIS   VARIEDADES",MODO VIAGEM 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YfatADBaFiJ1SDezRZdh70
+#EXTINF:-1 xui-id="432836" tvg-id="" tvg-name="LIFETIME HDR" tvg-logo="" group-title="CANAIS   VARIEDADES",LIFETIME HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9W0xFkJw34VG1CMNAZoD3kw
+#EXTINF:-1 xui-id="432835" tvg-id="" tvg-name="LIFETIME 4K" tvg-logo="" group-title="CANAIS   VARIEDADES",LIFETIME 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9T3IokK3zUqeGaiH3_W27EQ
+#EXTINF:-1 xui-id="432834" tvg-id="" tvg-name="HGTV HDR" tvg-logo="" group-title="CANAIS   VARIEDADES",HGTV HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dWAdMJL-sgHNJHJKmfIEsw
+#EXTINF:-1 xui-id="432833" tvg-id="" tvg-name="HGTV 4K" tvg-logo="" group-title="CANAIS   VARIEDADES",HGTV 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9UIhKtT3QA-udVFNHc5PDyc
+#EXTINF:-1 xui-id="432832" tvg-id="" tvg-name="GNT HDR" tvg-logo="" group-title="CANAIS   VARIEDADES",GNT HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9f0JoWLxldWPIcU1rEbAGM0
+#EXTINF:-1 xui-id="432831" tvg-id="" tvg-name="GNT 4K" tvg-logo="" group-title="CANAIS   VARIEDADES",GNT 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9VpRdYfN8ngyK1h1DNRp0bY
+#EXTINF:-1 xui-id="432830" tvg-id="" tvg-name="FOOD NETWORK HDR" tvg-logo="" group-title="CANAIS   VARIEDADES",FOOD NETWORK HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9cBGamIbDzSkjX9CADZC-cc
+#EXTINF:-1 xui-id="432829" tvg-id="" tvg-name="FOOD NETWORK 4K" tvg-logo="" group-title="CANAIS   VARIEDADES",FOOD NETWORK 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9a5HKwnxGBQXmHnsW-OPyFE
+#EXTINF:-1 xui-id="432828" tvg-id="" tvg-name="CURTA HDR" tvg-logo="" group-title="CANAIS   VARIEDADES",CURTA HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9d4QRmElnPikbQH59tHF8_c
+#EXTINF:-1 xui-id="432827" tvg-id="" tvg-name="CURTA 4K" tvg-logo="" group-title="CANAIS   VARIEDADES",CURTA 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fo70av1J-fnXdFmDTm_-58
+#EXTINF:-1 xui-id="432826" tvg-id="" tvg-name="COMEDY CENTRAL HDR" tvg-logo="" group-title="CANAIS   VARIEDADES",COMEDY CENTRAL HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fSExC8flZE9KMk4bKCt6NQ
+#EXTINF:-1 xui-id="432825" tvg-id="" tvg-name="COMEDY CENTRAL 4K" tvg-logo="" group-title="CANAIS   VARIEDADES",COMEDY CENTRAL 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Y9uWKcQg9OYWAIAxSQJsa4
+#EXTINF:-1 xui-id="432824" tvg-id="" tvg-name="CANAL SONY HDR" tvg-logo="" group-title="CANAIS   VARIEDADES",CANAL SONY HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9UhLqiqUbYAUGYj24OweU6E
+#EXTINF:-1 xui-id="432823" tvg-id="" tvg-name="CANAL SONY 4K" tvg-logo="" group-title="CANAIS   VARIEDADES",CANAL SONY 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fn6ifjJCo3pLusOQmR3fn4
+#EXTINF:-1 xui-id="432822" tvg-id="" tvg-name="BIS HDR" tvg-logo="" group-title="CANAIS   VARIEDADES",BIS HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9TRcDsIEVt6KVbJQHDAnY60
+#EXTINF:-1 xui-id="432821" tvg-id="" tvg-name="BIS 4K" tvg-logo="" group-title="CANAIS   VARIEDADES",BIS 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dPhohtqUw4nbvOlJxEJUGo
+#EXTINF:-1 xui-id="432820" tvg-id="" tvg-name="ARTE HDR" tvg-logo="" group-title="CANAIS   VARIEDADES",ARTE HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Zw-tzlpyIEL8eSY-S3yo9c
+#EXTINF:-1 xui-id="432819" tvg-id="" tvg-name="ARTE 4K" tvg-logo="" group-title="CANAIS   VARIEDADES",ARTE 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9UKcMeZ-h7nUSeuMF-owqO8
+#EXTINF:-1 xui-id="432752" tvg-id="" tvg-name="SPORTV 3 HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcb_fAubmojKLnUaeHLeTe5HqO_kwsW2RTu_PaldFDC_pMEMII7mQ2epA&s=10" group-title="CANAIS    ESPORTE",SPORTV 3 HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9XbsuVbJbZArYl-q43siGAE
+#EXTINF:-1 xui-id="432751" tvg-id="" tvg-name="SPORTV 3 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcb_fAubmojKLnUaeHLeTe5HqO_kwsW2RTu_PaldFDC_pMEMII7mQ2epA&s=10" group-title="CANAIS    ESPORTE",SPORTV 3 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9emBeDNVu64mQDixGjg7Z5I
+#EXTINF:-1 xui-id="432750" tvg-id="" tvg-name="SPORTV 2 HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcb_fAubmojKLnUaeHLeTe5HqO_kwsW2RTu_PaldFDC_pMEMII7mQ2epA&s=10" group-title="CANAIS    ESPORTE",SPORTV 2 HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fnIC4CbV9qqrpJkvayhavY
+#EXTINF:-1 xui-id="432749" tvg-id="" tvg-name="SPORTV 2 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcb_fAubmojKLnUaeHLeTe5HqO_kwsW2RTu_PaldFDC_pMEMII7mQ2epA&s=10" group-title="CANAIS    ESPORTE",SPORTV 2 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YIN5RSYb8w-E7-s397A1OQ
+#EXTINF:-1 xui-id="432748" tvg-id="" tvg-name="SPORTV HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcb_fAubmojKLnUaeHLeTe5HqO_kwsW2RTu_PaldFDC_pMEMII7mQ2epA&s=10" group-title="CANAIS    ESPORTE",SPORTV HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9XyeNhBjyuJCLn05MQUsqjU
+#EXTINF:-1 xui-id="432747" tvg-id="" tvg-name="SPORTV  4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcb_fAubmojKLnUaeHLeTe5HqO_kwsW2RTu_PaldFDC_pMEMII7mQ2epA&s=10" group-title="CANAIS    ESPORTE",SPORTV  4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9T4S6ixrPJPB95NSnkc_Q6Y
+#EXTINF:-1 xui-id="432746" tvg-id="" tvg-name="ESPN 5 HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVhqVArtII-4SUX9O5bWNKE8U7Zxgb5q-Yw&usqp=CAU" group-title="CANAIS    ESPORTE",ESPN 5 HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dbSxX7kFyI7Ra5HNzBp7nI
+#EXTINF:-1 xui-id="432745" tvg-id="" tvg-name="ESPN 5 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVhqVArtII-4SUX9O5bWNKE8U7Zxgb5q-Yw&usqp=CAU" group-title="CANAIS    ESPORTE",ESPN 5 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YUblkCNW9_Yo5eoVtKH1ho
+#EXTINF:-1 xui-id="432744" tvg-id="" tvg-name="ESPN 4 HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVhqVArtII-4SUX9O5bWNKE8U7Zxgb5q-Yw&usqp=CAU" group-title="CANAIS    ESPORTE",ESPN 4 HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9adwPFGhS0_SOMq_0wXja-4
+#EXTINF:-1 xui-id="432743" tvg-id="" tvg-name="ESPN 4 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVhqVArtII-4SUX9O5bWNKE8U7Zxgb5q-Yw&usqp=CAU" group-title="CANAIS    ESPORTE",ESPN 4 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9b9XUGBGeOIgKGA4RfYoBZk
+#EXTINF:-1 xui-id="432742" tvg-id="" tvg-name="ESPN 3 HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVhqVArtII-4SUX9O5bWNKE8U7Zxgb5q-Yw&usqp=CAU" group-title="CANAIS    ESPORTE",ESPN 3 HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fb-MAQLQtQvC87jOIc3Yqg
+#EXTINF:-1 xui-id="432741" tvg-id="" tvg-name="ESPN 3 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVhqVArtII-4SUX9O5bWNKE8U7Zxgb5q-Yw&usqp=CAU" group-title="CANAIS    ESPORTE",ESPN 3 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RwJLU2g-QAjJLc_kQZ4JPU
+#EXTINF:-1 xui-id="432740" tvg-id="" tvg-name="ESPN 2 HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVhqVArtII-4SUX9O5bWNKE8U7Zxgb5q-Yw&usqp=CAU" group-title="CANAIS    ESPORTE",ESPN 2 HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dzU5Xs9_YlMnD1fYoV1gfg
+#EXTINF:-1 xui-id="432739" tvg-id="" tvg-name="ESPN 2 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVhqVArtII-4SUX9O5bWNKE8U7Zxgb5q-Yw&usqp=CAU" group-title="CANAIS    ESPORTE",ESPN 2 4k
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RuvJarYvQXT4GPxaRM1qwk
+#EXTINF:-1 xui-id="432738" tvg-id="" tvg-name="ESPN HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVhqVArtII-4SUX9O5bWNKE8U7Zxgb5q-Yw&usqp=CAU" group-title="CANAIS    ESPORTE",ESPN HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9UtGGik0M4Rf7py8SR04eOo
+#EXTINF:-1 xui-id="432737" tvg-id="" tvg-name="ESPN 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVhqVArtII-4SUX9O5bWNKE8U7Zxgb5q-Yw&usqp=CAU" group-title="CANAIS    ESPORTE",ESPN 4k
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ZjtC1qSw-IZNVjBgOdorI4
+#EXTINF:-1 xui-id="432736" tvg-id="" tvg-name="COMBATE HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJaviwoIjJGdSz6NWwgPQnOPDczp7HDHZAnc1lfNtrUyM4Zqs5J6EY3h4&s=10" group-title="CANAIS    ESPORTE",COMBATE HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fdSxipTtcfMFjQtNZOYu_g
+#EXTINF:-1 xui-id="432735" tvg-id="" tvg-name="COMBATE 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJaviwoIjJGdSz6NWwgPQnOPDczp7HDHZAnc1lfNtrUyM4Zqs5J6EY3h4&s=10" group-title="CANAIS    ESPORTE",COMBATE 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9VM86RLo1VN1bnot506a2Kk
+#EXTINF:-1 xui-id="432734" tvg-id="" tvg-name="BAND SPORT HDR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI0kHy281f0bwfA7aQolwxezozDKGmIyueFU5pFKdlipbBwu2f4uVHbDmr&s=10" group-title="CANAIS    ESPORTE",BAND SPORT HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ZuG8Uk6g2H1K6WN7KN_vUA
+#EXTINF:-1 xui-id="432733" tvg-id="" tvg-name="BAND SPORT 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI0kHy281f0bwfA7aQolwxezozDKGmIyueFU5pFKdlipbBwu2f4uVHbDmr&s=10" group-title="CANAIS    ESPORTE",BAND SPORT 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dKdNP23Evdh1eXcnKh5PzA
+#EXTINF:-1 xui-id="432788" tvg-id="" tvg-name="PREMIERE CLUB HDR" tvg-logo="" group-title="CANAIS    PREMIERE",PREMIERE CLUB HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9d4K_0QyzC3xIaPi8qlIBNU
+#EXTINF:-1 xui-id="432787" tvg-id="" tvg-name="PREMIERE CLUB 4K" tvg-logo="" group-title="CANAIS    PREMIERE",PREMIERE CLUB 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Y3GipkKMNT-cwL-9jRS4Ug
+#EXTINF:-1 xui-id="432786" tvg-id="" tvg-name="PREMIERE 8 HDR" tvg-logo="" group-title="CANAIS    PREMIERE",PREMIERE 8 HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9QI0bw4rY4EdXwsIjfHlk4s
+#EXTINF:-1 xui-id="432785" tvg-id="" tvg-name="PREMIERE 8 4K" tvg-logo="" group-title="CANAIS    PREMIERE",PREMIERE 8 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9cN1clNXfMt4hS0eC9ntfk8
+#EXTINF:-1 xui-id="432784" tvg-id="" tvg-name="PREMIERE 7 HDR" tvg-logo="" group-title="CANAIS    PREMIERE",PREMIERE 7 HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9UbQ6lw8nZuTXtRnmjOq8cc
+#EXTINF:-1 xui-id="432783" tvg-id="" tvg-name="PREMIERE 7  4K" tvg-logo="" group-title="CANAIS    PREMIERE",PREMIERE 7  4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9aQxkjjM_5NacLkPsUdNMPA
+#EXTINF:-1 xui-id="432782" tvg-id="" tvg-name="PREMIERE 6 HDR" tvg-logo="" group-title="CANAIS    PREMIERE",PREMIERE 6 HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9R3mfZHexoa-Dsf7xhHxCFo
+#EXTINF:-1 xui-id="432781" tvg-id="" tvg-name="PREMIERE 6 4K" tvg-logo="" group-title="CANAIS    PREMIERE",PREMIERE 6 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RZXpJZcXbxOttMbqFgVTuA
+#EXTINF:-1 xui-id="432780" tvg-id="" tvg-name="PREMIERE 5 HDR" tvg-logo="" group-title="CANAIS    PREMIERE",PREMIERE 5 HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Tveo8pFHBfuWxb38qbPNKo
+#EXTINF:-1 xui-id="432779" tvg-id="" tvg-name="PREMIERE 5 4K" tvg-logo="" group-title="CANAIS    PREMIERE",PREMIERE 5 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Wc2Ms0Sz3CSLgiebJHmSt4
+#EXTINF:-1 xui-id="432778" tvg-id="" tvg-name="PREMIERE 4 HDR" tvg-logo="" group-title="CANAIS    PREMIERE",PREMIERE 4 HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9daCr3Is_0gtI8edi9kijRI
+#EXTINF:-1 xui-id="432777" tvg-id="" tvg-name="PREMIERE 4 4K" tvg-logo="" group-title="CANAIS    PREMIERE",PREMIERE 4 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9VjrYHEtlFXVTwyTsThOt7Q
+#EXTINF:-1 xui-id="432776" tvg-id="" tvg-name="PREMIERE 3 HDR" tvg-logo="" group-title="CANAIS    PREMIERE",PREMIERE 3 HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Ust42yrtniZFc73PmiuGmg
+#EXTINF:-1 xui-id="432775" tvg-id="" tvg-name="PREMIERE 3 4K" tvg-logo="" group-title="CANAIS    PREMIERE",PREMIERE 3 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dUIIXZvxshkkyOFoIq-t-I
+#EXTINF:-1 xui-id="432774" tvg-id="" tvg-name="PREMIERE 2 HDR" tvg-logo="" group-title="CANAIS    PREMIERE",PREMIERE 2 HDR
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9VdwxKsBhXmAccRsjUFhj4A
+#EXTINF:-1 xui-id="432773" tvg-id="" tvg-name="PREMIERE 2 4K" tvg-logo="" group-title="CANAIS    PREMIERE",PREMIERE 2 4K
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9c7QdjzPqtSjTL6FwIXVc78
+#EXTINF:-1 xui-id="431832" tvg-id="" tvg-name="#TRU TV" tvg-logo="" group-title="CANAIS    ABERTOS",#TRU TV
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9VZfonFN4AuM7oyjKHW9EZY
+#EXTINF:-1 xui-id="431760" tvg-id="" tvg-name="Rede Tv HD" tvg-logo="" group-title="CANAIS    ABERTOS",Rede Tv HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9f0KhWmiJEvRZe-3cwCN0SY
+#EXTINF:-1 xui-id="431744" tvg-id="" tvg-name="EPTV RIBEIRAO PRETO" tvg-logo="" group-title="CANAIS    ABERTOS",EPTV RIBEIRAO PRETO
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ay79w5GMJX8Xi7H3FRkEDg
+#EXTINF:-1 xui-id="431708" tvg-id="" tvg-name="RBS TV PORTO ALEGRE HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/RBSTVLG.png" group-title="CANAIS    ABERTOS",RBS TV PORTO ALEGRE HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9a3nCB9G8k8A3JE5AoTQokc
+#EXTINF:-1 xui-id="431604" tvg-id="" tvg-name="Tv aparecida" tvg-logo="" group-title="CANAIS    ABERTOS",Tv aparecida
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RB3rYIdSj2T6YyFSwHhv8w
+#EXTINF:-1 xui-id="431602" tvg-id="" tvg-name="RBS Porto alegre" tvg-logo="" group-title="CANAIS    ABERTOS",RBS Porto alegre
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Vs1_S3N6T-3W36KNvYbAo0
+#EXTINF:-1 xui-id="431351" tvg-id="" tvg-name="TVE HD" tvg-logo="" group-title="CANAIS    ABERTOS",TVE HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9crFtghF4vQb5O8EQOzy2h8
+#EXTINF:-1 xui-id="431349" tvg-id="" tvg-name="TV VANGUARDA S. J. DOS CAMPOS" tvg-logo="" group-title="CANAIS    ABERTOS",TV VANGUARDA S. J. DOS CAMPOS
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9f47L0JKc5M9EWiDX5GlD00
+#EXTINF:-1 xui-id="431348" tvg-id="" tvg-name="TV TRIBUNA SANTOS" tvg-logo="" group-title="CANAIS    ABERTOS",TV TRIBUNA SANTOS
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RIsYHtOisWYTNS0RlbQhz0
+#EXTINF:-1 xui-id="431347" tvg-id="" tvg-name="TV TEM SOROCABA HD" tvg-logo="" group-title="CANAIS    ABERTOS",TV TEM SOROCABA HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9WtaPTiQYg2WD5KvV8sN8jk
+#EXTINF:-1 xui-id="431346" tvg-id="" tvg-name="TV TEM SAO JOSE DO RIO PRETO" tvg-logo="http://51.15.183.107:80/images/3106b1GGXQ0OREhTSzssLDQVC4d_1mC78QbgYZeanf8aNkzaMwL3BTta2VtS1yA8p-LaxSzr7B_whqJSwc1i1qaMVMIaEzbiBFPnz4pBL70.png" group-title="CANAIS    ABERTOS",TV TEM SAO JOSE DO RIO PRETO
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ZCgNDAge1U9fzTPd37J_KM
+#EXTINF:-1 xui-id="431345" tvg-id="" tvg-name="TV SENADO HD" tvg-logo="" group-title="CANAIS    ABERTOS",TV SENADO HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9aRNsc35R5egAc7iVYcvLXc
+#EXTINF:-1 xui-id="431341" tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="http://51.15.183.107:80/images/3106b1GGXQ0OREhTSzssLDQVC4d_1mC78QbgYZeanf_DgW5p6DM0jvjtYVfHqlEpi0xb42NTGCMSeRxskyBiBNEoAQ6vOPU_jfImdunjNf0.png" group-title="CANAIS    ABERTOS",TV NOVO TEMPO
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9bbQZao_FAiPAlSj735KGlE
+#EXTINF:-1 xui-id="431339" tvg-id="" tvg-name="TV JUSTICA" tvg-logo="" group-title="CANAIS    ABERTOS",TV JUSTICA
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RZ36tSRUgaTWG25e5_EGQM
+#EXTINF:-1 xui-id="431336" tvg-id="" tvg-name="TV EVANGELIZAR HD" tvg-logo="" group-title="CANAIS    ABERTOS",TV EVANGELIZAR HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fNudlHWy17-sp8LoV4nP5U
+#EXTINF:-1 xui-id="431335" tvg-id="" tvg-name="TV DIARIO HD" tvg-logo="" group-title="CANAIS    ABERTOS",TV DIARIO HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9bPRIJ0ql7vNX861cFyNHUo
+#EXTINF:-1 xui-id="431334" tvg-id="" tvg-name="TV CULTURA UHD" tvg-logo="" group-title="CANAIS    ABERTOS",TV CULTURA UHD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Xza_mqkEnyQEIjMd6Ya-3o
+#EXTINF:-1 xui-id="431333" tvg-id="" tvg-name="TV CAMARA HD" tvg-logo="" group-title="CANAIS    ABERTOS",TV CAMARA HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fMYPKK8x5-dBloLeyc9XqA
+#EXTINF:-1 xui-id="431331" tvg-id="" tvg-name="TV BRASIL 2 HD" tvg-logo="http://51.15.183.107:80/images/3106b1GGXQ0OREhTSzssLDQVC4d_1mC78QbgYZeanf81vI5Dfo8oJwroMW6OPm88YiFJSr412HG_tfalNiV1S1_gN1KQX1CCZ9kmWsKLcNk.png" group-title="CANAIS    ABERTOS",TV BRASIL 2 HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9d67UOBr0BwgOfCUMLOtR04
+#EXTINF:-1 xui-id="431330" tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="" group-title="CANAIS    ABERTOS",TV APARECIDA HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9YVmaBbyCw0YPobqVCqynTc
+#EXTINF:-1 xui-id="431279" tvg-id="" tvg-name="REDE VIDA HD" tvg-logo="" group-title="CANAIS    ABERTOS",REDE VIDA HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9cmgfpd29bSdwQoem55GHio
+#EXTINF:-1 xui-id="431278" tvg-id="" tvg-name="REDE TV HD" tvg-logo="" group-title="CANAIS    ABERTOS",REDE TV HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9duxRxUxCOYQV4RUMCzTXl8
+#EXTINF:-1 xui-id="431277" tvg-id="" tvg-name="REDE SUPER" tvg-logo="http://xplussport.com:8080/images/fa919d1786ed52f86581665859726dbd.png" group-title="CANAIS    ABERTOS",REDE SUPER
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9erakU8_ZK0QdrX604B5B8E
+#EXTINF:-1 xui-id="431276" tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="http://51.15.183.107:80/images/3106b1GGXQ0OREhTSzssLDQVC4d_1mC78QbgYZeanf9P_lmEuet0KG8HQFBStrFtRrun-gbvP6IEA0sx4ElVPD4MAZ-gqICqKhao_DsaViA.png" group-title="CANAIS    ABERTOS",REDE GOSPEL
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9cSowJJ-Hw2yJ3N9aRTxZbw
+#EXTINF:-1 xui-id="431275" tvg-id="" tvg-name="REDE BRASIL HD" tvg-logo="" group-title="CANAIS    ABERTOS",REDE BRASIL HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Yi-kVapaiVUPy_UqYHvmQw
+#EXTINF:-1 xui-id="431261" tvg-id="" tvg-name="RBS TV PORTO ALEGRE" tvg-logo="" group-title="CANAIS    ABERTOS",RBS TV PORTO ALEGRE
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9S1CX33Yyhm5UFAIig132Rw
+#EXTINF:-1 xui-id="431259" tvg-id="" tvg-name="RAI ITALIA HD" tvg-logo="" group-title="CANAIS    ABERTOS",RAI ITALIA HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9cE6wck7LzURSrZSS_lkq8A
+#EXTINF:-1 xui-id="431237" tvg-id="" tvg-name="PLAY TV" tvg-logo="http://185.53.90.49:41001/logos/play tv.png" group-title="CANAIS    ABERTOS",PLAY TV
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Xpy985Ojq_zVs_4D1M4FSU
+#EXTINF:-1 xui-id="431230" tvg-id="" tvg-name="PAI ETERNO" tvg-logo="http://51.15.183.107:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXCTs8GfY32t5_mGd3ebcLBoMdiCf1jhrag3WxKD2LmdTx-m7jhxi147YmFuQ3eNdw.png" group-title="CANAIS    ABERTOS",PAI ETERNO
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9cpieGELTBCLGBRTVyWfkyA
+#EXTINF:-1 xui-id="431229" tvg-id="" tvg-name="OFF HD" tvg-logo="" group-title="CANAIS    ABERTOS",OFF HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dM6pW09ge6nxnsnVPVj7-I
+#EXTINF:-1 xui-id="431225" tvg-id="" tvg-name="NOVO TEMPO HD" tvg-logo="" group-title="CANAIS    ABERTOS",NOVO TEMPO HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9SXJb48vu9-plkcODjKculg
+#EXTINF:-1 xui-id="431126" tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="CANAIS    ABERTOS",FX HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9S5xx_Ocno7nXVUv43hlHB8
+#EXTINF:-1 xui-id="431121" tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="" group-title="CANAIS    ABERTOS",FOOD NETWORK HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9UWPBEMDSUpWYEGtTignyWo
+#EXTINF:-1 xui-id="431084" tvg-id="" tvg-name="EPTV RIBEIRAO PRETO" tvg-logo="" group-title="CANAIS    ABERTOS",EPTV RIBEIRAO PRETO
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9UCt87aqQjPzWOyY1I9vM2Y
+#EXTINF:-1 xui-id="431057" tvg-id="" tvg-name="CURTA HD" tvg-logo="" group-title="CANAIS    ABERTOS",CURTA HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9WWhH8q4ZXCMOQlVULvCwZw
+#EXTINF:-1 xui-id="431040" tvg-id="" tvg-name="CANCAO NOVA UHD" tvg-logo="" group-title="CANAIS    ABERTOS",CANCAO NOVA UHD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9eqLT_YvBvKjNQtTg0Awiok
+#EXTINF:-1 xui-id="431039" tvg-id="" tvg-name="CANCAO NOVA HD" tvg-logo="" group-title="CANAIS    ABERTOS",CANCAO NOVA HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Qa4sbIytipbT73y1poajjE
+#EXTINF:-1 xui-id="431038" tvg-id="" tvg-name="CANAL BRASIL HD" tvg-logo="" group-title="CANAIS    ABERTOS",CANAL BRASIL HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9U-qmJA4eUEEqNgHW5KStNY
+#EXTINF:-1 xui-id="431036" tvg-id="" tvg-name="CANAL BOI HD" tvg-logo="http://185.53.90.49:41001/logos/canal boi.png" group-title="CANAIS    ABERTOS",CANAL BOI HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Y1G8GPXbsAsLrIZXNZOcew
+#EXTINF:-1 xui-id="433062" tvg-id="" tvg-name="TNT SPORTS 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ka_akqJFFIJCOeZ5zz-KniMJ4DADFLOdlw&s" group-title="CANAIS    ESPORTE PPV",TNT SPORTS 02
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RV7ZLNes8uwR4BRFlrAWQs
+#EXTINF:-1 xui-id="433061" tvg-id="" tvg-name="TNT SPORTS 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ka_akqJFFIJCOeZ5zz-KniMJ4DADFLOdlw&s" group-title="CANAIS    ESPORTE PPV",TNT SPORTS 01
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dcclWkdIajDV773csBuxQM
+#EXTINF:-1 xui-id="433060" tvg-id="" tvg-name="STAR 05" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTscPEqRzOyoYng82-BIxxnxogSOsrRE9Kan5fnNKdnBUwXes9_pAf5MQ6Y&s=10" group-title="CANAIS    ESPORTE PPV",STAR 05
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9XJUQMBPLJWNITLqd8QSb5U
+#EXTINF:-1 xui-id="433059" tvg-id="" tvg-name="STAR 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTscPEqRzOyoYng82-BIxxnxogSOsrRE9Kan5fnNKdnBUwXes9_pAf5MQ6Y&s=10" group-title="CANAIS    ESPORTE PPV",STAR 04
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dqbeVSN9WmKDpywLGjppqQ
+#EXTINF:-1 xui-id="433058" tvg-id="" tvg-name="STAR 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTscPEqRzOyoYng82-BIxxnxogSOsrRE9Kan5fnNKdnBUwXes9_pAf5MQ6Y&s=10" group-title="CANAIS    ESPORTE PPV",STAR 03
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Z6XhAsTVBd-4x-Rkk_Axs4
+#EXTINF:-1 xui-id="433057" tvg-id="" tvg-name="STAR 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTscPEqRzOyoYng82-BIxxnxogSOsrRE9Kan5fnNKdnBUwXes9_pAf5MQ6Y&s=10" group-title="CANAIS    ESPORTE PPV",STAR 02
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dN90xDPRCPQqKOOnDCMIMs
+#EXTINF:-1 xui-id="433056" tvg-id="" tvg-name="STAR 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTscPEqRzOyoYng82-BIxxnxogSOsrRE9Kan5fnNKdnBUwXes9_pAf5MQ6Y&s=10" group-title="CANAIS    ESPORTE PPV",STAR 01
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ewc3CDHFSVzjxsqab9yiUE
+#EXTINF:-1 xui-id="433055" tvg-id="" tvg-name="PARAMOUNT 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HfGBm12UXUa3OjWuC5iwgNFP4fH6Xo7TQw&s" group-title="CANAIS    ESPORTE PPV",PARAMOUNT 4
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Uugam2Puyvdw-yYNKRhmTs
+#EXTINF:-1 xui-id="433054" tvg-id="" tvg-name="PARAMOUNT 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HfGBm12UXUa3OjWuC5iwgNFP4fH6Xo7TQw&s" group-title="CANAIS    ESPORTE PPV",PARAMOUNT 03
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9f_tT_C2pD9gcp64MOTJvrU
+#EXTINF:-1 xui-id="433053" tvg-id="" tvg-name="PARAMOUNT 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HfGBm12UXUa3OjWuC5iwgNFP4fH6Xo7TQw&s" group-title="CANAIS    ESPORTE PPV",PARAMOUNT 02
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9fuL0obKpJn4DEerVwq_-6Y
+#EXTINF:-1 xui-id="433052" tvg-id="" tvg-name="PARAMOUNT 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HfGBm12UXUa3OjWuC5iwgNFP4fH6Xo7TQw&s" group-title="CANAIS    ESPORTE PPV",PARAMOUNT 01
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9SIWDim8a-wyZe6L5ymGGjA
+#EXTINF:-1 xui-id="433051" tvg-id="" tvg-name="CAZE TV 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXP7ZrHbCN9XHMUN40HlGSWzd4bYju9V60-QZP03M3d57r-MUJgdhXRU2c&s=10" group-title="CANAIS    ESPORTE PPV",CAZE TV 03
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9RjJ-U978t4aNtwb0iCNKE0
+#EXTINF:-1 xui-id="433050" tvg-id="" tvg-name="CAZE TV 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXP7ZrHbCN9XHMUN40HlGSWzd4bYju9V60-QZP03M3d57r-MUJgdhXRU2c&s=10" group-title="CANAIS    ESPORTE PPV",CAZE TV 02
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9as9vAkdzkIGtPU_7hBiM3M
+#EXTINF:-1 xui-id="433049" tvg-id="" tvg-name="CAZE TV 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXP7ZrHbCN9XHMUN40HlGSWzd4bYju9V60-QZP03M3d57r-MUJgdhXRU2c&s=10" group-title="CANAIS    ESPORTE PPV",CAZE TV 01
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9a7f29wbSWPMkjrwi3_-Mos
+#EXTINF:-1 xui-id="433048" tvg-id="" tvg-name="HBO MAX 06" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGBzraGE6tXf85H_CLx6VR0HRoyqAZOcoA78QEHHG7gv64uZT-eU0Dc9U&s=10" group-title="CANAIS    ESPORTE PPV",HBO MAX 06
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9XXnrxl40YBGdE4hMYS1R50
+#EXTINF:-1 xui-id="433047" tvg-id="" tvg-name="HBO MAX 05" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGBzraGE6tXf85H_CLx6VR0HRoyqAZOcoA78QEHHG7gv64uZT-eU0Dc9U&s=10" group-title="CANAIS    ESPORTE PPV",HBO MAX 05
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9ZspZl6ya4iH4zg-I9tvG9c
+#EXTINF:-1 xui-id="433046" tvg-id="" tvg-name="HBO MAX 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGBzraGE6tXf85H_CLx6VR0HRoyqAZOcoA78QEHHG7gv64uZT-eU0Dc9U&s=10" group-title="CANAIS    ESPORTE PPV",HBO MAX 04
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9VD5yw2hRv8dEJHhnGOPEnA
+#EXTINF:-1 xui-id="433045" tvg-id="" tvg-name="HBO MAX 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGBzraGE6tXf85H_CLx6VR0HRoyqAZOcoA78QEHHG7gv64uZT-eU0Dc9U&s=10" group-title="CANAIS    ESPORTE PPV",HBO MAX 03
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9S1VhQN-L0gkY8I4xjkDabM
+#EXTINF:-1 xui-id="433044" tvg-id="" tvg-name="HBO MAX 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGBzraGE6tXf85H_CLx6VR0HRoyqAZOcoA78QEHHG7gv64uZT-eU0Dc9U&s=10" group-title="CANAIS    ESPORTE PPV",HBO MAX 02
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9XqASqYjhpaoBlnRusI5l_Q
+#EXTINF:-1 xui-id="433043" tvg-id="" tvg-name="HBO MAX 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGBzraGE6tXf85H_CLx6VR0HRoyqAZOcoA78QEHHG7gv64uZT-eU0Dc9U&s=10" group-title="CANAIS    ESPORTE PPV",HBO MAX 01
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9QLPrj7JB1BSAEmNL_kgzk0
+#EXTINF:-1 xui-id="433042" tvg-id="" tvg-name="PRIME VIDEO 03 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsRVxRbbVJmCgKr-tQyDfxufNltr6co8hsg&usqp=CAU" group-title="CANAIS    ESPORTE PPV",PRIME VIDEO 03 HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9UkfMa0L5Hd-JZ6Jn-SWiio
+#EXTINF:-1 xui-id="433041" tvg-id="" tvg-name="PRIME VIDEO 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsRVxRbbVJmCgKr-tQyDfxufNltr6co8hsg&usqp=CAU" group-title="CANAIS    ESPORTE PPV",PRIME VIDEO 03
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dGDVDR1THE9McdRYBQSv40
+#EXTINF:-1 xui-id="433040" tvg-id="" tvg-name="PRIME VIDEO 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsRVxRbbVJmCgKr-tQyDfxufNltr6co8hsg&usqp=CAU" group-title="CANAIS    ESPORTE PPV",PRIME VIDEO 2 HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9aEPelU1awyeSN7Ii7hT4YQ
+#EXTINF:-1 xui-id="433039" tvg-id="" tvg-name="PRIME VIDEO 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsRVxRbbVJmCgKr-tQyDfxufNltr6co8hsg&usqp=CAU" group-title="CANAIS    ESPORTE PPV",PRIME VIDEO 02
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9Z5Lrp9QupO8OeqHysnUfKo
+#EXTINF:-1 xui-id="433038" tvg-id="" tvg-name="PRIME VIDEO 01 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsRVxRbbVJmCgKr-tQyDfxufNltr6co8hsg&usqp=CAU" group-title="CANAIS    ESPORTE PPV",PRIME VIDEO 01 HD
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9eRp-643AzJQHnzh0MAO_MY
+#EXTINF:-1 xui-id="433037" tvg-id="" tvg-name="PRIME VIDEO 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsRVxRbbVJmCgKr-tQyDfxufNltr6co8hsg&usqp=CAU" group-title="CANAIS    ESPORTE PPV",PRIME VIDEO 01
+http://51.15.183.107:80/play/gtOdrjHR6jvR3MSZY4SA9dA-20vNho1XN3n5qM4e7l0

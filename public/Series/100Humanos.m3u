@@ -1,0 +1,17 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="100 Humanos S01 E01" group-title="" description="T1E1" tvg-logo="",Episódio 1
+http://fastcdn.fun/series/580493864/762284416/215200.mp4
+#EXTINF:-1 type="video" tvg-id="100 Humanos S01 E02" group-title="" description="T1E2" tvg-logo="",Episódio 2
+http://fastcdn.fun/series/580493864/762284416/215201.mp4
+#EXTINF:-1 type="video" tvg-id="100 Humanos S01 E03" group-title="" description="T1E3" tvg-logo="",Episódio 3
+http://fastcdn.fun/series/580493864/762284416/215202.mp4
+#EXTINF:-1 type="video" tvg-id="100 Humanos S01 E04" group-title="" description="T1E4" tvg-logo="",Episódio 4
+http://fastcdn.fun/series/580493864/762284416/215203.mp4
+#EXTINF:-1 type="video" tvg-id="100 Humanos S01 E05" group-title="" description="T1E5" tvg-logo="",Episódio 5
+http://fastcdn.fun/series/580493864/762284416/215204.mp4
+#EXTINF:-1 type="video" tvg-id="100 Humanos S01 E06" group-title="" description="T1E6" tvg-logo="",Episódio 6
+http://fastcdn.fun/series/580493864/762284416/215205.mp4
+#EXTINF:-1 type="video" tvg-id="100 Humanos S01 E07" group-title="" description="T1E7" tvg-logo="",Episódio 7
+http://fastcdn.fun/series/580493864/762284416/215206.mp4
+#EXTINF:-1 type="video" tvg-id="100 Humanos S01 E08" group-title="" description="T1E8" tvg-logo="",Episódio 8
+http://fastcdn.fun/series/580493864/762284416/215207.mp4

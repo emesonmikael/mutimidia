@@ -1,0 +1,5 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="Footloose - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzTuPCtIBuL4LPJBbNA5RnXDzPZ.jpg" description="",Footloose - 2011
+http://fastcdn.fun/movie/580493864/762284416/414323.mp4
+#EXTINF:-1 type="video" tvg-id="Predadores Assassinos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjy40Ia8RusC6tKxOSkx32071oi.jpg" description="",Predadores Assassinos
+http://fastcdn.fun/movie/580493864/762284416/417253.mp4
