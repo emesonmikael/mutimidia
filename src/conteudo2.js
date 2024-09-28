@@ -6,7 +6,7 @@ import LoginPage from './LoginPage';
 import PrivateRoute from './PrivateRoute';  // Componente de rota privada
 import M3UPlayerHbo from './M3UPlayer copy';
 import M3UPlayerGloboplay from './Globoplay';
-import M3UPlayerAmazonPrime from './ amazon';
+import M3UPlayerAmazonPrime from './amazon';
 import M3UPlayerDisneyPlus from './DisneyPlus';
 import M3UPlayerParamountPlus from './ParamountPlus';
 import M3UPlayerMax from './Max';

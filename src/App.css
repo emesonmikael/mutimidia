@@ -1,0 +1,62 @@
+/* Estilos básicos */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/* Grid flexível e responsivo */
+.grid-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.grid-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  border-radius: 10px;
+  width: calc(33.333% - 20px);
+  box-sizing: border-box;
+  transition: transform 0.2s ease-in-out;
+}
+
+.grid-item:hover {
+  transform: scale(1.05);
+}
+
+.thumbnail {
+  width: 100%;
+  height: auto;
+  max-width: 200px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.title {
+  text-align: center;
+  margin-top: 10px;
+  cursor: pointer;
+  color: #fff;
+}
+
+/* Tornar o layout responsivo */
+@media (max-width: 992px) {
+  .grid-item {
+    width: calc(50% - 20px);
+  }
+}
+
+@media (max-width: 768px) {
+  .grid-item {
+    width: calc(100% - 20px);
+  }
+}
