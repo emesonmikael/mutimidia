@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { ethers } from 'ethers';
 import SubscriberManagerABI from './SubscriberManagerABI.json'; // ABI do contrato
+import ABI from './ABI.json'
 
 const SubscriberSystem = () => {
     const [referralLink, setReferralLink] = useState('');
@@ -60,7 +61,7 @@ const SubscriberSystem = () => {
         try {
             const provider = new ethers.providers.Web3Provider(window.ethereum);
             const signer = provider.getSigner();
-            const contract = new ethers.Contract(contractAddress, SubscriberManagerABI, signer);
+            const contract = new ethers.Contract(contractAddress,ABI, signer);
     
             const tx = await contract.register(referrer, {
                 gasLimit: ethers.utils.hexlify(300000) // Define manualmente o limite de gas (ajuste conforme necessário)
