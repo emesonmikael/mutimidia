@@ -13,7 +13,7 @@ const SubscriberSystem = () => {
     const [errorMessage, setErrorMessage] = useState('');
     const [planPrice, setPlanPrice] = useState(null);
 
-    const contractAddress = '0x2EF17eE49CC5205A2B6f3672dABEbadEDDCcDeD5'; // Endereço do contrato
+    const contractAddress = '0x5f16FE1A416BB62548D37F02D2ceb4305FDD37A3'; // Endereço do contrato
     const paymentTokenAddress = '0x7129CaFA080583f2c173a6f09E6b5f383618d83D'; // Endereço do token de pagamento
 
     // Verifica se o link contém um referenciador
