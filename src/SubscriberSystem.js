@@ -23,6 +23,7 @@ const SubscriberSystem = () => {
         if (referrer) setReferrer(referrer);
     }, []);
 
+    
     // Conectar carteira e buscar informações do assinante
     const connectWallet = async () => {
         try {
