@@ -43,6 +43,7 @@ import M3UPlayerDocumentarios from './Documentarios';
 import M3UPlayerReligiosos from './Religiosos';
 import "./App.css";
 import App2 from './Series'
+import App3 from './prinipal';
 
 
 function App() {
@@ -60,7 +61,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/Home" element={ <PrivateRoute isRegistered={isRegistered}><Home /></PrivateRoute>} />
+        <Route path="/FILMES" element={ <PrivateRoute isRegistered={isRegistered}><Home /></PrivateRoute>} />
         <Route path="/Series" element={ <PrivateRoute isRegistered={isRegistered}><App2/></PrivateRoute>} />
         <Route path="/" element={<LoginPage onLoginSuccess={handleLoginSuccess} />} />
         {/* Crie rotas dinâmicas baseadas no nome do canal */}
@@ -111,7 +112,7 @@ function App() {
         <Route path="/Suspense" element={<PrivateRoute isRegistered={isRegistered}><M3UPlayerSuspense /></PrivateRoute>} />
         <Route path="/Documentarios" element={<PrivateRoute isRegistered={isRegistered}><M3UPlayerDocumentarios/></PrivateRoute>} />
         <Route path="/Religiosos" element={<PrivateRoute isRegistered={isRegistered}><M3UPlayerReligiosos /></PrivateRoute>} />
-        <Route path="/Terror" element={<PrivateRoute isRegistered={isRegistered}><M3UPlayerTerror /></PrivateRoute>} />
+        <Route path="/prinipal" element={<PrivateRoute isRegistered={isRegistered}><App3 /></PrivateRoute>} />
         <Route path="/Terror" element={<PrivateRoute isRegistered={isRegistered}><M3UPlayerTerror /></PrivateRoute>} />
         <Route path="/Terror" element={<PrivateRoute isRegistered={isRegistered}><M3UPlayerTerror /></PrivateRoute>} />
         <Route path="/Terror" element={<PrivateRoute isRegistered={isRegistered}><M3UPlayerTerror /></PrivateRoute>} />
