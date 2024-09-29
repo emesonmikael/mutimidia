@@ -2,5 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10:00
 #EXTINF:10.0,
-https://drive.google.com/file/d/1-H4xLomP3MVBZCKlh_l2bBMOxhaFp4xK/view?usp=drive_link
+http://cdn-br.in:80/get.php?username=580493864&password=762284416&type=m3u_plus&output=mpegts
 #EXT-X-ENDLIST
