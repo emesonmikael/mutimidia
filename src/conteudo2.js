@@ -44,7 +44,7 @@ import M3UPlayerReligiosos from './Religiosos';
 import "./App.css";
 import App2 from './Series'
 import App3 from './prinipal';
-import MediaPlayer from './midia';
+import MediaPlayer from './components/MediaPlayer';
 
 
 function App() {
