@@ -1,8 +1,6 @@
 #EXTM3U size="Medium"
 #EXTINF:-1 type="video" tvg-id="Morte no Nilo - 2022 (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtiMBd5QaQEPShOYAfqkrWi4pR5.jpg" description="",Morte no Nilo - 2022 (L)
 http://fastcdn.fun/movie/580493864/762284416/409343.mp4
-#EXTINF:-1 type="video" tvg-id="Adeus, Borboleta - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0OJcPxS4vX3oUlWscl1zWq6lrS.jpg" description="",Adeus, Borboleta - 2021
-http://fastcdn.fun/movie/580493864/762284416/417004.mp4
 #EXTINF:-1 type="video" tvg-id="Criptofraude - 2024" tvg-logo="http://5ce.co:80/images/5HHMl8k7cugjUUXQYx85eD0A0tf_big.jpg" description="",Criptofraude - 2024
 http://fastcdn.fun/movie/580493864/762284416/418645.mp4
 #EXTINF:-1 type="video" tvg-id="Liga da Justica Crise nas Infinitas Terras  Parte 1 - 2024" tvg-logo="http://5ce.co:80/images/vsiDOIO4APrPQQ4xx8vJW8N0uHV_big.jpg" description="",Liga da Justica Crise nas Infinitas Terras  Parte 1 - 2024
@@ -943,9 +941,3 @@ http://fastcdn.fun/movie/580493864/762284416/426820.mp4
 http://fastcdn.fun/movie/580493864/762284416/426832.mp4
 #EXTINF:-1 type="video" tvg-id="bad boys 4" tvg-logo="http://51.15.183.107:80/images/Q44BniBCdpZ5AlqeUIfu25N56zyKWPXbRsd_6pb1_FfdKBRhVDJ8Ch6YExkjjAXxAduMDNE4SHgj2fO2BsZFaVooG5BkmcBuPbW1L-LCoCs.jpg" description="",bad boys 4
 http://fastcdn.fun/movie/580493864/762284416/426848.mp4
-#EXTINF:-1 xui-id="428363" tvg-id="" tvg-name="TELECINE CULT SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLnZBL8V-ROf6tdDTXOOjI_3SvWdrWGhTCL_JRz_0p243FnomjxyJ_NK0&s=10" group-title="CANAIS  TELECINE",TELECINE CULT SD
-http://51.15.183.107:80/play/JtOkh-viLdZpf0sWy0cDuCN-5Dr8QzJdrzXg7QbadHo
-#EXTINF:-1 xui-id="428362" tvg-id="" tvg-name="TELECINE CULT HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLnZBL8V-ROf6tdDTXOOjI_3SvWdrWGhTCL_JRz_0p243FnomjxyJ_NK0&s=10" group-title="CANAIS  TELECINE",TELECINE CULT HD
-http://51.15.183.107:80/play/JtOkh-viLdZpf0sWy0cDuLJAcjT5zGIkAFF38xtAi98
-#EXTINF:-1 xui-id="428361" tvg-id="" tvg-name="TELECINE CULT FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLnZBL8V-ROf6tdDTXOOjI_3SvWdrWGhTCL_JRz_0p243FnomjxyJ_NK0&s=10" group-title="CANAIS  TELECINE",TELECINE CULT FHD
-http://51.15.183.107:80/play/JtOkh-viLdZpf0sWy0cDuCfA7NlH5Z0p6RNYzqpxA84
