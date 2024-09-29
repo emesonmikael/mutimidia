@@ -10,7 +10,7 @@ const MediaPlayer = () => {
 
     if (Hls.isSupported()) {
       const hls = new Hls();
-      hls.loadSource (`${process.env.PUBLIC_URL}/PlayList.m3u8`);
+      hls.loadSource ('http://cdn-br.in:80/869290727/678528786/2586234.m3u8');//(`${process.env.PUBLIC_URL}/PlayList.m3u8`);
       hls.attachMedia(video);
       hls.on(Hls.Events.MANIFEST_PARSED, () => {
         video.play();
@@ -24,7 +24,7 @@ const MediaPlayer = () => {
         hls.destroy();
       };
     } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-      video.src = `${process.env.PUBLIC_URL}/PlayList.m3u8`;
+      video.src = 'http://cdn-br.in:80/869290727/678528786/2586234.m3u8';//`${process.env.PUBLIC_URL}/PlayList.m3u8`;
       video.addEventListener('loadedmetadata', () => {
         video.play();
       });
