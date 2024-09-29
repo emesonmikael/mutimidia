@@ -8,14 +8,12 @@ export const parseM3U = (m3uContent) => {
     lines.forEach((line) => {
       line = line.trim();
       if (line.startsWith('#EXTINF')) {
-        // Extrair atributos da linha EXTINF
         const regex = /#EXTINF:-1\s+([^,]+),(.*)/;
         const match = line.match(regex);
         if (match) {
           const attributesString = match[1];
           const name = match[2].trim();
   
-          // Extrair atributos chave-valor
           const attrs = {};
           const attrRegex = /(\w+?)="(.*?)"/g;
           let attrMatch;
@@ -26,12 +24,11 @@ export const parseM3U = (m3uContent) => {
           currentChannel = {
             name: name || attrs['tvg-name'] || 'Sem Nome',
             logo: attrs['tvg-logo'] || '',
-            url: '', // Será preenchido na próxima linha
+            url: '',
             group: attrs['group-title'] || 'Sem Grupo',
           };
         }
       } else if (line && !line.startsWith('#')) {
-        // Linha com a URL do stream
         if (currentChannel.name && line) {
           currentChannel.url = line;
           channels.push(currentChannel);

@@ -8,12 +8,12 @@ const MediaPlayer = () => {
   const videoRef = useRef(null);
   const [channels, setChannels] = useState([]);
   const [currentStream, setCurrentStream] = useState('');
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
 
   useEffect(() => {
-    // Função para buscar e parsear o arquivo M3U
     const fetchAndParseM3U = async () => {
       try {
-        // Substitua pelo caminho correto do seu arquivo M3U
         const response = await fetch('/playlist.m3u');
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
@@ -22,10 +22,13 @@ const MediaPlayer = () => {
         const parsedChannels = parseM3U(m3uText);
         setChannels(parsedChannels);
         if (parsedChannels.length > 0) {
-          setCurrentStream(parsedChannels[0].url); // Definir o primeiro canal como padrão
+          setCurrentStream(parsedChannels[0].url);
         }
+        setLoading(false);
       } catch (error) {
         console.error('Erro ao carregar o arquivo M3U:', error);
+        setError(error.message);
+        setLoading(false);
       }
     };
 
@@ -79,15 +82,19 @@ const MediaPlayer = () => {
   return (
     <div>
       <h1>TS Media Player com hls.js</h1>
-      {channels.length > 0 ? (
+      {loading ? (
+        <p>Carregando canais...</p>
+      ) : error ? (
+        <p>Erro: {error}</p>
+      ) : channels.length > 0 ? (
         <>
-          <ChannelSelector channels={channels} onSelect={handleSelectChannel} />
+          <ChannelSelector channels={channels} onSelect={handleSelectChannel} currentStream={currentStream} />
           <video ref={videoRef} controls width="600">
             Seu navegador não suporta a reprodução de vídeos.
           </video>
         </>
       ) : (
-        <p>Carregando canais...</p>
+        <p>Nenhum canal encontrado.</p>
       )}
     </div>
   );
