@@ -44,6 +44,7 @@ import M3UPlayerReligiosos from './Religiosos';
 import "./App.css";
 import App2 from './Series'
 import App3 from './prinipal';
+import MediaPlayer from './midia';
 
 
 function App() {
@@ -62,6 +63,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/FILMES" element={ <PrivateRoute isRegistered={isRegistered}><Home /></PrivateRoute>} />
+        <Route path="/CANAIS" element={ <PrivateRoute isRegistered={isRegistered}><MediaPlayer /></PrivateRoute>} />
         <Route path="/Series" element={ <PrivateRoute isRegistered={isRegistered}><App2/></PrivateRoute>} />
         <Route path="/" element={<LoginPage onLoginSuccess={handleLoginSuccess} />} />
         {/* Crie rotas dinâmicas baseadas no nome do canal */}
