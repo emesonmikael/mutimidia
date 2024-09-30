@@ -1,17 +1,12 @@
-// src/components/ChannelSelector.jsx
 import React from 'react';
 
-const ChannelSelector = ({ channels, onSelect, currentStream }) => {
+const ChannelSelector = ({ channels, onSelect }) => {
   return (
     <div style={styles.container}>
       {channels.map((channel, index) => (
         <div 
           key={index} 
-          style={{
-            ...styles.channelCard,
-            borderColor: channel.url === currentStream ? '#007bff' : '#ddd',
-            transform: channel.url === currentStream ? 'scale(1.05)' : 'scale(1)',
-          }}
+          style={styles.channelCard} 
           onClick={() => onSelect(channel.url)}
         >
           {channel.logo ? (
@@ -30,18 +25,17 @@ const styles = {
   container: {
     display: 'flex',
     flexWrap: 'wrap',
-    justifyContent: 'center',
     marginBottom: '20px'
   },
   channelCard: {
     width: '150px',
     margin: '10px',
     padding: '10px',
-    border: '2px solid #ddd',
+    border: '1px solid #ddd',
     borderRadius: '8px',
     textAlign: 'center',
     cursor: 'pointer',
-    transition: 'transform 0.2s, border-color 0.2s',
+    transition: 'transform 0.2s',
   },
   logo: {
     width: '100%',
