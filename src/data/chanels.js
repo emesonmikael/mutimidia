@@ -44,7 +44,7 @@ const channels = [
     {
       name: "A FAZENDA 16 CAM 03",
       logo: "https://upload.wikimedia.org/wikipedia/pt/a/a3/A_Fazenda_16.png",
-      url: "http://cdn-br.in:80/869290727/678528786/2586241.m3u8",
+      url: "http://zlb177.office646851.online/auth/349.m3u8",
       group: "Canais || A Fazenda 16"
     }
   ];
