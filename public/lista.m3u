@@ -7,4 +7,4 @@ https://strimer-mutimidia.vercel.app/App/canais.m3u
 https://strimer-mutimidia.vercel.app/App/Filmes/listaFilmes.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series
 #EXTBG:https://i.imgur.com/vJD9S1U.png
-/Series/Series.m3u
+https://strimer-mutimidia.vercel.app/App/series.m3u
