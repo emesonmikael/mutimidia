@@ -1,0 +1,10 @@
+#EXTM3U size="Big"
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",CANAIS
+#EXTBG:https://i.imgur.com/JCcgEeo.png
+/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES
+#EXTBG:https://i.imgur.com/vnPmfhz.png
+/listaFilmes.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series
+#EXTBG:https://i.imgur.com/vJD9S1U.png
+/Series/Series.m3u

@@ -1,0 +1,64 @@
+#EXTM3U size="Medium"
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Netflix
+#EXTBG: #11609e
+/Series/NetfliSeries.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Discovery Plus
+#EXTBG: #11609e
+/Series/DiscoveryPlus.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Globoplay
+#EXTBG: #11609e
+/Series/Globoplay.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | HBO Max
+#EXTBG: #11609e
+/Series/HBOMax.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Apple TV Plus
+#EXTBG: #11609e
+/Series/AppleTVPlus.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Disney Plus
+#EXTBG: #11609e
+/Series/DisneyPlus.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Star Plus
+#EXTBG: #11609e
+/Series/StarPlus.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Amazon Prime Video
+#EXTBG: #11609e
+/Series/AmazonPrimeVideo.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Paramount
+#EXTBG: #11609e
+/Series/Paramount.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | DirecTV
+#EXTBG: #11609e
+/Series/DirecTV.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Crunchyroll
+#EXTBG: #11609e
+/Series/Crunchyroll.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Novelas
+#EXTBG: #11609e
+/Series/Novelas.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",DIVERSOS
+#EXTBG: #11609e
+/Series/DIVERSOS.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Outras Produtoras
+#EXTBG: #11609e
+/Series/OutrasProdutoras.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Outros Streams
+#EXTBG: #11609e
+/Series/OutrosStreams.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Lionsgate
+#EXTBG: #11609e
+/Series/Lionsgate.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | AMC Plus
+#EXTBG: #11609e
+/Series/AMCPlus.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Brasil Paralelo
+#EXTBG: #11609e
+/Series/BrasilParalelo.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Programas de TV
+#EXTBG: #11609e
+/Series/ProgramasdeTV.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Claro video
+#EXTBG: #11609e
+/Series/Clarovideo.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Funimation Now
+#EXTBG: #11609e
+/series/FunimationNow.m3u
