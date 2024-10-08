@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA PRINCIPAL" tvg-logo="" group-title="Canais || A Fazenda 16",A FAZENDA PRINCIPAL
-http://cdn-br.in:80/869290727/678528786/2586234.m3u8
+http://cloudtv.fun:80/580493864/762284416/450540.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 2" tvg-logo="" group-title="Canais || A Fazenda 16",A FAZENDA 2
 http://cdn-br.in:80/869290727/678528786/2586235.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 3" tvg-logo="" group-title="Canais || A Fazenda 16",A FAZENDA 3
