@@ -2,13 +2,13 @@ const channels = [
     {
       name: "A FAZENDA PRINCIPAL",
       logo: "",
-      url: "http://cdn-br.in:80/869290727/678528786/2586234.m3u8",
+      url: "http://ezcdn.vood.top:80/hls/2376_.m3u8",
       group: "Canais || A Fazenda 16"
     },
     {
       name: "A FAZENDA 2",
       logo: "",
-      url: "http://cdn-br.in:80/869290727/678528786/2586235.m3u8",
+      url: "http://186.226.215.132:80/live/carlos123/carlos123/10.m3u8",
       group: "Canais || A Fazenda 16"
     },
     {
