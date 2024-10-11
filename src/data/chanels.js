@@ -2,7 +2,7 @@ const channels = [
     {
       name: "A FAZENDA PRINCIPAL",
       logo: "",
-      url: "http://ezcdn.vood.top:80/hls/2376_.m3u8",
+      url: "http://cdn-br.in/978460358/473005646/628508.ts",
       group: "Canais || A Fazenda 16"
     },
     {
