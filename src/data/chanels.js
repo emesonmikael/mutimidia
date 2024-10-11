@@ -2,7 +2,7 @@ const channels = [
     {
       name: "A FAZENDA PRINCIP1AL",
       logo: "",
-      url: "http://cdn-br.in/978460358/473005646/628508.ts",
+      url: "https://proxy-heroku.onrender.com/proxy/978460358/473005646/628508.ts",
       group: "Canais || A Fazenda 16"
     },
     {
