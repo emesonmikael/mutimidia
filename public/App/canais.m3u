@@ -1,8 +1,8 @@
 #EXTM3U size="Medium"
 #EXTINF:-1 type="stream" tvg-id="A&E FHD" tvg-logo="https://i.ibb.co/DzvKbBK/AEdw-DAdbs.png" group-title="Canais || Filmes & Séries",A&E FHD
-http://cdn-br.in/978460358/473005646/628397.ts
+https://proxy-heroku.onrender.com/proxy/978460358/473005646/628397.ts
 #EXTINF:-1 type="stream" tvg-id="A&E FHD H.265" tvg-logo="https://i.ibb.co/DzvKbBK/AEdw-DAdbs.png" group-title="Canais || Filmes & Séries",A&E FHD H.265
-http://cdn-br.in/978460358/473005646/628829.ts
+https://proxy-heroku.onrender.com/proxy/978460358/473005646/628829.ts
 #EXTINF:-1 type="stream" tvg-id="A&E HD" tvg-logo="https://i.ibb.co/DzvKbBK/AEdw-DAdbs.png" group-title="Canais || Filmes & Séries",A&E HD
 http://cdn-br.in/978460358/473005646/628398.ts
 #EXTINF:-1 type="stream" tvg-id="A&E SD" tvg-logo="https://i.ibb.co/DzvKbBK/AEdw-DAdbs.png" group-title="Canais || Filmes & Séries",A&E SD
@@ -24,4 +24,4 @@ http://cdn-br.in/978460358/473005646/628401.ts
 #EXTINF:-1 type="stream" tvg-id="AMC SD" tvg-logo="https://i.ibb.co/QXCBqBf/bOZYvx31.png" group-title="Canais || Filmes & Séries",AMC SD
 http://cdn-br.in/978460358/473005646/628402.ts
 #EXTINF:-1 type="stream" tvg-id="Animal Planet FHD" tvg-logo="https://i.ibb.co/0fB9BCc/6000-Animal-Planet-logo.png" group-title="Canais || DOCUMENTÁRIOS",Animal Planet FHD
-http://cdn-br.in/978460358/473005646/628518.ts
+http://cdn-br.in/978460358/473005646/628518.
