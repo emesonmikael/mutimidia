@@ -10,10 +10,10 @@ function Canais() {
   const [currentStream, setCurrentStream] = useState('');
 
   // URL do arquivo M3U
-  const m3uUrl = 'https://streamer-mutimidia.verel.app/app/playlist.m3u'; // Substitua pela URL real do seu arquivo M3U
+  const m3uUrl = 'https://strimer-mutimidia.vercel.app/app/playlist.m3u'; // Substitua pela URL real do seu arquivo M3U
 
   useEffect(() => {
-    
+
     const fetchM3U = async () => {
       try {
         const response = await axios.get(m3uUrl);
