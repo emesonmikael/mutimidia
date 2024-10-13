@@ -1,10 +1,534 @@
 #EXTM3U size="Medium"
+<<<<<<< HEAD
 #EXTINF:-1 type="video" tvg-id="Criptofraude (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/5HHMl8k7cugjUUXQYx85eD0A0tf.jpg" description="",Criptofraude (2024)
 http://cdn-br.in/movie/978460358/473005646/1227625.mp4
 #EXTINF:-1 type="video" tvg-id="Liga da Justica Crise nas Infinitas Terras  Parte 1 - 2024" tvg-logo="" description="",Liga da Justica Crise nas Infinitas Terras  Parte 1 - 2024
 http://cdn-br.in/movie/978460358/473005646/1227636.mp4
 #EXTINF:-1 type="video" tvg-id="Lift: Roubo nas Alturas (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg" description="",Lift: Roubo nas Alturas (2024)
 http://cdn-br.in/movie/978460358/473005646/1227648.mp4
+=======
+#EXTINF:-1 type="video" tvg-id="Morte no Nilo - 2022 (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtiMBd5QaQEPShOYAfqkrWi4pR5.jpg" description="",Morte no Nilo - 2022 (L)
+http://e.fastcdn.fun/movie/580493864/762284416/409343.mp4
+#EXTINF:-1 type="video" tvg-id="Criptofraude - 2024" t
+vg-logo="http://5ce.co:80/images/5HHMl8k7cugjUUXQYx85eD0A0tf_big.jpg" description="",Criptofraude - 2022
+https://proxy-heroku.onrender.com/movie/978460358/473005646/1227625.mp4
+#EXTINF:-1 type="video" tvg-id="Liga da Justica Crise nas Infinitas Terras  Parte 1 - 2024" tvg-logo="http://5ce.co:80/images/vsiDOIO4APrPQQ4xx8vJW8N0uHV_big.jpg" description="",Liga da Justica Crise nas Infinitas Terras  Parte 1 - 2024
+http://fastcdn.fun/movie/580493864/762284416/418646.mp4
+#EXTINF:-1 type="video" tvg-id="Lift Roubo nas Alturas - 2024" tvg-logo="http://5ce.co:80/images/ca74jjIYRVDdsnlWk8JzyVY49dE_big.jpg" description="",Lift Roubo nas Alturas - 2024
+http://fastcdn.fun/movie/580493864/762284416/418647.mp4
+#EXTINF:-1 type="video" tvg-id="Mais Um Tiro Certo - 2024" tvg-logo="http://5ce.co:80/images/bE1UWSyYDpaTEnB6A7TsXmEt8iN_big.jpg" description="",Mais Um Tiro Certo - 2024
+http://fastcdn.fun/movie/580493864/762284416/418648.mp4
+#EXTINF:-1 type="video" tvg-id="Alarme de Incendio - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpa9FO979rt16205hnup44sMK38.jpg" description="",Alarme de Incendio - 2024
+http://fastcdn.fun/movie/580493864/762284416/418649.mp4
+#EXTINF:-1 type="video" tvg-id="Os Underdoggs - 2024" tvg-logo="http://5ce.co:80/images/4Eg4fntbZ6xOngbXta0irzqGM5N_big.jpg" description="",Os Underdoggs - 2024
+http://fastcdn.fun/movie/580493864/762284416/418650.mp4
+#EXTINF:-1 type="video" tvg-id="Em Ruinas - 2024" tvg-logo="http://5ce.co:80/images/vT3xahepzP796ei0NiZIZ6t8vsl_big.jpg" description="",Em Ruinas - 2024
+http://fastcdn.fun/movie/580493864/762284416/418651.mp4
+#EXTINF:-1 type="video" tvg-id="60 Minutos - 2024" tvg-logo="http://5ce.co:80/images/n5wjsuYh954HLagCnqrLpPT8xi7_big.jpg" description="",60 Minutos - 2024
+http://fastcdn.fun/movie/580493864/762284416/418652.mp4
+#EXTINF:-1 type="video" tvg-id="A Noite que Mudou o Pop - 2024" tvg-logo="http://5ce.co:80/images/c5Dz7xZMxPbdaLn5nte4DCa61Gy_big.jpg" description="",A Noite que Mudou o Pop - 2024
+http://fastcdn.fun/movie/580493864/762284416/418653.mp4
+#EXTINF:-1 type="video" tvg-id="Jogos de Amor - 2024" tvg-logo="http://5ce.co:80/images/r43jx9Km2ONGa8sFuzXFWM3iDhp_big.jpg" description="",Jogos de Amor - 2024
+http://fastcdn.fun/movie/580493864/762284416/418654.mp4
+#EXTINF:-1 type="video" tvg-id="Amor em Soweto - 2024" tvg-logo="http://5ce.co:80/images/1XYiQqxCPzYTomOUg0otKYKAo8b_big.jpg" description="",Amor em Soweto - 2024
+http://fastcdn.fun/movie/580493864/762284416/418655.mp4
+#EXTINF:-1 type="video" tvg-id="Agencia do Amor - 2024" tvg-logo="http://5ce.co:80/images/3GsgIMVv9pnp3hUayihXEgCSEog_big.jpg" description="",Agencia do Amor - 2024
+http://fastcdn.fun/movie/580493864/762284416/418656.mp4
+#EXTINF:-1 type="video" tvg-id="Me Mate Querido - 2024" tvg-logo="http://5ce.co:80/images/2bHicVzkma4q022cxQeNq2zTwbo_big.jpg" description="",Me Mate Querido - 2024
+http://fastcdn.fun/movie/580493864/762284416/418657.mp4
+#EXTINF:-1 type="video" tvg-id="Fazendo Meu Filme - 2024" tvg-logo="http://5ce.co:80/images/x57IrM7mxk8iAmvDYWUqhZCkEFm_big.jpg" description="",Fazendo Meu Filme - 2024
+http://fastcdn.fun/movie/580493864/762284416/418658.mp4
+#EXTINF:-1 type="video" tvg-id="Upgrade As Cores do Amor - 2024 " tvg-logo="http://5ce.co:80/images/rqfqLTNpueBtdtMO0QZ8XzQaDi1_big.jpg" description="",Upgrade As Cores do Amor - 2024 
+http://fastcdn.fun/movie/580493864/762284416/418659.mp4
+#EXTINF:-1 type="video" tvg-id="O Aprendiz do Tigre - 2024" tvg-logo="http://5ce.co:80/images/dJOIVQoyjoK0hPlmh0nDFsFROvW_big.jpg" description="",O Aprendiz do Tigre - 2024
+http://fastcdn.fun/movie/580493864/762284416/418660.mp4
+#EXTINF:-1 type="video" tvg-id="Cinzas - 2024" tvg-logo="http://5ce.co:80/images/44BquVRWlRN3B3Xh6yZxNxFdTER_big.jpg" description="",Cinzas - 2024
+http://fastcdn.fun/movie/580493864/762284416/418661.mp4
+#EXTINF:-1 type="video" tvg-id="Suncoast - 2024" tvg-logo="http://5ce.co:80/images/nmPLUp5lVMiGomkN3db1WPeNrz3_big.jpg" description="",Suncoast - 2024
+http://fastcdn.fun/movie/580493864/762284416/418662.mp4
+#EXTINF:-1 type="video" tvg-id="Indiferenca - 2024" tvg-logo="http://5ce.co:80/images/ufFrD3NgeFZdNlORyOgXkjCyeJA_big.jpg" description="",Indiferenca - 2024
+http://fastcdn.fun/movie/580493864/762284416/418663.mp4
+#EXTINF:-1 type="video" tvg-id="Apoteose do Samba 40 Anos de Sapucai - 2024" tvg-logo="http://5ce.co:80/images/wAUJcj3P9OUHlt1rC5sKP9Qe84_big.jpg" description="",Apoteose do Samba 40 Anos de Sapucai - 2024
+http://fastcdn.fun/movie/580493864/762284416/418664.mp4
+#EXTINF:-1 type="video" tvg-id="Orion e o Escuro - 2024" tvg-logo="http://5ce.co:80/images/ulUmkLFtT1Y0YGtmO6lBkMwLsBR_big.jpg" description="",Orion e o Escuro - 2024
+http://fastcdn.fun/movie/580493864/762284416/418665.mp4
+#EXTINF:-1 type="video" tvg-id="Lights Out - 2024" tvg-logo="http://5ce.co:80/images/usDIBB0hOqLM8wMSGistfqxjukZ_big.jpg" description="",Lights Out - 2024
+http://fastcdn.fun/movie/580493864/762284416/418666.mp4
+#EXTINF:-1 type="video" tvg-id="Snoopy Apresenta Seja Bem-vindo Franklin - 2024" tvg-logo="http://5ce.co:80/images/6dwcPO0s16ku9EjYVgnfSLGoNVB_big.jpg" description="",Snoopy Apresenta Seja Bem-vindo Franklin - 2024
+http://fastcdn.fun/movie/580493864/762284416/418667.mp4
+#EXTINF:-1 type="video" tvg-id="Argylle  O Superespiao - 2024" tvg-logo="http://5ce.co:80/images/1ojCiMpYmCciIFuEcgLOOGLbUND_big.jpg" description="",Argylle  O Superespiao - 2024
+http://fastcdn.fun/movie/580493864/762284416/418668.mp4
+#EXTINF:-1 type="video" tvg-id="Xeque Mate - 2024" tvg-logo="http://5ce.co:80/images/fKq2SYvcuiDHzsccmgBZMD3bAUd_big.jpg" description="",Xeque Mate - 2024
+http://fastcdn.fun/movie/580493864/762284416/418669.mp4
+#EXTINF:-1 type="video" tvg-id="Turma da Monica Jovem Reflexos do Medo - 2024" tvg-logo="http://5ce.co:80/images/zG1YYywzTRf791p146Ae5REh9h6_big.jpg" description="",Turma da Monica Jovem Reflexos do Medo - 2024
+http://fastcdn.fun/movie/580493864/762284416/418670.mp4
+#EXTINF:-1 type="video" tvg-id="Meu Nome e Loh Kiwan - 2024        " tvg-logo="http://5ce.co:80/images/8uSVcFwh0B5SewZMLzr7qRJQjQH_big.jpg" description="",Meu Nome e Loh Kiwan - 2024        
+http://fastcdn.fun/movie/580493864/762284416/418671.mp4
+#EXTINF:-1 type="video" tvg-id="A Saudade Que Fica - 2024" tvg-logo="http://5ce.co:80/images/vPxtPgWMB6jCazp3TYWAMp3ThZw_big.jpg" description="",A Saudade Que Fica - 2024
+http://fastcdn.fun/movie/580493864/762284416/418672.mp4
+#EXTINF:-1 type="video" tvg-id="O Astronauta - 2024" tvg-logo="http://5ce.co:80/images/dSlxL3npFEEC1zXU8eEnaVTpKCV_big.jpg" description="",O Astronauta - 2024
+http://fastcdn.fun/movie/580493864/762284416/418673.mp4
+#EXTINF:-1 type="video" tvg-id="Beekeeper Rede de Vinganca - 2024" tvg-logo="http://5ce.co:80/images/6Gw8MMtwE87W7rbrlmL2GnajFc5_big.jpg" description="",Beekeeper Rede de Vinganca - 2024
+http://fastcdn.fun/movie/580493864/762284416/418674.mp4
+#EXTINF:-1 type="video" tvg-id="Meninas Malvadas - 2024" tvg-logo="http://5ce.co:80/images/o37VmKWQyntoqQn3oVhPK7p3S9E_big.jpg" description="",Meninas Malvadas - 2024
+http://fastcdn.fun/movie/580493864/762284416/418675.mp4
+#EXTINF:-1 type="video" tvg-id="Code 8  Renegados  Parte 2 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwkzUuoTd4ISBNBMWPSp1qrVGNy.jpg" description="",Code 8  Renegados  Parte 2 - 2024
+http://fastcdn.fun/movie/580493864/762284416/418676.mp4
+#EXTINF:-1 type="video" tvg-id="Apenas Corra - 2024" tvg-logo="http://5ce.co:80/images/5f0J6hKQV1jVkTeAkn72dotVYed_big.jpg" description="",Apenas Corra - 2024
+http://fastcdn.fun/movie/580493864/762284416/418677.mp4
+#EXTINF:-1 type="video" tvg-id="Zona de Risco - 2024" tvg-logo="http://5ce.co:80/images/cCRAMT530bTcZ4xs6E6pTUoAalE_big.jpg" description="",Zona de Risco - 2024
+http://fastcdn.fun/movie/580493864/762284416/418678.mp4
+#EXTINF:-1 type="video" tvg-id="Mea Culpa - 2024" tvg-logo="http://5ce.co:80/images/roxD9VCTTXYfPjVj9HiSC5IMtc7_big.jpg" description="",Mea Culpa - 2024
+http://fastcdn.fun/movie/580493864/762284416/418679.mp4
+#EXTINF:-1 type="video" tvg-id="Atraves da Minha Janela 3  Olhos nos Olhos - 2024" tvg-logo="http://5ce.co:80/images/nxCPqvBGeiBU1IOK7LbReAyVQQ7_big.jpg" description="",Atraves da Minha Janela 3  Olhos nos Olhos - 2024
+http://fastcdn.fun/movie/580493864/762284416/418680.mp4
+#EXTINF:-1 type="video" tvg-id="O Livro de Clarence - 2024 " tvg-logo="http://5ce.co:80/images/hZuq34U1dWuIIWgTa6wZNPeDinS_big.jpg" description="",O Livro de Clarence - 2024 
+http://fastcdn.fun/movie/580493864/762284416/418681.mp4
+#EXTINF:-1 type="video" tvg-id="Pedido Irlandes - 2024" tvg-logo="http://5ce.co:80/images/v4Bb70dpIIQoEnZAHnm3nzCPauU_big.jpg" description="",Pedido Irlandes - 2024
+http://fastcdn.fun/movie/580493864/762284416/418682.mp4
+#EXTINF:-1 type="video" tvg-id="Madame Teia - 2024" tvg-logo="http://5ce.co:80/images/zWEm5oy2tE9ku1KSNM089FmZJ2p_big.jpg" description="",Madame Teia - 2024
+http://fastcdn.fun/movie/580493864/762284416/418683.mp4
+#EXTINF:-1 type="video" tvg-id="Deja Vu  O Primeiro Ano do Novo Governo Lula - 2024" tvg-logo="http://5ce.co:80/images/1ESbIOki2zEDCYeYmdySdRTZvau_big.jpg" description="",Deja Vu  O Primeiro Ano do Novo Governo Lula - 2024
+http://fastcdn.fun/movie/580493864/762284416/418684.mp4
+#EXTINF:-1 type="video" tvg-id="A Arte de Amar - 2024" tvg-logo="http://5ce.co:80/images/8B5kcNrZUocXZMG80NWhroz94mf_big.jpg" description="",A Arte de Amar - 2024
+http://fastcdn.fun/movie/580493864/762284416/418685.mp4
+#EXTINF:-1 type="video" tvg-id="Oscars - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPdtgkUS7uEaLaRqBGje3cQGUSz.jpg" description="",Oscars - 2024
+http://fastcdn.fun/movie/580493864/762284416/418686.mp4
+#EXTINF:-1 type="video" tvg-id="So no Sertao - 2024" tvg-logo="http://5ce.co:80/images/stJWfhJSrrOJGnpStKLbKtuqu7k_big.jpg" description="",So no Sertao - 2024
+http://fastcdn.fun/movie/580493864/762284416/418687.mp4
+#EXTINF:-1 type="video" tvg-id="Donzela - 2024" tvg-logo="http://5ce.co:80/images/ub4EHdVBVm3nHJiamU0gGcKS4ae_big.jpg" description="",Donzela - 2024
+http://fastcdn.fun/movie/580493864/762284416/418688.mp4
+#EXTINF:-1 type="video" tvg-id="Ricky Stanicky - 2024" tvg-logo="http://5ce.co:80/images/oJQdLfrpl4CQsHAKIxd3DJqYTVq_big.jpg" description="",Ricky Stanicky - 2024
+http://fastcdn.fun/movie/580493864/762284416/418689.mp4
+#EXTINF:-1 type="video" tvg-id="O Retorno dos Thundermans - 2024" tvg-logo="http://5ce.co:80/images/wEquopFw43QCKsBp1fpIabmGlYc_big.jpg" description="",O Retorno dos Thundermans - 2024
+http://fastcdn.fun/movie/580493864/762284416/418690.mp4
+#EXTINF:-1 type="video" tvg-id="Mergulho Noturno - 2024" tvg-logo="http://5ce.co:80/images/a2pyGSNdHBMcwI2a5OiCcaLHRoo_big.jpg" description="",Mergulho Noturno - 2024
+http://fastcdn.fun/movie/580493864/762284416/418691.mp4
+#EXTINF:-1 type="video" tvg-id="Os Casagrandes O Filme - 2024" tvg-logo="http://5ce.co:80/images/yRD3xPQuEbANBcSWiEfiydKQRkz_big.jpg" description="",Os Casagrandes O Filme - 2024
+http://fastcdn.fun/movie/580493864/762284416/418692.mp4
+#EXTINF:-1 type="video" tvg-id="Pilotos de Combate - 2024" tvg-logo="http://5ce.co:80/images/eG4kXMzVqOUuker4pQtJD5DMsk7_big.jpg" description="",Pilotos de Combate - 2024
+http://fastcdn.fun/movie/580493864/762284416/418693.mp4
+#EXTINF:-1 type="video" tvg-id="Shirley para Presidente - 2024   " tvg-logo="http://5ce.co:80/images/uyWRPpB3ZNyvkJZiukd6fmjsB6g_big.jpg" description="",Shirley para Presidente - 2024   
+http://fastcdn.fun/movie/580493864/762284416/418694.mp4
+#EXTINF:-1 type="video" tvg-id="Diario da Minha Vagina - 2024     " tvg-logo="http://5ce.co:80/images/aIVu5nMOCNZvOYs3Uhv8TnLvcYk_big.jpg" description="",Diario da Minha Vagina - 2024     
+http://fastcdn.fun/movie/580493864/762284416/418695.mp4
+#EXTINF:-1 type="video" tvg-id="Anatomia de uma Queda - 2024       " tvg-logo="http://5ce.co:80/images/woXYl0DJTx6TsfYWPkSfNHTsoOx_big.jpg" description="",Anatomia de uma Queda - 2024       
+http://fastcdn.fun/movie/580493864/762284416/418696.mp4
+#EXTINF:-1 type="video" tvg-id="Matador de Aluguel - 2024" tvg-logo="http://5ce.co:80/images/h2xDLj6CtzItwQEFyBjIXh5z3QD_big.jpg" description="",Matador de Aluguel - 2024
+http://fastcdn.fun/movie/580493864/762284416/418697.mp4
+#EXTINF:-1 type="video" tvg-id="Bob Marley One Love - 2024" tvg-logo="http://5ce.co:80/images/mKWalirPreEdCKDJjc5TKeOP2xi_big.jpg" description="",Bob Marley One Love - 2024
+http://fastcdn.fun/movie/580493864/762284416/418698.mp4
+#EXTINF:-1 type="video" tvg-id="Gato Galactico e o feitico do tempo - 2024" tvg-logo="http://5ce.co:80/images/fclsxjx6rSnEhO2LYjGZXCalOBn_big.jpg" description="",Gato Galactico e o feitico do tempo - 2024
+http://fastcdn.fun/movie/580493864/762284416/418699.mp4
+#EXTINF:-1 type="video" tvg-id="Cao e Gato - 2024" tvg-logo="http://5ce.co:80/images/ybyw7zxpBSdD98pIHfgujzhHoXS_big.jpg" description="",Cao e Gato - 2024
+http://fastcdn.fun/movie/580493864/762284416/418700.mp4
+#EXTINF:-1 type="video" tvg-id="Assassinato de Elite - 2024" tvg-logo="http://5ce.co:80/images/wmFJKTkwNBEcz5R099ELCVLfFKb_big.jpg" description="",Assassinato de Elite - 2024
+http://fastcdn.fun/movie/580493864/762284416/418701.mp4
+#EXTINF:-1 type="video" tvg-id="Zona de Interesse - 2024" tvg-logo="http://5ce.co:80/images/bZlZ1hcmP6KkZfXxXcNngaFzMcS_big.jpg" description="",Zona de Interesse - 2024
+http://fastcdn.fun/movie/580493864/762284416/418702.mp4
+#EXTINF:-1 type="video" tvg-id="Megamente Vs O Sindicato da Perdicao - 2024" tvg-logo="http://5ce.co:80/images/60x76Yb6nMPFwEZ3um5yhUwCga_big.jpg" description="",Megamente Vs O Sindicato da Perdicao - 2024
+http://fastcdn.fun/movie/580493864/762284416/418703.mp4
+#EXTINF:-1 type="video" tvg-id="Sem Pressao - 2024" tvg-logo="http://5ce.co:80/images/f69k8OpsxZIXUFrQ2OE56fSVZ9N_big.jpg" description="",Sem Pressao - 2024
+http://fastcdn.fun/movie/580493864/762284416/418704.mp4
+#EXTINF:-1 type="video" tvg-id="O Salario do Medo - 2024" tvg-logo="http://5ce.co:80/images/wQpmQV4asLYTAmw4BwgmtfGx0Os_big.jpg" description="",O Salario do Medo - 2024
+http://fastcdn.fun/movie/580493864/762284416/418705.mp4
+#EXTINF:-1 type="video" tvg-id="Jogo Bonito - 2024" tvg-logo="http://5ce.co:80/images/lYR7Ob8qmtwxjNzrfGaPNjvbIln_big.jpg" description="",Jogo Bonito - 2024
+http://fastcdn.fun/movie/580493864/762284416/418706.mp4
+#EXTINF:-1 type="video" tvg-id="Descanse em Paz - 2024" tvg-logo="http://5ce.co:80/images/q3TFEdIpzNC609G0pEV6FOlHCAg_big.jpg" description="",Descanse em Paz - 2024
+http://fastcdn.fun/movie/580493864/762284416/418707.mp4
+#EXTINF:-1 type="video" tvg-id="Alma de Cacador - 2024" tvg-logo="http://5ce.co:80/images/vFcKla48r8OUTKiSMXnSwKNSTsn_big.jpg" description="",Alma de Cacador - 2024
+http://fastcdn.fun/movie/580493864/762284416/418708.mp4
+#EXTINF:-1 type="video" tvg-id="Sangue Frio - 2024" tvg-logo="http://5ce.co:80/images/o48qUXBZIbH1lK02xt787tAeE9R_big.jpg" description="",Sangue Frio - 2024
+http://fastcdn.fun/movie/580493864/762284416/418709.mp4
+#EXTINF:-1 type="video" tvg-id="A Rede Antissocial Dos Memes ao Caos - 2024" tvg-logo="http://5ce.co:80/images/1vzxO1KcwbW7uPGabTxJ0HKmYUS_big.jpg" description="",A Rede Antissocial Dos Memes ao Caos - 2024
+http://fastcdn.fun/movie/580493864/762284416/418710.mp4
+#EXTINF:-1 type="video" tvg-id="A Primavera Espetacular de Moranguinho - 2024" tvg-logo="http://5ce.co:80/images/asvsJzLLMHLHSIGj9yVrefU0Zip_big.jpg" description="",A Primavera Espetacular de Moranguinho - 2024
+http://fastcdn.fun/movie/580493864/762284416/418711.mp4
+#EXTINF:-1 type="video" tvg-id="A Grande Entrevista - 2024" tvg-logo="http://5ce.co:80/images/jUurIBIrzirFZErIp1XWgIxWZ9f_big.jpg" description="",A Grande Entrevista - 2024
+http://fastcdn.fun/movie/580493864/762284416/418712.mp4
+#EXTINF:-1 type="video" tvg-id="O Fabricante de Lagrimas - 2024" tvg-logo="http://5ce.co:80/images/xOM6dZZa9kfHcyDCIP7Vtg7mQyz_big.jpg" description="",O Fabricante de Lagrimas - 2024
+http://fastcdn.fun/movie/580493864/762284416/418713.mp4
+#EXTINF:-1 type="video" tvg-id="Como Conquistar o Billy Walsh - 2024" tvg-logo="http://5ce.co:80/images/qBMCWy4CdXC8T17h3sceZPpzH7y_big.jpg" description="",Como Conquistar o Billy Walsh - 2024
+http://fastcdn.fun/movie/580493864/762284416/418714.mp4
+#EXTINF:-1 type="video" tvg-id="Principe Lu e a Lenda do Dragao - 2024" tvg-logo="http://5ce.co:80/images/yR2rLWHqC8aYQcG0LZD9p9tA7Mw_big.jpg" description="",Principe Lu e a Lenda do Dragao - 2024
+http://fastcdn.fun/movie/580493864/762284416/418715.mp4
+#EXTINF:-1 type="video" tvg-id="Musica - 2024" tvg-logo="http://5ce.co:80/images/kUX5ourGUJDG0yvEeS3uooZS0dS_big.jpg" description="",Musica - 2024
+http://fastcdn.fun/movie/580493864/762284416/418716.mp4
+#EXTINF:-1 type="video" tvg-id="Imaginario Brinquedo Diabolico - 2024" tvg-logo="http://5ce.co:80/images/cWmBAbqUIgn2Ysy513rqSYE0fYk_big.jpg" description="",Imaginario Brinquedo Diabolico - 2024
+http://fastcdn.fun/movie/580493864/762284416/418717.mp4
+#EXTINF:-1 type="video" tvg-id="Estritamente Confidencial - 2024 " tvg-logo="http://5ce.co:80/images/oRUusyQlKCfynGO1fIoCiLeNsY4_big.jpg" description="",Estritamente Confidencial - 2024 
+http://fastcdn.fun/movie/580493864/762284416/418718.mp4
+#EXTINF:-1 type="video" tvg-id="Uma Parede entre Nos - 2024" tvg-logo="http://5ce.co:80/images/5P0KKvPwIFeQnIn9clAOCJBuRsj_big.jpg" description="",Uma Parede entre Nos - 2024
+http://fastcdn.fun/movie/580493864/762284416/418719.mp4
+#EXTINF:-1 type="video" tvg-id="Duna Parte Dois - 2024" tvg-logo="http://5ce.co:80/images/e8pI4XkYgUMuSJ8cEFbJE18wc4e_big.jpg" description="",Duna Parte Dois - 2024
+http://fastcdn.fun/movie/580493864/762284416/418720.mp4
+#EXTINF:-1 type="video" tvg-id="O Reencontro da Turma - 2024" tvg-logo="http://5ce.co:80/images/hERAMeQsYvIBVieP72luNnNrZwz_big.jpg" description="",O Reencontro da Turma - 2024
+http://fastcdn.fun/movie/580493864/762284416/418721.mp4
+#EXTINF:-1 type="video" tvg-id="SDL  A Batalha Musical - 2024" tvg-logo="http://5ce.co:80/images/iiYroOiA7PCwjmxRnMst6jfxXFY_big.jpg" description="",SDL  A Batalha Musical - 2024
+http://fastcdn.fun/movie/580493864/762284416/418722.mp4
+#EXTINF:-1 type="video" tvg-id="Uma Jornada Entre Amigos - 2024" tvg-logo="http://5ce.co:80/images/hE9ToZRWcEd3jh96gbhKjWlUOQa_big.jpg" description="",Uma Jornada Entre Amigos - 2024
+http://fastcdn.fun/movie/580493864/762284416/418723.mp4
+#EXTINF:-1 type="video" tvg-id="Cedo Demais - 2024" tvg-logo="http://5ce.co:80/images/4ESSN9N6DHnir7oomt0RoFy6kJC_big.jpg" description="",Cedo Demais - 2024
+http://fastcdn.fun/movie/580493864/762284416/418724.mp4
+#EXTINF:-1 type="video" tvg-id="Heranca Roubada - 2024" tvg-logo="http://5ce.co:80/images/bZLo7tbOfbZWiSBsWz2tKWdSKmj_big.jpg" description="",Heranca Roubada - 2024
+http://fastcdn.fun/movie/580493864/762284416/418725.mp4
+#EXTINF:-1 type="video" tvg-id="O Mal que Nos Habita  - 2024 " tvg-logo="http://5ce.co:80/images/t6cWfm0o5TzCa3nHtHhXpzjBc8V_big.jpg" description="",O Mal que Nos Habita  - 2024 
+http://fastcdn.fun/movie/580493864/762284416/418726.mp4
+#EXTINF:-1 type="video" tvg-id="O Que Jennifer Fez - 2024 " tvg-logo="http://5ce.co:80/images/r3PJPXuSArGK8tM6lBUyPUTtIbJ_big.jpg" description="",O Que Jennifer Fez - 2024 
+http://fastcdn.fun/movie/580493864/762284416/418727.mp4
+#EXTINF:-1 type="video" tvg-id="Pica Pau As Ferias no Acampamento - 2024" tvg-logo="http://5ce.co:80/images/2INtXKQGxQLT6MhztartxiammuC_big.jpg" description="",Pica Pau As Ferias no Acampamento - 2024
+http://fastcdn.fun/movie/580493864/762284416/418728.mp4
+#EXTINF:-1 type="video" tvg-id="Possessoes - 2024 " tvg-logo="http://5ce.co:80/images/wbf1LkidorzXo2yI9pbjH23YJRr_big.jpg" description="",Possessoes - 2024 
+http://fastcdn.fun/movie/580493864/762284416/418729.mp4
+#EXTINF:-1 type="video" tvg-id="Davi: Um Cara Comum da Bahia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoLltWSfNbH3erey3tWd9Xp81TY.jpg" description="",Davi: Um Cara Comum da Bahia (2024)
+http://fastcdn.fun/movie/580493864/762284416/418756.mp4
+#EXTINF:-1 type="video" tvg-id="Turtles All the Way Down (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDKlFXWCvIkP2Xl2nMdI49kzwZx.jpg" description="",Turtles All the Way Down (2024)
+http://fastcdn.fun/movie/580493864/762284416/418757.mp4
+#EXTINF:-1 type="video" tvg-id="Lisa Frankenstein (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" description="",Lisa Frankenstein (2024)
+http://fastcdn.fun/movie/580493864/762284416/418758.mp4
+#EXTINF:-1 type="video" tvg-id="Meninas Não Choram (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdX8St8uRIeTtwvRQMI3wQCpknb.jpg" description="",Meninas Não Choram (2024)
+http://fastcdn.fun/movie/580493864/762284416/418759.mp4
+#EXTINF:-1 type="video" tvg-id="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" description="",City Hunter (2024)
+http://fastcdn.fun/movie/580493864/762284416/418760.mp4
+#EXTINF:-1 type="video" tvg-id="He Went That Way (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ii1DVzyj9uJOF9qBrnHCT6nAxUw.jpg" description="",He Went That Way (2024)
+http://fastcdn.fun/movie/580493864/762284416/418761.mp4
+#EXTINF:-1 type="video" tvg-id="Lisa Frankenstein (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" description="",Lisa Frankenstein (2024)
+http://fastcdn.fun/movie/580493864/762284416/418762.mp4
+#EXTINF:-1 type="video" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" description="",
+http://fastcdn.fun/movie/580493864/762284416/418763.mp4
+#EXTINF:-1 type="video" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" description="",
+http://fastcdn.fun/movie/580493864/762284416/418764.mp4
+#EXTINF:-1 type="video" tvg-id="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" description="",City Hunter (2024)
+http://fastcdn.fun/movie/580493864/762284416/418765.mp4
+#EXTINF:-1 type="video" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" description="",
+http://fastcdn.fun/movie/580493864/762284416/418766.mp4
+#EXTINF:-1 type="video" tvg-id="Collateral (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOpi3ut5DhQIbrVVjlnmfy2U7dI.jpg" description="",Collateral (2004)
+http://fastcdn.fun/movie/580493864/762284416/418767.mp4
+#EXTINF:-1 type="video" tvg-id="Roadkill (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txDIiggyiFNbwa6TrZvBRfw6E54.jpg" description="",Roadkill (2024)
+http://fastcdn.fun/movie/580493864/762284416/418768.mp4
+#EXTINF:-1 type="video" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" description="",
+http://fastcdn.fun/movie/580493864/762284416/418769.mp4
+#EXTINF:-1 type="video" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" description="",
+http://fastcdn.fun/movie/580493864/762284416/418770.mp4
+#EXTINF:-1 type="video" tvg-id="The Vampire Next Door (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBrzD4DOsj1lbXvjODGAbA8ddm8.jpg" description="",The Vampire Next Door (2024)
+http://fastcdn.fun/movie/580493864/762284416/418771.mp4
+#EXTINF:-1 type="video" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" description="",
+http://fastcdn.fun/movie/580493864/762284416/418772.mp4
+#EXTINF:-1 type="video" tvg-id="Race for Glory: Audi vs Lancia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovoybG8mCn6nQ6i5WoC8DdR08c2.jpg" description="",Race for Glory: Audi vs Lancia (2024)
+http://fastcdn.fun/movie/580493864/762284416/418773.mp4
+#EXTINF:-1 type="video" tvg-id="Cult Killer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSR06FpV1H36OmW0jfEmvG73l2r.jpg" description="",Cult Killer (2024)
+http://fastcdn.fun/movie/580493864/762284416/418774.mp4
+#EXTINF:-1 type="video" tvg-id="American Star (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFjxI9yMd142au1O74JlUttG4Ki.jpg" description="",American Star (2024)
+http://fastcdn.fun/movie/580493864/762284416/418775.mp4
+#EXTINF:-1 type="video" tvg-id="The Seeding (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMHvmhKlyyyCWLc3sCxY9wQ0Gai.jpg" description="",The Seeding (2024)
+http://fastcdn.fun/movie/580493864/762284416/418776.mp4
+#EXTINF:-1 type="video" tvg-id="Hellhounds (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcdyaS9VzPsGx3bZGL1VmvPf9j7.jpg" description="",Hellhounds (2024)
+http://fastcdn.fun/movie/580493864/762284416/418777.mp4
+#EXTINF:-1 type="video" tvg-id="ClearMind (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bInaCHjiMPlcnH5KP4XO5Rz4uG.jpg" description="",ClearMind (2024)
+http://fastcdn.fun/movie/580493864/762284416/418778.mp4
+#EXTINF:-1 type="video" tvg-id="Junction (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yg2ihSPbqy7B7V74VXBBTY1MVmu.jpg" description="",Junction (2024)
+http://fastcdn.fun/movie/580493864/762284416/418779.mp4
+#EXTINF:-1 type="video" tvg-id="Darkland: The Return (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8B4DsVcFVDLVmbpHMHU3RjLNAV.jpg" description="",Darkland: The Return (2023)
+http://fastcdn.fun/movie/580493864/762284416/418780.mp4
+#EXTINF:-1 type="video" tvg-id="Marmalade (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VyR8YGnUKxRzKMynlxxncfVRIo.jpg" description="",Marmalade (2024)
+http://fastcdn.fun/movie/580493864/762284416/418781.mp4
+#EXTINF:-1 type="video" tvg-id="Lost Phoenix (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4O6nybWUMSIEmeu8uNrk5jEdaet.jpg" description="",Lost Phoenix (2024)
+http://fastcdn.fun/movie/580493864/762284416/418782.mp4
+#EXTINF:-1 type="video" tvg-id="Giannis: The Marvelous Journey (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heOqng8QyxEFOuHdF6p4HGw70Zn.jpg" description="",Giannis: The Marvelous Journey (2024)
+http://fastcdn.fun/movie/580493864/762284416/418783.mp4
+#EXTINF:-1 type="video" tvg-id="The Fire (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugj7l5vZqNUyxGgNISCImQ60X3U.jpg" description="",The Fire (2024)
+http://fastcdn.fun/movie/580493864/762284416/418784.mp4
+#EXTINF:-1 type="video" tvg-id="Last Night at Terrace Lanes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yxKZFOVIcNSXqABn9KqGHlBDHZ.jpg" description="",Last Night at Terrace Lanes (2024)
+http://fastcdn.fun/movie/580493864/762284416/418785.mp4
+#EXTINF:-1 type="video" tvg-id="Mea Culpa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg" description="",Mea Culpa (2024)
+http://fastcdn.fun/movie/580493864/762284416/418786.mp4
+#EXTINF:-1 type="video" tvg-id="Tell No Lies (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zO0fzJik3WmIPKLVRIA7GIGTupc.jpg" description="",Tell No Lies (2024)
+http://fastcdn.fun/movie/580493864/762284416/418787.mp4
+#EXTINF:-1 type="video" tvg-id="Earworm (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7LUlsfkJBHmMpsd0RqbE6zp2Am.jpg" description="",Earworm (2024)
+http://fastcdn.fun/movie/580493864/762284416/418788.mp4
+#EXTINF:-1 type="video" tvg-id="End of Loyalty (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4QA1rFQcyBZKaOOdUrDeL1G9Er.jpg" description="",End of Loyalty (2023)
+http://fastcdn.fun/movie/580493864/762284416/418789.mp4
+#EXTINF:-1 type="video" tvg-id="Double Down South (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgAnqwaFKg0fsWVTFEo6vk82msE.jpg" description="",Double Down South (2024)
+http://fastcdn.fun/movie/580493864/762284416/418790.mp4
+#EXTINF:-1 type="video" tvg-id="Chapel (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94sIggRUBioP19m3vJQfV3lq6Z6.jpg" description="",Chapel (2024)
+http://fastcdn.fun/movie/580493864/762284416/418791.mp4
+#EXTINF:-1 type="video" tvg-id="Música (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" description="",Música (2024)
+http://fastcdn.fun/movie/580493864/762284416/418792.mp4
+#EXTINF:-1 type="video" tvg-id="Air Force One Down (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKPoSD4pZ3s3CJ9g3cqWRcQ41TC.jpg" description="",Air Force One Down (2024)
+http://fastcdn.fun/movie/580493864/762284416/418793.mp4
+#EXTINF:-1 type="video" tvg-id="Franklin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLg00u6gUggDK3EI2A9eolaqlyP.jpg" description="",Franklin
+http://fastcdn.fun/movie/580493864/762284416/418794.mp4
+#EXTINF:-1 type="video" tvg-id="Querido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2fbDN8GrQmKQlKoaeUFJcnDQC3.jpg" description="",Querido
+http://fastcdn.fun/movie/580493864/762284416/418795.mp4
+#EXTINF:-1 type="video" tvg-id="Self Reliance (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg" description="",Self Reliance (2023)
+http://fastcdn.fun/movie/580493864/762284416/418796.mp4
+#EXTINF:-1 type="video" tvg-id="Gato Galáctico e o Feitiço do Tempo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pj5L9BlAQWN8y3YJsxnMAI6cVo3.jpg" description="",Gato Galáctico e o Feitiço do Tempo (2024)
+http://fastcdn.fun/movie/580493864/762284416/418797.mp4
+#EXTINF:-1 type="video" tvg-id="Stripper Party" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8svYLpKSxEpUgWk1ET2MOw5e8hT.jpg" description="",Stripper Party
+http://fastcdn.fun/movie/580493864/762284416/418798.mp4
+#EXTINF:-1 type="video" tvg-id="Prey for the Bride (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Rs7L8RhBzpQsaw1qJYlw3ESrsS.jpg" description="",Prey for the Bride (2024)
+http://fastcdn.fun/movie/580493864/762284416/418799.mp4
+#EXTINF:-1 type="video" tvg-id="Skeletons in the Closet (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/piK7sqRNjToW7ryMbWEG34vFup5.jpg" description="",Skeletons in the Closet (2024)
+http://fastcdn.fun/movie/580493864/762284416/418800.mp4
+#EXTINF:-1 type="video" tvg-id="The Bad Shepherd (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AKfaFB0RDHxJjwpD77jljBUCNn.jpg" description="",The Bad Shepherd (2024)
+http://fastcdn.fun/movie/580493864/762284416/418801.mp4
+#EXTINF:-1 type="video" tvg-id="Cabrini (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBiHiN8W4BqMFrDozemzkof7GmF.jpg" description="",Cabrini (2024)
+http://fastcdn.fun/movie/580493864/762284416/418802.mp4
+#EXTINF:-1 type="video" tvg-id="unDEFILED (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/au6raH6MsBBqzLWvcZ7g5mOWpai.jpg" description="",unDEFILED (2024)
+http://fastcdn.fun/movie/580493864/762284416/418803.mp4
+#EXTINF:-1 type="video" tvg-id="Double Blind (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGKQ4nPA5WDVbq2KdXkGpohEC7Y.jpg" description="",Double Blind (2024)
+http://fastcdn.fun/movie/580493864/762284416/418804.mp4
+#EXTINF:-1 type="video" tvg-id="Príncipe Lu e a Lenda do Dragão (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yR2rLWHqC8aYQcG0LZD9p9tA7Mw.jpg" description="",Príncipe Lu e a Lenda do Dragão (2024)
+http://fastcdn.fun/movie/580493864/762284416/418805.mp4
+#EXTINF:-1 type="video" tvg-id="Nefarious (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFN5Hb8Gqn7VEmfSOOqPt8Udyb9.jpg" description="",Nefarious (2023)
+http://fastcdn.fun/movie/580493864/762284416/418806.mp4
+#EXTINF:-1 type="video" tvg-id="Fluxo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB6fwoXBGalwV380YL9u7aPpdO8.jpg" description="",Fluxo
+http://fastcdn.fun/movie/580493864/762284416/418807.mp4
+#EXTINF:-1 type="video" tvg-id="Dogman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZGdlrKxglrWciRl0Rs6lAjfPHM.jpg" description="",Dogman (2023)
+http://fastcdn.fun/movie/580493864/762284416/418808.mp4
+#EXTINF:-1 type="video" tvg-id="Bobi Wine: The People's President (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0CxiYRhjDn1jwL6OTzdrLUPLBM.jpg" description="",Bobi Wine: The People's President (2023)
+http://fastcdn.fun/movie/580493864/762284416/418809.mp4
+#EXTINF:-1 type="video" tvg-id="Bala Sem Nome (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m87NGIBMVdqqYDdFdklPwK6VvUr.jpg" description="",Bala Sem Nome (2023)
+http://fastcdn.fun/movie/580493864/762284416/418810.mp4
+#EXTINF:-1 type="video" tvg-id="Heir of the Witch (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgx6Zm3y2P31Iohd2noJO4uOFKl.jpg" description="",Heir of the Witch (2023)
+http://fastcdn.fun/movie/580493864/762284416/418811.mp4
+#EXTINF:-1 type="video" tvg-id="Tripped Up (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0TjTcPfifQXjpTbE7cueD4XFas.jpg" description="",Tripped Up (2023)
+http://fastcdn.fun/movie/580493864/762284416/418812.mp4
+#EXTINF:-1 type="video" tvg-id="Crypto Shadows (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNM5GbXsS9JRosEooZc5RaNmcjW.jpg" description="",Crypto Shadows (2023)
+http://fastcdn.fun/movie/580493864/762284416/418813.mp4
+#EXTINF:-1 type="video" tvg-id="Ferrari (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg" description="",Ferrari (2023)
+http://fastcdn.fun/movie/580493864/762284416/418814.mp4
+#EXTINF:-1 type="video" tvg-id="Coyote (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HTGXxNL80vC4QhPD7Dy58tEYbW.jpg" description="",Coyote (2023)
+http://fastcdn.fun/movie/580493864/762284416/418815.mp4
+#EXTINF:-1 type="video" tvg-id="Vermines" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dx1yPdVzxEr6rMn4cVSiljk1kX.jpg" description="",Vermines
+http://fastcdn.fun/movie/580493864/762284416/418822.mp4
+#EXTINF:-1 type="video" tvg-id="GABRIELA ROCHA - ME ATRAIU  (2024)" tvg-logo="https://www.themoviedb.org/assets/2/v4/glyphicons/basic/glyphicons-basic-38-picture-grey-c2ebdbb057f2a7614185931650f8cee23fa137b93812ccb132b9df511df1cfac.svg" description="",GABRIELA ROCHA - ME ATRAIU  (2024)
+http://fastcdn.fun/movie/580493864/762284416/418828.mp4
+#EXTINF:-1 type="video" tvg-id="Feitiçaria (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/99wdStgFDTnrPbgpBt29lI87vai.jpg" description="",Feitiçaria (2024)
+http://fastcdn.fun/movie/580493864/762284416/419170.mp4
+#EXTINF:-1 type="video" tvg-id="É Noite na América (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/6c9C6vjRiylrLlBGquXZR7LLr8W.jpg" description="",É Noite na América (2024)
+http://fastcdn.fun/movie/580493864/762284416/419483.mp4
+#EXTINF:-1 type="video" tvg-id="Cassino (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/iO4CXhVwgrANZnToW9Cc5zUZU2w.jpg" description="",Cassino (2024)
+http://fastcdn.fun/movie/580493864/762284416/420308.mp4
+#EXTINF:-1 type="video" tvg-id="LOCA (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/6v7QHAnpnbAlLvVchNRuzryA0xW.jpg" description="",LOCA (2024)
+http://fastcdn.fun/movie/580493864/762284416/422006.mp4
+#EXTINF:-1 type="video" tvg-id="O Poder do Ritmo 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w780/zdh5FNmEc4oRCR7stGraJTbc49j.jpg" description="",O Poder do Ritmo 2 (2010)
+http://fastcdn.fun/movie/580493864/762284416/422500.mp4
+#EXTINF:-1 type="video" tvg-id="Escobar: A Traição (2017)" tvg-logo="https://image.tmdb.org/t/p/w780/bV1Blgc4Oq9PU9GlPzYiBuNotmm.jpg" description="",Escobar: A Traição (2017)
+http://fastcdn.fun/movie/580493864/762284416/422876.mp4
+#EXTINF:-1 type="video" tvg-id="Escritores da Liberdade (2007)" tvg-logo="https://image.tmdb.org/t/p/w780/2hyEEPT57d0rkXYmCH7vm5rKhKH.jpg" description="",Escritores da Liberdade (2007)
+http://fastcdn.fun/movie/580493864/762284416/422877.mp4
+#EXTINF:-1 type="video" tvg-id="Estados Unidos vs. Billie Holiday (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/2zMgNepldhcB2oMHZDJFhyiaqu2.jpg" description="",Estados Unidos vs. Billie Holiday (2021)
+http://fastcdn.fun/movie/580493864/762284416/422878.mp4
+#EXTINF:-1 type="video" tvg-id="Estou Pensando em Acabar com Tudo (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/roRRTAzpLJSo32jRGPDuUKZDfC.jpg" description="",Estou Pensando em Acabar com Tudo (2020)
+http://fastcdn.fun/movie/580493864/762284416/422879.mp4
+#EXTINF:-1 type="video" tvg-id="Estrada Sem Lei (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/wP3FAJPYqHjLMPooyHPvSbXoNyM.jpg" description="",Estrada Sem Lei (2019)
+http://fastcdn.fun/movie/580493864/762284416/422880.mp4
+#EXTINF:-1 type="video" tvg-id="Estranha Presença (2018)" tvg-logo="https://image.tmdb.org/t/p/w780/9Om7atCqjdAOJ1zXQUg4QYFwlJd.jpg" description="",Estranha Presença (2018)
+http://fastcdn.fun/movie/580493864/762284416/422881.mp4
+#EXTINF:-1 type="video" tvg-id="Estrelas Além do Tempo (2016)" tvg-logo="https://image.tmdb.org/t/p/w780/6A1Jn0tooQYgi2C8sNz5OaIW98C.jpg" description="",Estrelas Além do Tempo (2016)
+http://fastcdn.fun/movie/580493864/762284416/422882.mp4
+#EXTINF:-1 type="video" tvg-id="Eternamente Jovem (1992)" tvg-logo="https://image.tmdb.org/t/p/w780/rxocLtWrBqNPSQWuy8elB87rQYu.jpg" description="",Eternamente Jovem (1992)
+http://fastcdn.fun/movie/580493864/762284416/422883.mp4
+#EXTINF:-1 type="video" tvg-id="Eu Só Posso Imaginar (2018)" tvg-logo="https://image.tmdb.org/t/p/w780/7ZGJdRHNlVXApD4RzlTzwR25j3c.jpg" description="",Eu Só Posso Imaginar (2018)
+http://fastcdn.fun/movie/580493864/762284416/422884.mp4
+#EXTINF:-1 type="video" tvg-id="Eu Sou a Lenda (2007)" tvg-logo="https://image.tmdb.org/t/p/w780/1J21bfEDWlTZadUbDVgVIkMpHL7.jpg" description="",Eu Sou a Lenda (2007)
+http://fastcdn.fun/movie/580493864/762284416/422885.mp4
+#EXTINF:-1 type="video" tvg-id="Eu, Tonya (2017)" tvg-logo="https://image.tmdb.org/t/p/w780/1awJ19hydmplGNib38L8solMBHY.jpg" description="",Eu, Tonya (2017)
+http://fastcdn.fun/movie/580493864/762284416/422886.mp4
+#EXTINF:-1 type="video" tvg-id="Evereste (2015)" tvg-logo="https://image.tmdb.org/t/p/w780/2PkYTktwBeaB7xbBatMJmAY67lD.jpg" description="",Evereste (2015)
+http://fastcdn.fun/movie/580493864/762284416/422887.mp4
+#EXTINF:-1 type="video" tvg-id="Expedição Kon Tiki (2012)" tvg-logo="https://image.tmdb.org/t/p/w780/fsfyvmAoLZqenIGvFQOF7FviT9O.jpg" description="",Expedição Kon Tiki (2012)
+http://fastcdn.fun/movie/580493864/762284416/422888.mp4
+#EXTINF:-1 type="video" tvg-id="Extraordinário (2017)" tvg-logo="https://image.tmdb.org/t/p/w780/eB1vhoNrN2oR82fxsHp7vvLgMhz.jpg" description="",Extraordinário (2017)
+http://fastcdn.fun/movie/580493864/762284416/422889.mp4
+#EXTINF:-1 type="video" tvg-id="Falsos Milionários (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/su2h6EVRM2IlWTpiuBBWfEycFBD.jpg" description="",Falsos Milionários (2020)
+http://fastcdn.fun/movie/580493864/762284416/422890.mp4
+#EXTINF:-1 type="video" tvg-id="Fátima (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/h6q3lMGGpj4gzFqXNnGp0d5lQRq.jpg" description="",Fátima (2024)
+http://fastcdn.fun/movie/580493864/762284416/422891.mp4
+#EXTINF:-1 type="video" tvg-id="Fenômeno (1996)" tvg-logo="https://image.tmdb.org/t/p/w780/hO456mcek6Ko9wbFJBUuGABccI9.jpg" description="",Fenômeno (1996)
+http://fastcdn.fun/movie/580493864/762284416/422892.mp4
+#EXTINF:-1 type="video" tvg-id="Ferida (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/2xIZquihwt07k9G2sQ5bketKL9Z.jpg" description="",Ferida (2020)
+http://fastcdn.fun/movie/580493864/762284416/422893.mp4
+#EXTINF:-1 type="video" tvg-id="Filadélfia (1993)" tvg-logo="https://image.tmdb.org/t/p/w780/rTkuPK66Aw9e8niPr8F7IgXzFU6.jpg" description="",Filadélfia (1993)
+http://fastcdn.fun/movie/580493864/762284416/422894.mp4
+#EXTINF:-1 type="video" tvg-id="Filhos de Istambul (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/fdVOFZgwYlLb73ehiWLRm64K2rB.jpg" description="",Filhos de Istambul (2021)
+http://fastcdn.fun/movie/580493864/762284416/422895.mp4
+#EXTINF:-1 type="video" tvg-id="Filhos do Ódio (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/wbleajDCRJcCzn8vNUYxtKrSAvb.jpg" description="",Filhos do Ódio (2021)
+http://fastcdn.fun/movie/580493864/762284416/422896.mp4
+#EXTINF:-1 type="video" tvg-id="Filhos do Paraíso (1997)" tvg-logo="https://image.tmdb.org/t/p/w780/coUGwSsdWBfRe6mbYQPYTMpnfcM.jpg" description="",Filhos do Paraíso (1997)
+http://fastcdn.fun/movie/580493864/762284416/422897.mp4
+#EXTINF:-1 type="video" tvg-id="Fim da Sentença (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/cOdvL6czWKyh3cVD7l0cnywRyyS.jpg" description="",Fim da Sentença (2019)
+http://fastcdn.fun/movie/580493864/762284416/422898.mp4
+#EXTINF:-1 type="video" tvg-id="Fim de Festa (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/eSGIE8iWDfsjJU1JJ0SlNvA02pG.jpg" description="",Fim de Festa (2019)
+http://fastcdn.fun/movie/580493864/762284416/422899.mp4
+#EXTINF:-1 type="video" tvg-id="Fluidity (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/rxH9oVG4YVtl5OSqSVvCA70CIGV.jpg" description="",Fluidity (2019)
+http://fastcdn.fun/movie/580493864/762284416/422900.mp4
+#EXTINF:-1 type="video" tvg-id="Fome de Poder (2016)" tvg-logo="https://image.tmdb.org/t/p/w780/1YpHj6aV1yKWP20hKj1KUiLaIbi.jpg" description="",Fome de Poder (2016)
+http://fastcdn.fun/movie/580493864/762284416/422901.mp4
+#EXTINF:-1 type="video" tvg-id="Footloose (2011)" tvg-logo="https://image.tmdb.org/t/p/w780/jc4lpRBnxWRT99iJZGiDNOKV1G9.jpg" description="",Footloose (2011)
+http://fastcdn.fun/movie/580493864/762284416/422902.mp4
+#EXTINF:-1 type="video" tvg-id="Ford vs Ferrari (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/t8L9dqNMclXJHP0TesPsPS2RvB1.jpg" description="",Ford vs Ferrari (2019)
+http://fastcdn.fun/movie/580493864/762284416/422903.mp4
+#EXTINF:-1 type="video" tvg-id="Forever Rich (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/vRbX9sTiZheczEtNfjAi0bhHPAn.jpg" description="",Forever Rich (2021)
+http://fastcdn.fun/movie/580493864/762284416/422904.mp4
+#EXTINF:-1 type="video" tvg-id="Forjando Campeões (2018)" tvg-logo="https://image.tmdb.org/t/p/w780/pQH2ImBSEDAfKjs3fwxzCRixG24.jpg" description="",Forjando Campeões (2018)
+http://fastcdn.fun/movie/580493864/762284416/422905.mp4
+#EXTINF:-1 type="video" tvg-id="Freaks: Um de Nós (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/q5vhnaaOLSUboRJwiJbYqoUsach.jpg" description="",Freaks: Um de Nós (2020)
+http://fastcdn.fun/movie/580493864/762284416/422906.mp4
+#EXTINF:-1 type="video" tvg-id="Free Willy (1993)" tvg-logo="https://image.tmdb.org/t/p/w780/9iBgd9gi9ztWiVcYSG6zl8wDFBN.jpg" description="",Free Willy (1993)
+http://fastcdn.fun/movie/580493864/762284416/422907.mp4
+#EXTINF:-1 type="video" tvg-id="Free Willy 2 - A Aventura Continua (1995)" tvg-logo="https://image.tmdb.org/t/p/w780/44l5WNsywfEaZVz7JbcRYUXTpr6.jpg" description="",Free Willy 2 - A Aventura Continua (1995)
+http://fastcdn.fun/movie/580493864/762284416/422908.mp4
+#EXTINF:-1 type="video" tvg-id="Free Willy 3 - O Resgate (1997)" tvg-logo="https://image.tmdb.org/t/p/w780/9ohHn7XETI1stieBJ8MHsYsJYZs.jpg" description="",Free Willy 3 - O Resgate (1997)
+http://fastcdn.fun/movie/580493864/762284416/422909.mp4
+#EXTINF:-1 type="video" tvg-id="Fruitvale Station: A Última Parada (2013)" tvg-logo="https://image.tmdb.org/t/p/w780/dS2xpQU9ibOnscpwhDAJRgccOD2.jpg" description="",Fruitvale Station: A Última Parada (2013)
+http://fastcdn.fun/movie/580493864/762284416/422910.mp4
+#EXTINF:-1 type="video" tvg-id="Fuga de Auschwitz (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/lKYxhG1Y7pse4kFMaz754gWAjrQ.jpg" description="",Fuga de Auschwitz (2020)
+http://fastcdn.fun/movie/580493864/762284416/422911.mp4
+#EXTINF:-1 type="video" tvg-id="Fuga de Pretória (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/hCfbTvx2R0fZIeXN0UKC3gfXlvG.jpg" description="",Fuga de Pretória (2020)
+http://fastcdn.fun/movie/580493864/762284416/422912.mp4
+#EXTINF:-1 type="video" tvg-id="Fugindo do Inferno (1963)" tvg-logo="https://image.tmdb.org/t/p/w780/iTh8thzuxiM5FwCaxsSTpaix27L.jpg" description="",Fugindo do Inferno (1963)
+http://fastcdn.fun/movie/580493864/762284416/422913.mp4
+#EXTINF:-1 type="video" tvg-id="Fukushima: Ameaça Nuclear (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/aj9mQjMn5cL04ZXigG60gbLPNWO.jpg" description="",Fukushima: Ameaça Nuclear (2020)
+http://fastcdn.fun/movie/580493864/762284416/422914.mp4
+#EXTINF:-1 type="video" tvg-id="Gangues de Londres (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/c9bHFSNe5ph0rztKbNdNuZUitv5.jpg" description="",Gangues de Londres (2019)
+http://fastcdn.fun/movie/580493864/762284416/422915.mp4
+#EXTINF:-1 type="video" tvg-id="Garota Exemplar (2014)" tvg-logo="https://image.tmdb.org/t/p/w780/54nI3vSKlPp42WhJmKVRdmMbkzl.jpg" description="",Garota Exemplar (2014)
+http://fastcdn.fun/movie/580493864/762284416/422916.mp4
+#EXTINF:-1 type="video" tvg-id="Garota, Interrompida (1999)" tvg-logo="https://image.tmdb.org/t/p/w780/wUO6W6DVF5x5ppQ2X2YXi7HIm1.jpg" description="",Garota, Interrompida (1999)
+http://fastcdn.fun/movie/580493864/762284416/422917.mp4
+#EXTINF:-1 type="video" tvg-id="Gia: Fama e Destruição (1998)" tvg-logo="https://image.tmdb.org/t/p/w780/nvGZ4jKd7Y3CD8Cps1m8wr1PMTo.jpg" description="",Gia: Fama e Destruição (1998)
+http://fastcdn.fun/movie/580493864/762284416/422918.mp4
+#EXTINF:-1 type="video" tvg-id="Gol!: O Sonho Impossível (2005)" tvg-logo="https://image.tmdb.org/t/p/w780/j2whO2w2pwTwxaO1NOojfGERSAb.jpg" description="",Gol!: O Sonho Impossível (2005)
+http://fastcdn.fun/movie/580493864/762284416/422919.mp4
+#EXTINF:-1 type="video" tvg-id="Gol! II: Vivendo o Sonho (2007)" tvg-logo="https://image.tmdb.org/t/p/w780/12m1qXKCAToKUNPognzsshiL0CL.jpg" description="",Gol! II: Vivendo o Sonho (2007)
+http://fastcdn.fun/movie/580493864/762284416/422920.mp4
+#EXTINF:-1 type="video" tvg-id="Graças a Deus (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/pGON91viglFuiug8BIue0JADxI7.jpg" description="",Graças a Deus (2019)
+http://fastcdn.fun/movie/580493864/762284416/422921.mp4
+#EXTINF:-1 type="video" tvg-id="Grande Demais Para Quebrar (2011)" tvg-logo="https://image.tmdb.org/t/p/w780/pddvV1tPMOPPlfJhDNyAUbMiR9i.jpg" description="",Grande Demais Para Quebrar (2011)
+http://fastcdn.fun/movie/580493864/762284416/422922.mp4
+#EXTINF:-1 type="video" tvg-id="Green Book: O Guia (2018)" tvg-logo="https://image.tmdb.org/t/p/w780/u9dldwRwQjTZGlIxKaAtAPLAjOv.jpg" description="",Green Book: O Guia (2018)
+http://fastcdn.fun/movie/580493864/762284416/422923.mp4
+#EXTINF:-1 type="video" tvg-id="Greta (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/kDl1LxSe6ulL81VUAwi2651GWy1.jpg" description="",Greta (2019)
+http://fastcdn.fun/movie/580493864/762284416/422924.mp4
+#EXTINF:-1 type="video" tvg-id="Guerra de Algodão (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/hvbXJHfxXDdEHIXWebVOysqRJ7J.jpg" description="",Guerra de Algodão (2020)
+http://fastcdn.fun/movie/580493864/762284416/422925.mp4
+#EXTINF:-1 type="video" tvg-id="Hacker: Todo Crime Tem Um Início (2016)" tvg-logo="https://image.tmdb.org/t/p/w780/7DIKp3OVI2ZgiTFgxPIUCV6XriW.jpg" description="",Hacker: Todo Crime Tem Um Início (2016)
+http://fastcdn.fun/movie/580493864/762284416/422926.mp4
+#EXTINF:-1 type="video" tvg-id="Hair (1979)" tvg-logo="https://image.tmdb.org/t/p/w780/z0ctToyPWCB2RgIkMpD6RhRKAeH.jpg" description="",Hair (1979)
+http://fastcdn.fun/movie/580493864/762284416/422927.mp4
+#EXTINF:-1 type="video" tvg-id="Hala (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/uFD6hHJMZIaQmV0bmpc4M9IlM0q.jpg" description="",Hala (2019)
+http://fastcdn.fun/movie/580493864/762284416/422928.mp4
+#EXTINF:-1 type="video" tvg-id="Harriet (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/bNmuY9vOx1AEh3G8G1IUppFKAgj.jpg" description="",Harriet (2019)
+http://fastcdn.fun/movie/580493864/762284416/422929.mp4
+#EXTINF:-1 type="video" tvg-id="Hebe: A Estrela do Brasil (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/7meXcYx9Vlj8rKiuIFtYgPEOwNU.jpg" description="",Hebe: A Estrela do Brasil (2019)
+http://fastcdn.fun/movie/580493864/762284416/422930.mp4
+#EXTINF:-1 type="video" tvg-id="História de um Casamento (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/LaZ5rwaMvVH20J8O2Nu9uuXGI5.jpg" description="",História de um Casamento (2019)
+http://fastcdn.fun/movie/580493864/762284416/422931.mp4
+#EXTINF:-1 type="video" tvg-id="Histórias Cruzadas (2011)" tvg-logo="https://image.tmdb.org/t/p/w780/7iWfEm9VOeX8AAnC7F1ApxRDTfw.jpg" description="",Histórias Cruzadas (2011)
+http://fastcdn.fun/movie/580493864/762284416/422932.mp4
+#EXTINF:-1 type="video" tvg-id="Histórias Incomuns (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/v8H46MFMhUigwxv5pfgHNMOOVVr.jpg" description="",Histórias Incomuns (2021)
+http://fastcdn.fun/movie/580493864/762284416/422933.mp4
+#EXTINF:-1 type="video" tvg-id="Homens de Coragem (2017)" tvg-logo="https://image.tmdb.org/t/p/w780/llnIydfVBpZZ5rCfhzDonq5BIST.jpg" description="",Homens de Coragem (2017)
+http://fastcdn.fun/movie/580493864/762284416/422934.mp4
+#EXTINF:-1 type="video" tvg-id="Homens de Honra (2000)" tvg-logo="https://image.tmdb.org/t/p/w780/gv6BZRbfJGxBp9tFFKMuXuJGwTe.jpg" description="",Homens de Honra (2000)
+http://fastcdn.fun/movie/580493864/762284416/422935.mp4
+#EXTINF:-1 type="video" tvg-id="Honey 2: No Ritmo dos Sonhos (2011)" tvg-logo="https://image.tmdb.org/t/p/w780/znKwFYSKYweW4EW7nFYboEbaUtz.jpg" description="",Honey 2: No Ritmo dos Sonhos (2011)
+http://fastcdn.fun/movie/580493864/762284416/422936.mp4
+#EXTINF:-1 type="video" tvg-id="Honey 3: No Ritmo do Amor (2016)" tvg-logo="https://image.tmdb.org/t/p/w780/y4UXQwfaN0MKLsYCzfAg2WG9QQ8.jpg" description="",Honey 3: No Ritmo do Amor (2016)
+http://fastcdn.fun/movie/580493864/762284416/422937.mp4
+#EXTINF:-1 type="video" tvg-id="Honra ao Mérito (2017)" tvg-logo="https://image.tmdb.org/t/p/w780/1zNbZTXagFXpGtoe49xqKXmOuRF.jpg" description="",Honra ao Mérito (2017)
+http://fastcdn.fun/movie/580493864/762284416/422938.mp4
+#EXTINF:-1 type="video" tvg-id="Enquanto Houver Amor (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/v9h8BqlwiHdAgL4cOMeyX2ndP55.jpg" description="",Enquanto Houver Amor (2019)
+http://fastcdn.fun/movie/580493864/762284416/422939.mp4
+#EXTINF:-1 type="video" tvg-id="Horizonte Profundo: Desastre no Golfo (2016)" tvg-logo="https://image.tmdb.org/t/p/w780/vWv6Z1nG2KZwaR6IjI7wwhsIJt4.jpg" description="",Horizonte Profundo: Desastre no Golfo (2016)
+http://fastcdn.fun/movie/580493864/762284416/422940.mp4
+#EXTINF:-1 type="video" tvg-id="Hotel Ruanda (2004)" tvg-logo="https://image.tmdb.org/t/p/w780/p3pHw85UMZPegfMZBA6dZ06yarm.jpg" description="",Hotel Ruanda (2004)
+http://fastcdn.fun/movie/580493864/762284416/422941.mp4
+#EXTINF:-1 type="video" tvg-id="Hurricane: O Furacão (1999)" tvg-logo="https://image.tmdb.org/t/p/w780/55v0hmCSU6EwnsCLkWsy9MUVrB1.jpg" description="",Hurricane: O Furacão (1999)
+http://fastcdn.fun/movie/580493864/762284416/422942.mp4
+#EXTINF:-1 type="video" tvg-id="Icebox (2018)" tvg-logo="https://image.tmdb.org/t/p/w780/pavdRZ1K73B5GMb1mceblYKzIwz.jpg" description="",Icebox (2018)
+http://fastcdn.fun/movie/580493864/762284416/422943.mp4
+#EXTINF:-1 type="video" tvg-id="Identidade (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/zrWBYJ3aDRA6VItkx9wM54R2ayM.jpg" description="",Identidade (2021)
+http://fastcdn.fun/movie/580493864/762284416/422944.mp4
+#EXTINF:-1 type="video" tvg-id="Ilha do Medo (2010)" tvg-logo="https://image.tmdb.org/t/p/w780/erl801HYIodoIBGZeFk0GTwCUBh.jpg" description="",Ilha do Medo (2010)
+http://fastcdn.fun/movie/580493864/762284416/422945.mp4
+#EXTINF:-1 type="video" tvg-id="Ilhados (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/jZonuUeC9bH2D5A609w7nkplhyj.jpg" description="",Ilhados (2021)
+http://fastcdn.fun/movie/580493864/762284416/422946.mp4
+#EXTINF:-1 type="video" tvg-id="Imperdoável (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/kbHo7UFYihixl5goN2Ro5Zs15Cw.jpg" description="",Imperdoável (2021)
+http://fastcdn.fun/movie/580493864/762284416/422947.mp4
+#EXTINF:-1 type="video" tvg-id="Infância Roubada (2005)" tvg-logo="https://image.tmdb.org/t/p/w780/oFFL091Nx5L9AfRoYq9dUuIjHVo.jpg" description="",Infância Roubada (2005)
+http://fastcdn.fun/movie/580493864/762284416/422948.mp4
+#EXTINF:-1 type="video" tvg-id="Inferno Branco (1994)" tvg-logo="https://image.tmdb.org/t/p/w780/m6Lsf1Xj7LCX6lbLzWCncfvZV90.jpg" description="",Inferno Branco (1994)
+http://fastcdn.fun/movie/580493864/762284416/422949.mp4
+#EXTINF:-1 type="video" tvg-id="Inimigos Íntimos (2018)" tvg-logo="https://image.tmdb.org/t/p/w780/8b63u6pfSUqZt0BXgYIxpPLw3SA.jpg" description="",Inimigos Íntimos (2018)
+http://fastcdn.fun/movie/580493864/762284416/422950.mp4
+#EXTINF:-1 type="video" tvg-id="Instinto (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/tmIS7VBd8p0yX0AzUbNmYROtLPH.jpg" description="",Instinto (2019)
+http://fastcdn.fun/movie/580493864/762284416/422951.mp4
+#EXTINF:-1 type="video" tvg-id="Invencível: Caminho da Redenção (2018)" tvg-logo="https://image.tmdb.org/t/p/w780/lVcvhoW2SINW0hNDSkKeAsGDZ1Y.jpg" description="",Invencível: Caminho da Redenção (2018)
+http://fastcdn.fun/movie/580493864/762284416/422952.mp4
+#EXTINF:-1 type="video" tvg-id="Invictus (2009)" tvg-logo="https://image.tmdb.org/t/p/w780/auIEpnjc5T8bPkb0Dnx6hLENycu.jpg" description="",Invictus (2009)
+http://fastcdn.fun/movie/580493864/762284416/422953.mp4
+#EXTINF:-1 type="video" tvg-id="Isolados (2018)" tvg-logo="https://image.tmdb.org/t/p/w780/jhRufHCyRF84UkTrrMzWx61g9eF.jpg" description="",Isolados (2018)
+http://fastcdn.fun/movie/580493864/762284416/422954.mp4
+#EXTINF:-1 type="video" tvg-id="Je Suis Karl (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/u9BbGSO1JWl7ymewtzFJTn1XyUv.jpg" description="",Je Suis Karl (2021)
+http://fastcdn.fun/movie/580493864/762284416/422955.mp4
+#EXTINF:-1 type="video" tvg-id="Jobs (2013)" tvg-logo="https://image.tmdb.org/t/p/w780/mOyZ0UAWaOJartFq2G3Cv0soFtQ.jpg" description="",Jobs (2013)
+http://fastcdn.fun/movie/580493864/762284416/422956.mp4
+#EXTINF:-1 type="video" tvg-id="Jogo de Xadrez (2014)" tvg-logo="https://image.tmdb.org/t/p/w780/jGZ3HDSWVaX6tONmlMLnKanreSV.jpg" description="",Jogo de Xadrez (2014)
+http://fastcdn.fun/movie/580493864/762284416/422957.mp4
+#EXTINF:-1 type="video" tvg-id="Jogo Duplo (2018)" tvg-logo="https://image.tmdb.org/t/p/w780/lqNiRYErqND6A0pSyEy4EPBQndt.jpg" description="",Jogo Duplo (2018)
+http://fastcdn.fun/movie/580493864/762284416/422958.mp4
+#EXTINF:-1 type="video" tvg-id="Joias Brutas (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/6KGAFoAoMyLKL6rcdK8NBUCgZjP.jpg" description="",Joias Brutas (2019)
+http://fastcdn.fun/movie/580493864/762284416/422959.mp4
+#EXTINF:-1 type="video" tvg-id="Jovens Mulheres (2018)" tvg-logo="https://image.tmdb.org/t/p/w780/pGQAxu7EMSyMFcTZilmtfbmAQij.jpg" description="",Jovens Mulheres (2018)
+http://fastcdn.fun/movie/580493864/762284416/422960.mp4
+#EXTINF:-1 type="video" tvg-id="Joy: O Nome do Sucesso (2015)" tvg-logo="https://image.tmdb.org/t/p/w780/7icWz22RlPltHdIpR1iF95fuSrs.jpg" description="",Joy: O Nome do Sucesso (2015)
+http://fastcdn.fun/movie/580493864/762284416/422961.mp4
+#EXTINF:-1 type="video" tvg-id="Judas e o Messias Negro (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/oA4Hsn1G0sBI8U61BpX05GsrrfF.jpg" description="",Judas e o Messias Negro (2021)
+http://fastcdn.fun/movie/580493864/762284416/422962.mp4
+#EXTINF:-1 type="video" tvg-id="Jumbo (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/9XqRS3Wg6PCdomQYL4qPIju1OWE.jpg" description="",Jumbo (2019)
+http://fastcdn.fun/movie/580493864/762284416/422963.mp4
+#EXTINF:-1 type="video" tvg-id="Juntos para Sempre (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/1cQQY3UzpQOodoa71yej3elNkqF.jpg" description="",Juntos para Sempre (2019)
+http://fastcdn.fun/movie/580493864/762284416/422964.mp4
+#EXTINF:-1 type="video" tvg-id="Justiça Sem Fronteiras (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/6mOic4rFKag7XrHUmpfXVkUlhZo.jpg" description="",Justiça Sem Fronteiras (2019)
+http://fastcdn.fun/movie/580493864/762284416/422965.mp4
+#EXTINF:-1 type="video" tvg-id="K19 (2002)" tvg-logo="https://image.tmdb.org/t/p/w780/ojUbKgXLeGr67XCuGVfU9KZh2rg.jpg" description="",K19 (2002)
+http://fastcdn.fun/movie/580493864/762284416/422966.mp4
+#EXTINF:-1 type="video" tvg-id="Kursk: A Última Missão (2018)" tvg-logo="https://image.tmdb.org/t/p/w780/e2IfN9oSfu7n1raLplXx4hjRdUc.jpg" description="",Kursk: A Última Missão (2018)
+http://fastcdn.fun/movie/580493864/762284416/422967.mp4
+#EXTINF:-1 type="video" tvg-id="Lady Bird - A Hora de Voar (2017)" tvg-logo="https://image.tmdb.org/t/p/w780/wxfKcpFPmK9isnxXyvCMbqmBtdg.jpg" description="",Lady Bird - A Hora de Voar (2017)
+http://fastcdn.fun/movie/580493864/762284416/422968.mp4
+#EXTINF:-1 type="video" tvg-id="Landless (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/vNIyA8jQyIzkJWfa7V6GdBi03nq.jpg" description="",Landless (2019)
+http://fastcdn.fun/movie/580493864/762284416/422969.mp4
+#EXTINF:-1 type="video" tvg-id="LBJ: A Esperança de uma Nação (2017)" tvg-logo="https://image.tmdb.org/t/p/w780/7ZeC10eLB09JVVvaxt9Nh9dm1xm.jpg" description="",LBJ: A Esperança de uma Nação (2017)
+http://fastcdn.fun/movie/580493864/762284416/422970.mp4
+#EXTINF:-1 type="video" tvg-id="Lealdade à Prova (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/84QRdfUoxOiJ07n7tv0eU7vcjrj.jpg" description="",Lealdade à Prova (2019)
+http://fastcdn.fun/movie/580493864/762284416/422971.mp4
+#EXTINF:-1 type="video" tvg-id="Legalidade (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/jyZZ2dYYoGC7NfhcW7SrFrZu9Jd.jpg" description="",Legalidade (2019)
+http://fastcdn.fun/movie/580493864/762284416/422972.mp4
+#EXTINF:-1 type="video" tvg-id="Lembranças (2010)" tvg-logo="https://image.tmdb.org/t/p/w780/pnmG02dRGXKeHSbzeCZxSGzaIBX.jpg" description="",Lembranças (2010)
+http://fastcdn.fun/movie/580493864/762284416/422973.mp4
+#EXTINF:-1 type="video" tvg-id="Lembranças de uma Infância (2016)" tvg-logo="https://image.tmdb.org/t/p/w780/fAMou0p4Yxgrogho7NnnnKRfx7j.jpg" description="",Lembranças de uma Infância (2016)
+http://fastcdn.fun/movie/580493864/762284416/422974.mp4
+#EXTINF:-1 type="video" tvg-id="O Hóspede (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/jpaJ0jfPsJJOjWc5wYl7pQXky6k.jpg" description="",O Hóspede (2024)
+http://fastcdn.fun/movie/580493864/762284416/423118.mp4
+#EXTINF:-1 type="video" tvg-id="Virus (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/t2hZqdaf3Y2IR86dYVHkHdf8YeB.jpg" description="",Virus (2024)
+http://fastcdn.fun/movie/580493864/762284416/423817.mp4
+#EXTINF:-1 type="video" tvg-id="Sofá Assassino (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/mu2DMZpMsajDyexM5n6xt34iy71.jpg" description="",Sofá Assassino (2024)
+http://fastcdn.fun/movie/580493864/762284416/424823.mp4
+#EXTINF:-1 type="video" tvg-id="Fatale (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/eMTPHaj9LIwuJD3ccIjRVCsBdpa.jpg" description="",Fatale (2024)
+http://fastcdn.fun/movie/580493864/762284416/425328.mp4
+#EXTINF:-1 type="video" tvg-id="The Moogai (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/wSDmvMbMMgNFNUiok9H9ieUFm04.jpg" description="",The Moogai (2024)
+http://fastcdn.fun/movie/580493864/762284416/425756.mp4
+#EXTINF:-1 type="video" tvg-id="15 Jahre (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/3PYXD2XMfkNjSiN3J5ijUAyOz9u.jpg" description="",15 Jahre (2024)
+http://fastcdn.fun/movie/580493864/762284416/425793.mp4
+#EXTINF:-1 type="video" tvg-id="Becky (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/r6G2KtlNzQBnGzW5EQTwYgSddzS.jpg" description="",Becky (2024)
+http://fastcdn.fun/movie/580493864/762284416/425835.mp4
+#EXTINF:-1 type="video" tvg-id="O Hóspede (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/jpaJ0jfPsJJOjWc5wYl7pQXky6k.jpg" description="",O Hóspede (2024)
+http://fastcdn.fun/movie/580493864/762284416/426017.mp4
+>>>>>>> 3fd1d1367aa0376d27cb7bc6cce8a29b60df2091
 #EXTINF:-1 type="video" tvg-id="Mais Um Tiro Certo (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/zkHkMLoC41euiPZG62wslcHLreH.jpg" description="",Mais Um Tiro Certo (2024)
 http://cdn-br.in/movie/978460358/473005646/1227659.mp4
 #EXTINF:-1 type="video" tvg-id="Alarme de Incêndio (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/jpa9FO979rt16205hnup44sMK38.jpg" description="",Alarme de Incêndio (2024)

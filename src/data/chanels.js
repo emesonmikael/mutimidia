@@ -1,8 +1,8 @@
 const channels = [
     {
-      name: "A FAZENDA PRINCIPAL",
+      name: "A FAZENDA PRINCIP1AL",
       logo: "",
-      url: "http://ezcdn.vood.top:80/hls/2376_.m3u8",
+      url: "https://proxy-heroku.onrender.com/proxy/978460358/473005646/628508.ts",
       group: "Canais || A Fazenda 16"
     },
     {
