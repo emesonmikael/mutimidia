@@ -4,6 +4,58 @@
   margin: 0 auto;
   padding: 20px;
 }
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.stream-list {
+  width: 300px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+.stream-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.stream-list li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  cursor: pointer;
+  border-bottom: 1px solid #e0e0e0;
+  transition: background-color 0.3s;
+}
+
+.stream-list li:hover {
+  background-color: #f9f9f9;
+}
+
+.video-player {
+  flex: 1;
+  background-color: #000;
+  border-radius: 8px;
+  overflow: hidden;
+  max-width: 800px;
+  height: 450px;
+}
+
+.video-player p {
+  color: #fff;
+  padding: 20px;
+}
 
 h1 {
   text-align: center;

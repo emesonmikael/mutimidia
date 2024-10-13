@@ -1,0 +1,21 @@
+/* src/components/VideoPlayer.css */
+.video-player {
+    flex: 1;
+    background-color: #000;
+    border-radius: 8px;
+    overflow: hidden;
+    max-width: 800px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .video-player video {
+    border-radius: 8px;
+  }
+  
+  .video-player p {
+    color: #fff;
+    padding: 20px;
+  }

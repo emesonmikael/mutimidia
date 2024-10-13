@@ -1,7 +1,7 @@
 import React, { useRef, useEffect } from "react";
 import Hls from "hls.js";
 
-const VideoPlayer = ({ src }) => {
+const VideoPlayer1 = ({ src }) => {
   const videoRef = useRef(null);
 
   useEffect(() => {
@@ -25,4 +25,4 @@ const VideoPlayer = ({ src }) => {
   );
 };
 
-export default VideoPlayer;
+export default VideoPlayer1;

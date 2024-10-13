@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import VideoPlayer from "./VideoPlayer";
+import VideoPlayer1 from "./VideoPlayer1";
 
 const M3UPlayer = ({ m3uUrl }) => {
   const [videoUrls, setVideoUrls] = useState([]);
@@ -26,7 +26,7 @@ const M3UPlayer = ({ m3uUrl }) => {
           {videoUrls.map((url, index) => (
             <div key={index}>
               <h4>Video {index + 1}</h4>
-              <VideoPlayer src={url} />
+              <VideoPlayer1 src={url} />
             </div>
           ))}
         </div>
