@@ -60,6 +60,7 @@ function App() {
     setIsRegistered(registered);  // Restaura o estado de login do localStorage
   }, []);
 
+  
   return (
     <Router>
       <Routes>

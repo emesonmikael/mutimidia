@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://i.ibb.co/DzvKbBK/AEdw-DAdbs.png" group-title="Canais || Filmes & Séries",A&E FHD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD " tvg-logo="https://i.ibb.co/DzvKbBK/AEdw-DAdbs.png" group-title="Canais || Filmes & Séries",A&E FHD
 http://cdn-br.in:80/978460358/473005646/628397.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD H.265" tvg-logo="https://i.ibb.co/DzvKbBK/AEdw-DAdbs.png" group-title="Canais || Filmes & Séries",A&E FHD H.265
 http://cdn-br.in:80/978460358/473005646/628829.m3u8
