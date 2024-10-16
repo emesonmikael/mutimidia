@@ -1,6 +1,6 @@
 #EXTM3U size="Medium"
 #EXTINF:-1 type="video" tvg-id="Criptofraude (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/5HHMl8k7cugjUUXQYx85eD0A0tf.jpg" description="",Criptofraude (2024)
-http://cdn-br.in/movie/978460358/473005646/1227625.mp4
+https://proxy-server-3nlb.onrender.com/http://cdn-br.in/movie/978460358/473005646/1227625.mp4
 #EXTINF:-1 type="video" tvg-id="Liga da Justica Crise nas Infinitas Terras  Parte 1 - 2024" tvg-logo="" description="",Liga da Justica Crise nas Infinitas Terras  Parte 1 - 2024
 http://cdn-br.in/movie/978460358/473005646/1227636.mp4
 #EXTINF:-1 type="video" tvg-id="Lift: Roubo nas Alturas (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg" description="",Lift: Roubo nas Alturas (2024)
