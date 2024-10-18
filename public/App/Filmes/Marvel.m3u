@@ -1,8 +1,8 @@
 #EXTM3U size="Medium"
 #EXTINF:-1 type="video" tvg-id="Blade 1 - O Cacador de Vampiros - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyivyoXd6zP09tS1PP7b35sB84h.jpg" description="",Blade 1 - O Cacador de Vampiros - 1998
-http://fastcdn.fun/movie/580493864/762284416/406634.mp4
+https://proxy-heroku.onrender.com/proxy/movie/580493864/762284416/206108.mp4
 #EXTINF:-1 type="video" tvg-id="Blade 2 - O Cacador de Vampiros - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVX1jnnqakonSVGL01fg75rCEEk.jpg" description="",Blade 2 - O Cacador de Vampiros - 2002
-http://fastcdn.fun/movie/580493864/762284416/406635.mp4
+https://proxy-heroku.onrender.com/proxy/movie/580493864/762284416/206109.mp4
 #EXTINF:-1 type="video" tvg-id="Blade 3 - Trinity - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f7iXvPOnf83MaLB1JmPzUor1rr.jpg" description="",Blade 3 - Trinity - 2004
 http://fastcdn.fun/movie/580493864/762284416/406636.mp4
 #EXTINF:-1 type="video" tvg-id="Capita Marvel - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3BisLdTMceUWcdP1ooP5VwN9JF.jpg" description="",Capita Marvel - 2019
