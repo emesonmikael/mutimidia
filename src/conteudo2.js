@@ -46,6 +46,7 @@ import App2 from './Series'
 import App3 from './prinipal';
 import MediaPlayer from './components/MediaPlayer';
 import Canais from './canaisf';
+import App4 from './App';
 
 
 function App() {
@@ -65,7 +66,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/FILMES" element={ <PrivateRoute isRegistered={isRegistered}><Home /></PrivateRoute>} />
-        <Route path="/CANAIS" element={ <PrivateRoute isRegistered={isRegistered}>< App/></PrivateRoute>} />
+        <Route path="/CANAIS" element={ <PrivateRoute isRegistered={isRegistered}>< App4/></PrivateRoute>} />
         <Route path="/Series" element={ <PrivateRoute isRegistered={isRegistered}><App2/></PrivateRoute>} />
         <Route path="/" element={<LoginPage onLoginSuccess={handleLoginSuccess} />} />
         {/* Crie rotas dinâmicas baseadas no nome do canal */}
