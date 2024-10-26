@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { BrowserRouter as Router, Route, Routes, useNavigate } from 'react-router-dom';
-import M3UPlayer from './M3UPlayer';
+import M3UPlayer from './Netflix';
 import PlayerPage from './PlayerPage';
 import LoginPage from './LoginPage';
 import PrivateRoute from './PrivateRoute';  // Componente de rota privada
