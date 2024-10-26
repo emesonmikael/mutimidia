@@ -1,8 +1,8 @@
 const channels = [
     {
       name: "A FAZENDA PRINCIP1AL",
-      logo: "",
-      url: "https://proxy-heroku.onrender.com/proxy/978460358/473005646/628508.ts",
+      logo: "https://upload.wikimedia.org/wikipedia/pt/a/a3/A_Fazenda_16.png",
+      url: "http://conexaoiptv.online:80/live/819781819/737257284/219411.m3u8",
       group: "Canais || A Fazenda 16"
     },
     {
