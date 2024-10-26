@@ -2,6 +2,7 @@ import React, { useRef, useEffect, useState } from 'react';
 import Hls from 'hls.js';
 import ChannelSelector from './ChannelSelector';
 import channels from '../data/chanels';
+import ReactPlayer from 'react-player';
 
 const MediaPlayer = () => {
   const videoRef = useRef(null);
@@ -53,9 +54,9 @@ const MediaPlayer = () => {
     <div>
       <h1>TS Media Player com hls.js</h1>
       <ChannelSelector channels={channels} onSelect={handleSelectChannel} />
-      <video ref={videoRef} controls width="600">
+      <ReactPlayer ref={videoRef} controls width="600">
         Seu navegador não suporta a reprodução de vídeos.
-      </video>
+      </ReactPlayer>
     </div>
   );
 };
