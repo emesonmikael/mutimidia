@@ -54,9 +54,9 @@ const MediaPlayer = () => {
     <div>
       <h1>TS Media Player com hls.js</h1>
       <ChannelSelector channels={channels} onSelect={handleSelectChannel} />
-      <ReactPlayer ref={videoRef} controls width="600">
-        Seu navegador não suporta a reprodução de vídeos.
-      </ReactPlayer>
+      <ReactPlayer ref={videoRef} controls width="600"/>
+        
+     
     </div>
   );
 };

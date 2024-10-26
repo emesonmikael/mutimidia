@@ -1,7 +1,7 @@
 import React from "react";
 import M3UPlayer from "./M3UPlayer";
 
-function App() {
+function App4() {
   const m3uUrl = "http://localhost:3000/Marvel.m3u"; // Seu link .m3u
 
   return (
@@ -12,4 +12,4 @@ function App() {
   );
 }
 
-export default App;
+export default App4;
