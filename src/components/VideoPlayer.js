@@ -1,43 +1,52 @@
-
-// src/components/VideoPlayer.js
-import React, { useRef, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
+import ReactPlayer from 'react-player';
 import Hls from 'hls.js';
-import './VideoPlayer.css';
 
-const VideoPlayer = ({ url }) => {
-  const videoRef = useRef(null);
+const VideoPlayer = ({ url, title }) => {
+  const playerRef = useRef(null);
+  const [isPlaying, setIsPlaying] = useState(false);
 
   useEffect(() => {
-    let hls;
-
-    if (url && Hls.isSupported()) {
-      hls = new Hls();
+    if (Hls.isSupported()) {
+      const hls = new Hls();
       hls.loadSource(url);
-      hls.attachMedia(videoRef.current);
-      hls.on(Hls.Events.MANIFEST_PARSED, () => {
-        videoRef.current.play();
-      });
-    } else if (url && videoRef.current.canPlayType('application/vnd.apple.mpegurl')) {
-      videoRef.current.src = url;
-      videoRef.current.addEventListener('loadedmetadata', () => {
-        videoRef.current.play();
+      hls.attachMedia(playerRef.current);
+      hls.on(Hls.Events.MANIFEST_LOADED, () => {
+        setIsPlaying(true);
       });
     }
-
-    return () => {
-      if (hls) {
-        hls.destroy();
-      }
-    };
   }, [url]);
+
+  const handlePlay = () => {
+    setIsPlaying(true);
+  };
+
+  const handlePause = () => {
+    setIsPlaying(false);
+  };
+
+  const config = {
+    file: {
+      forceVideoCodec: 'h264',
+      forceAudioCodec: 'aac',
+    },
+  };
 
   return (
     <div className="video-player">
-      {url ? (
-        <video ref={videoRef} controls width="100%" height="100%" />
-      ) : (
-        <p>Selecione um stream para reproduzir</p>
-      )}
+      <ReactPlayer
+        ref={playerRef}
+        width="100%"
+        height="100%"
+        controls={true}
+        playbackId="video-player"
+        url={url}
+        playing={isPlaying}
+        onPlay={handlePlay}
+        onPause={handlePause}
+        config={config}
+      />
+      {title && <h2>{title}</h2>}
     </div>
   );
 };
