@@ -145,7 +145,7 @@ function App() {
         <Route path="/Terror/player/:channelName" element={<PrivateRoute isRegistered={isRegistered}><PlayerPage /></PrivateRoute>} />
         <Route path="/Terror/player/:channelName" element={<PrivateRoute isRegistered={isRegistered}><PlayerPage /></PrivateRoute>} />
         
-        <Route path="/netfli/player/:channelName" element={<PlayerPage />} />
+        <Route path="/Netflix/player/:channelName" element={<PlayerPage />} />
         <Route path="/Hbo/player/:channelName" element={<PlayerPage />} />
         <Route path="/Globo/player/:channelName" element={<PlayerPage />} />
         <Route path="/DisneyPlus/player/:channelName" element={<PlayerPage />} />
