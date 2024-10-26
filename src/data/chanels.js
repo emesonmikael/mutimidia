@@ -8,7 +8,7 @@ const channels = [
     {
       name: "A FAZENDA 2",
       logo: "",
-      url: "http://186.226.215.132:80/live/carlos123/carlos123/10.m3u8",
+      url: "https://encurtador.com.br/UXt20",
       group: "Canais || A Fazenda 16"
     },
     {
