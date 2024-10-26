@@ -19,7 +19,7 @@ https://tinyurl.com/23vjmwer
 #EXTINF:-1 tvg-id="" tvg-name="BR: A&E HD" tvg-logo="http://the-img.xyz/images/logos/A&E-Network-Logo.png" group-title="FILMES & SÉRIES ",BR: A&E HD
 https://tinyurl.com/22bskb66
 #EXTINF:-1 tvg-id="" tvg-name="BR: A&E SD" tvg-logo="http://the-img.xyz/images/logos/A&E-Network-Logo.png" group-title="FILMES & SÉRIES ",BR: A&E SD
-https://strimer-mutimidia.vercel.app/219411.m3u8
+https://proxy-heroku.onrender.com/proxy/live/819781819/737257284/219411.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BR: A&E UHD" tvg-logo="http://the-img.xyz/images/logos/A&E-Network-Logo.png" group-title="FILMES & SÉRIES ",BR: A&E UHD
 http://conexaoiptv.online:80/live/819781819/737257284/219420.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BR: Agro Canal HD" tvg-logo="https://seeklogo.com/images/A/agro-canal-logo-9080B8B3AF-seeklogo.com.png" group-title="CANAIS ABERTO",BR: Agro Canal HD
