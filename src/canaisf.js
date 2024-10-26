@@ -9,7 +9,7 @@ import axios from 'axios';
 function Canais() {
   const [streams, setStreams] = useState([]);
   const [currentStream, setCurrentStream] = useState('');
-
+ 
   // URL do arquivo M3U
   const m3uUrl = 'https://strimer-mutimidia.vercel.app/listan.m3u'; // Substitua pela URL real do seu arquivo M3U
 
