@@ -20,7 +20,7 @@ const channels = [
     {
       name: "A FAZENDA 4",
       logo: "",
-      url: "http://cdn-br.in:80/869290727/678528786/2586237.m3u8",
+      url: "http://cdn-br.in/978460358/473005646/628519.ts",
       group: "Canais || A Fazenda 16"
     },
     {
