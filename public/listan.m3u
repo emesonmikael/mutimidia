@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24h Arqueiro Verde" tvg-logo="http://the-img.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS 24 HORAS",BR: 24h Arqueiro Verde
+http://conexaoiptv.online:80/live/819781819/737257284/219285.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BR: A Fazenda 16 Cam 01" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a3/A_Fazenda_16.png" group-title="A FAZENDA ",BR: A Fazenda 16 Cam 01
 https://tinyurl.com/22cnuyb5
 #EXTINF:-1 tvg-id="" tvg-name="BR: A Fazenda 16 Cam 02" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a3/A_Fazenda_16.png" group-title="A FAZENDA ",BR: A Fazenda 16 Cam 02
