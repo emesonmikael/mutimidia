@@ -6,7 +6,7 @@ import './index.css'
 
 import reportWebVitals from './reportWebVitals';
 //import conteudo2 from './conteudo2';
-import App from './conteudo2';
+//import App from './conteudo2';
 import App4 from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
