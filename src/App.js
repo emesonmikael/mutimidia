@@ -1,7 +1,7 @@
 import React from "react";
 import M3UPlayer from "./M3UPlayer";
 
-function App4() {
+function App() {
   const m3uUrl = "https://paineliptvbr.ddns.net/get.php?username=220789&password=989122&type=m3u_plus&output=m3u8"; // Seu link .m3u
 
   return (
@@ -12,4 +12,4 @@ function App4() {
   );
 }
 
-export default App4;
+export default App;
