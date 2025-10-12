@@ -1,10 +1,10 @@
-#EXTM3U size="Big"
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",CANAIS
-#EXTBG:https://i.imgur.com/JCcgEeo.png
-https://strimer-mutimidia.vercel.app/App/playlist.m3u
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES
-#EXTBG:https://i.imgur.com/vnPmfhz.png
-https://strimer-mutimidia.vercel.app/App/Filmes/listaFilmes.m3u
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series
-#EXTBG:https://i.imgur.com/vJD9S1U.png
-https://strimer-mutimidia.vercel.app/App/series.m3u
+#EXTM3U 
+#EXTINF:-1 type="playlist" tvg-logo="https://paineliptvbr.ddns.net/Img/transparente.png" size="Big", TV AO VIVO
+#EXTBG:https://paineliptvbr.ddns.net/assets/img/tv.png
+https://paineliptvbr.ddns.net/ssiptv.php?username=136874&password=461145&category=live&output=mpegts
+#EXTINF:-1 type="playlist" tvg-logo="https://paineliptvbr.ddns.net/Img/transparente.png" size="Big", FILMES
+#EXTBG:https://paineliptvbr.ddns.net/assets/img/filmes.png
+https://paineliptvbr.ddns.net/ssiptv.php?username=136874&password=461145&category=vod
+#EXTINF:-1 type="playlist" tvg-logo="https://paineliptvbr.ddns.net/Img/transparente.png" size="Big", SERIES
+#EXTBG:https://paineliptvbr.ddns.net/assets/img/series.png
+https://paineliptvbr.ddns.net/ssiptv.php?username=136874&password=461145&category=series
