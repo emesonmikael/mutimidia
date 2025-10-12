@@ -2,5 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10:00
 #EXTINF:10.0,
-http://cdn-br.in:80/get.php?username=869290727&password=678528786&type=m3u_plus&output=hls
+http://paineliptvbr.ddns.net/get.php?username=136874&password=461145&type=m3u_plus&output=ts
 #EXT-X-ENDLIST
