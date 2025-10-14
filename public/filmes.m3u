@@ -1,148 +1,211 @@
-#EXTM3U size="Medium"
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",VER TUDO
-#EXTBG: #11609e
-https://strimer-mutimidia.vercel.app/Globoplaylista.m3u
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Lancamentos 2024
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/87
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Lançamentos 2023
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/43
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Lançamentos 2022
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/44
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Marvel
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/53
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Guerra
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/52
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Terror
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/55
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Faroeste
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/50
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Fantasia e Ficção
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/51
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Drama
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/49
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Comédia
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/48
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Animes
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/47
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Animação / Infantil
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/46
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Ação
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/45
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Nacionais
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/54
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Romance
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/56
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Suspense
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/58
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Documentarios
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/60
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Religiosos
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/57
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Netflix
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/63
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Cinema
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/59
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Apple TV
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/65
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Amazon Prime Video
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/62
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | HBO Max
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/74
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Globoplay
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/70
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Star Plus
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/71
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Disney Plus
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/66
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Legendados
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/61
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Paramount Plus
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/67
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Max
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/64
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Brega & Arrocha
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/94
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Reserva Imovision
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/79
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Claro video
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/78
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Google Play Movies
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/77
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | MGM Channel
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/76
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Oldflix
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/75
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Diversos
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/73
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | NOW
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/72
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Vudu
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/80
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | AMC on Demand
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/81
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Paramount Plus Apple TV Channel
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/82
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",DIVERSOS
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/92
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Univer Video
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/85
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",LOUVORES E PREGAÇAO
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/91
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes antigos
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/90
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Netflix basic with Ads
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/86
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Oi Play
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/84
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Looke
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/68
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Filmicca
-#EXTBG: #11609e
-http://e.fastcdn.fun/ssiptv/580493864/762284416/films/83
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmlg5d0oF2Ehe19Cz83oEMKhM6e.jpg" size="Medium",A Lenda de Hei (2019)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26648
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jWaFLQAjdlVKoMpTHIidwYVDWO.jpg" size="Medium",Attack on Titan - Parte 1: O Arco e Flecha Escarlate (2014)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26645
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7g3VGHNx4vDis7H0MMN0yWpu9C.jpg" size="Medium",Attack on Titan - Parte 2: Asas da Liberadade (2015)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26641
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8AjCxD9Sg6OAXOAMfNVWnxhYaKE.jpg" size="Medium",Beyond the Boundary: I'll Be Here – Future (2015)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26626
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/az9l2WrzS79Ga6v6zK9TBsgeaWf.jpg" size="Medium",Beyond the Boundary: I'll Be Here – Past (2015)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26625
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/793WvrgqnX6Xvz7XNAXmKGLVfiC.jpg" size="Médio",Dead Leaves (2004)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26610
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pq6ZyGaIXDqtEm4V3ums2HtkAx0.jpg" size="Medium",Dead Space: A Queda (2008)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26590
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giJnisBQfE1LqfOdWZojDc2lh8c.jpg" size="Medium",Dragon Ball GT: O Legado de um Herói (1997)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26596
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uReEyxkxzqS4Dq9vty5z47x8W4c.jpg" size="Medium",Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram (2020)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26597
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyARHtLBQ5Dl4Xzlpnr5Ukg3NHy.jpg" size="Medium",Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram (2021)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26598
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zl5FVazKRea1wZW35FxNdqC1OBj.jpg" size="Medium",Fate/kaleid liner Prisma☆Illya Filme: Licht - Namae no Nai Shoujo (2021)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26607
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ldgWVSZJO5QUzAXNZAPd0C18uF.jpg" size="Medium",Ghost in the Shell Arise: Limite 1 - Dor Fantasma (2013)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26600
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VQm3iJZzNDNY7eEbZcmgy4b7gT.jpg" size="Medium",Ghost in the Shell Arise: Limite 3 - Lágrimas Fantasmas (2014)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26601
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dK4u5JA3r6BjLsPbNaUChNeORG.jpg" size="Medium",Ghost in the Shell Arise: Limite 4 - Fantasma Solitário (2014)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26602
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZgikgvgQfzSIop2oQvwuLlHRP2.jpg" size="Medium",Ghost in the Shell: SAC_2045 – Guerra Sustentável (2021)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26599
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SmJg1CYpZ2EWrHQj0b4cfqGLEm.jpg" size="Médio",Grisaia Phantom Trigger The Animation 02 (2019)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26604
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cAjzkKCRDJCkSyZ1aIEItvZg0x.jpg" size="Médio",Grisaia: Phantom Trigger The Animation - Stargazer (2020)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26605
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEtlPrsyC2Ge3EYKvSXxyAouCzT.jpg" size="Médio",Grisaia: Phantom Trigger The Animation (2019)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26603
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t37cFbjqWzcteiA3XrkNOUswPLa.jpg" size="Medium",KonoSuba: Bênçãos de Deus neste mundo maravilhoso! - Legend of Crimson (2019)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26624
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCSmSLqJb2AmqS2ZQcGYB9WL7g5.jpg" size="Médio",Laid-Back Camp, o Filme (2022)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26618
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Y4tUabjr4uftipKKwu6wOQQBOU.jpg" size="Medium",Lu Está Livre (2017)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26606
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Dieffz25nblkyPR69VGf1kW6OP.jpg" size="Médio",Lupin III vs Detetive Conan (2009)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26616
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qyz4PYri2cXjAmhfmOFZ5laM6q.jpg" size="Medium",Lupin III: Adeus a Nostradamus (1995)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26617
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljUAzMUhEVf2qXKgCBm61WJmV0J.jpg" size="Medium",Lupin III: O Castelo de Cagliostro (1979)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26614
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMLbX1RdVGDyJn9eraKa7HzaaEj.jpg" size="Medium",Lupin III: O Segredo de Mamo (1978)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26613
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acq0pRmtavYypBCoa23rQDOnj4U.jpg" size="Medium",Made in Abyss: Amanhecer da Jornada (2019)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26615
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hX6tJnwtzyAshnqcYlEpDKH9BFK.jpg" size="Medium",Made in Abyss: Crepúsculo Errante (2019)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26612
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdLQI40RZC8aQ9cbRhBdprcsHYx.jpg" size="Medium",Made in Abyss: O Amanhecer de uma Alma Profunda (2020)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26611
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5ejDbXACc0XRNOjTNrozAZbh9s.jpg" size="Médio",Mobile Suit Gundam: Cucuruz Doan's Island (2022)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26651
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVxwJGCJmbeL9d6C85IhNbAq4TT.jpg" size="Medium",Naruto Shippuden O Filme: Laços (2008)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26591
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wwVFqDULo63dxQGp4jOKzClIGt.jpg" size="Medium",Naruto: Guardiões do Reino da Lua Crescente (2006)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26647
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNG8IwOovhq8n9iBMOcxT2c2gc9.jpg" size="Medium",Naruto: O Confronto Ninja no País da Neve (2004)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26649
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3k0DNqis7s18vEOtSwagJIkDXP.jpg" size="Medium",Ni no Kuni (2019)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26592
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FYByiEtOy1NGzJPTrzWFUO6Q7a.jpg" size="Medium",Non Non Biyori: Férias (2018)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26608
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxA7j9wGNQCNyJcWjX43k5EC2WC.jpg" size="Médio",One Piece 3D: Perseguição do Chapéu de Palha (2011)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26633
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzfx38ZrDuIOzQiloy2ewOkA3hd.jpg" tamanho="Médio",One Piece 3D2Y (2014)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26635
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdu9XJSHT835OoChOiwEgi9Uzjf.jpg" size="Medium",One Piece: Aventura em Nebulândia (2015)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26639
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdxzlbMwNCxtxkVa7UiaNkId2TM.jpg" size="Médio",One Piece: Aventura Mortal! (2003)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26629
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCQSqo3eZGCvpViSrirfk6EU865.jpg" size="Medium",One Piece: Aventura na Ilha Nejimaki (2001)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26628
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yB29qd0zjQJE42u6iUKufxMVUk.jpg" size="Médio",One Piece: Barão Omatsuri e a Ilha Secreta (2005)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26630
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72TeAMgRWM0VLvBrrQTwjQ3RfOC.jpg" size="Medium",One Piece: Coração de Ouro (2016)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26636
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpPCv8rO4DjeUkdh6CQGc7ws2pD.jpg" size="Medium",One Piece: Flor do Inverno, Milagre da Cerejeira (2008)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26638
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ed1n7FBP6jUKxSguwQ89euSMGP.jpg" size="Medium",One Piece: O Grande Pirata do Ouro! (2000)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26627
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUMaaYH3Dr7B79XlrMsB8W1nxki.jpg" size="Medium",One Piece: O Reino de Chopper na Ilha dos Estranhos Animais! (2002)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26631
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5gbvY5DFAxah8l0JalpmV2qLcM.jpg" size="Médio",One Piece: A Maldição da Espada Sagrada (2004)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26632
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8x92ekqR0bR9qBIJLpr7xX7yCBi.jpg" size="Medium",One Piece: O Soldado Mecânico Gigante do Castelo de Karakuri (2006)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26634
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guzIZgMMUp11qDA22clAdVXRids.jpg" size="Médio",One Piece: Z (2012)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26637
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6uP4mK2smW7A6xTRMzq15n91je.jpg" size="Medium",Overlord: O Herói Sombrio (2017)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26643
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSPeMmbpIRT5MfPMGdU6qzvb9jW.jpg" size="Medium",Overlord: O Rei Zumbi (2017)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26642
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4ObwxHjvcKanJxcURTUCm6LHte.jpg" size="Medium",Psycho-Pass: Pecadores do Sistema Caso 1 - Crime e Castigo (2019)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26619
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayZlU1nwX2dZLEE2oP8kMcO488T.jpg" size="Medium",Psycho-Pass: Pecadores do Sistema Caso 2 - Primeiro Guardião (2019)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26621
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRGPjdG1E3REGrzuul3EClZGs7r.jpg" size="Medium",Psycho-Pass: Pecadores do Sistema Caso 3 - No Reino Além é ____ (2019)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26620
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vuQngrdp2osdMXw8pBawJfF4Xg.jpg" size="Medium",Saga of Tanya the Evil: O Filme (2019)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26623
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dH1GfhaaBCftL7CenrIG2OjsLxX.jpg" size="Médio",Fantasma de Verão (2021)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26609
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Alntdcf829Cv115No44KOJb23IA.jpg" size="Médio",Sword Art Online: Escala Ordinal (2017)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26650
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDQma4vDs3kxhUagIAKF8r2DBDF.jpg" size="Médio",Teasing Master Takagi-san: O Filme (2022)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26622
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eavLreQ7EX4vdcSzePPab6vfh06.jpg" size="Medium",Os Sete Pecados Capitais: Amaldiçoados pela Luz (2021)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26175
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZ4vRNIlXwXwEJTsHgy6j29DCU4.jpg" size="Médio",Tiger & Bunny Movie 1: O Início (2012)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26644
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gem98F4dwAtcLvn755J4utAywtB.jpg" size="Médio",Tiger & Bunny Movie 2: The Rising (2014)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26646
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNFuoyJm5X0LTfLZN4VRFwBmabd.jpg" size="Medium",Towa no Quon 1: Utakata no Kaben (2011)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26496
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cY5ai039frqz0DPwqQTVSS0dpzr.jpg" size="Medium",Towa no Quon 2: Konton no Ranbu (2011)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26497
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQD17uFZM553NJVcgKi2hzzsQQM.jpg" size="Medium",Towa no Quon 3: Mugen no Renza (2011)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26498
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnmrkybkVZlwjg4C3ywLWFPDm9O.jpg" size="Médio",Towa no Quon 4: Guren no Shoushin (2011)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26499
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szlbYHdcuz5TFAqi0BTZ0T0Yr3m.jpg" size="Medium",Towa no Quon 5: Souzetsu no Raifuku (2011)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26500
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSrwZ8JRSvcThrntlpvbREkS1ql.jpg" size="Medium",Towa no Quon 6: Towa no Quon (2011)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26501
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKDyPxWpZQ05Gg4ZiG2Tsr7eAEY.jpg" size="Medium",Yamada-kun para 7-nin no Majo (OVA) (2014)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26595
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nR45zZ56r7tDA3Mb1DlxMQO9xug.jpg" size="Medium",Yu Yu Hakusho: Invasores do Inferno (1994)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26593
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrOts4zqd0B8i1Gt6IasYtTMQZb.jpg" size="Médio",Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26594
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiLSarzGTF2r5XEIvn1lLtlOahq.jpg" size="Medium",劇場版 BLEACH 地獄篇 (2010)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26589
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3Ip5rdy3P3NLnJewCQ3yEsrpsZ.jpg" size="Medium",宇宙戦艦ヤマト2199 追憶の航海(2014)
+#EXTBG:
+http://paineliptvbr.ddns.net/movie/220789/989122/26640
