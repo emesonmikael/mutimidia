@@ -2,11 +2,11 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.killer.4.0.8"
 #EXTINF:-1 tvg-id="" tvg-name="BR: 1| Agenda Esportiva Diária" tvg-logo="https://www.agendaesportiva.com.br/lib/img/portal/logo/6/header-alt.png" group-title="CANAIS | PROGRAMAÇÃO ESPORTIVA", BR: 1| Agenda Esportiva Diária
-http://paineliptvbr.ddns.net/live/220789/989122/2449.ts
+https://proxy-server-eight-omega.vercel.app/proxy/live/220789/989122/2449.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: 1| Jogos do Dia Futebol" tvg-logo="https://images.vexels.com/media/users/3/320306/isolated/preview/01adb8fcdea1009c64532efad2fa3c10-logotipo-simbolico-do-futebol-da-copa-do-mundo.png" group-title="CANAIS | PROGRAMAÇÃO ESPORTIVA", BR: 1| Jogos do Dia Futebol
-http://paineliptvbr.ddns.net/live/220789/989122/2450.ts
+https://proxy-server-eight-omega.vercel.app/proxy/live/220789/989122/2450.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: 1| Lutas UFC" tvg-logo="https://od.lk/s/NDVfNTEyMzk0MzJf/ESPORTES.png" group-title="CANAIS | PROGRAMAÇÃO ESPORTIVA", BR: 1| Lutas UFC
-http://paineliptvbr.ddns.net/live/220789/989122/2451.ts
+https://proxy-server-eight-omega.vercel.app/proxy/live/220789/989122/2451.ts
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 01" tvg-logo="https://imgx.com.br/uploads/img_68c8b44b15eed5.69927482.jpg" group-title="CANAIS | A FAZENDA 2025", A FAZENDA 17 CAM 01
 http://paineliptvbr.ddns.net/live/220789/989122/18.ts
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 02" tvg-logo="https://imgx.com.br/uploads/img_68c8b44b15eed5.69927482.jpg" group-title="CANAIS | A FAZENDA 2025", A FAZENDA 17 CAM 02
